@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 from datetime import datetime
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
 import requests
 
 def main():
@@ -18,9 +18,10 @@ def main():
     response = requests.get("https://tockify.com/api/ngevent?calname=stagiune&startms=1725224400000").json()
     events = response['events']
     metadata = response['metaData']
-    for event in events[:]:
+    for event in events[::2]:
         event_id = event['eid']
         event_url = get_event_url(event_id)
+        print(event_url)
         event_response = requests.get(event_url).json()
         event_data = event_response['events'][0]
         when = event_data['when']
@@ -32,10 +33,19 @@ def main():
         summary = content['summary']['text']
         description = content['description']['text'].replace("><p", ">\n\t<p")
         event_details = extract_event_details(description)
-        # TODO: parse description and extract event details
-        #       (orchestra, conductor, soloists, works).
-        print(f"""{summary} - {event_url}\n\t{event_details}\n\n\t{event_start} - {event_end}\n""")
-    print(metadata)
+
+        #print_event(event_details)
+
+def print_event(event_details):
+    print(f"{event_details.orchestra}")
+    if event_details.subtitle is not None:
+        print(f"\t{event_details.subtitle}")
+    print(f"\t{event_details.conductor}")
+    if len(event_details.soloists) > 0:
+        print("\tSoloists:")
+        for soloist in event_details.soloists:
+            print(f"\t\t{soloist}")
+    print()
 
 def get_event_url(event_id):
     uid = event_id['uid']
@@ -64,21 +74,57 @@ class EventDetails:
 
 def extract_event_details(description) -> EventDetails:
     parsed_description = BeautifulSoup(description, 'html.parser')
-    ps = parsed_description.find_all('p')
-    subtitle = extract_subtitle(ps[0])
-    orchestra = extract_orchestra(ps) if subtitle is None else extract_orchestra(ps[1:])
-    return EventDetails(subtitle, orchestra, "", [], [])
+    tags = [x for x in parsed_description.contents if type(x) is Tag and x.text.strip() != ""]
+    for tag in tags:
+        print(f">>>{tag.text.strip()}<<<")
+    print()
+    #return
+    subtitle = extract_subtitle(tags[0])
+    orchestra_index = 0 if subtitle is None else 1
+    orchestra = extract_orchestra(tags[orchestra_index])
+    conductor_index = orchestra_index + 1
+    (conductor, is_soloist) = extract_conductor(tags[conductor_index])
+    soloists = [Soloist(conductor, None)] if is_soloist else []
+    # TODO: extract rest of soloists and works
+    # problems:
+    # - some entries use <div> instead of <p>
+    # - https://tockify.com/api/ngevent/731-0-1740675600000-0?calname=stagiune
+    #   (everything is wrapped in two <div>s)
+    # - https://tockify.com/api/ngevent/709-0-1733418000000-0?calname=stagiune
+    #   (has no "Program" line)
+    # - https://tockify.com/api/ngevent/715-0-1735923600000-0?calname=stagiune
+    #   (has "În program, lucrări de"...)
+    # - https://tockify.com/api/ngevent/727-0-1739466000000-0?calname=stagiune
+    #   (has soloists each on their own line)
+    #   (has "Dirijorul corului" at the end)
+    # - https://tockify.com/api/ngevent/751-0-1746720000000-0?calname=stagiune
+    #   (each work has its own soloists)
+    soloist_index = conductor_index + 1
+    print(tags[soloist_index])
+    if soloist_index + 1 < len(tags):
+        print(tags[soloist_index + 1])
+    else:
+        print("Fewer rows than expected:")
+        print(parsed_description)
+    print()
+    return EventDetails(subtitle, orchestra, conductor, soloists, [])
 
 def extract_subtitle(p):
     if p.em is not None:
         return p.em.text
     return None
 
-def extract_orchestra(ps):
-    for p in ps:
-        if p.strong is not None:
-            return p.strong.text
-    return "Unknown Orchestra"
+def extract_orchestra(p):
+    return p.strong.text
+
+def extract_conductor(p):
+    conductor_name = p.strong.text.strip()
+    if (p.text.startswith("Dirijor și solist")):
+        return (conductor_name, True)
+    if (p.text.startswith("Dirijor")):
+        return (conductor_name, False)
+    print(f"Unexpected conductor format: {p}")
+    return (conductor_name, False)
 
 if __name__ == "__main__":
     main()
