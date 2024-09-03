@@ -1,3 +1,4 @@
+from datetime import datetime
 import requests
 
 def main():
@@ -15,11 +16,22 @@ def main():
     response = requests.get("https://tockify.com/api/ngevent?calname=stagiune&startms=1725224400000").json()
     events = response['events']
     metadata = response['metaData']
-    for event in events:
+    for event in events[:4]:
         event_id = event['eid']
         event_url = get_event_url(event_id)
-        print(event_url)
-        # Get event details and extract start time, summary and description. Maybe also image.
+        event_response = requests.get(event_url).json()
+        event_details = event_response['events'][0]
+        when = event_details['when']
+        event_start_millis = when['start']['millis']
+        event_end_millis = when['end']['millis']
+        event_start = datetime.fromtimestamp(event_start_millis / 1000)
+        event_end = datetime.fromtimestamp(event_end_millis / 1000)
+        content = event_details['content']
+        summary = content['summary']['text']
+        description = content['description']['text'].replace("><p", ">\n\t<p")
+        # TODO: parse description and extract event details
+        #       (orchestra, conductor, soloists, works).
+        print(f"""{summary}\n\t{description}\n\n\t{event_start} - {event_end}\n""")
     print(metadata)
 
 def get_event_url(event_id):
@@ -29,6 +41,8 @@ def get_event_url(event_id):
     rid = event_id['rid']
     return f"https://tockify.com/api/ngevent/{uid}-{seq}-{tid}-{rid}?calname=stagiune"
 
+def extract_event_details(summary):
+    pass
 
 if __name__ == "__main__":
     main()
