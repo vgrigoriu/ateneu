@@ -34,7 +34,7 @@ def main():
         event_end = datetime.fromtimestamp(event_end_millis / 1000)
         content = event_data["content"]
         summary = content["summary"]["text"]
-        description = content["description"]["text"]#.replace("><p", ">\n\t<p")
+        description = content["description"]["text"]  # .replace("><p", ">\n\t<p")
         event_details = extract_event_details(description)
 
         # print_event(event_details)
