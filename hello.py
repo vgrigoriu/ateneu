@@ -34,7 +34,7 @@ def main():
         event_end = datetime.fromtimestamp(event_end_millis / 1000)
         content = event_data["content"]
         summary = content["summary"]["text"]
-        description = content["description"]["text"].replace("><p", ">\n\t<p")
+        description = content["description"]["text"]#.replace("><p", ">\n\t<p")
         event_details = extract_event_details(description)
 
         # print_event(event_details)
@@ -82,13 +82,13 @@ class EventDetails:
 
 
 def extract_event_details(description) -> EventDetails:
+    print(description)
+    print()
+    return
     parsed_description = BeautifulSoup(description, "html.parser")
     for element in parsed_description.contents:
         if type(element) is Tag:
             print(element)
-    print()
-    # print(parsed_description.prettify())
-    return
     tags = [
         x
         for x in parsed_description.contents
@@ -158,16 +158,18 @@ def normalize(description):
 
 
 def normalize_tag(tag):
-    # remove empty spans
+    # replace all divs with p
+    if tag.name == "div":
+        tag.name = "p"
+    for div in tag.find_all("div"):
+        div.name = "p"
+    # remove spans
     for span in tag.find_all("span"):
         if span.text.strip() == "":
             span.extract()
-    # replace div with p
-    if tag.name == "div":
-        tag.name = "p"
-    # remove spans
-    for span in tag.find_all("span"):
-        span.unwrap()
+        else:
+            span.unwrap()
+    # TODO: unwrap <p><p><p> and return more than one tag
     return tag
 
 
