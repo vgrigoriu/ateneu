@@ -3,6 +3,7 @@ from datetime import datetime
 from bs4 import BeautifulSoup, Tag
 import requests
 
+
 def main():
     # start url is https://tockify.com/api/ngevent?calname=stagiune&startms=1725224400000
     # returns a list of events + metadata
@@ -15,26 +16,29 @@ def main():
     # }
     # use the event id to get the event details url:
     # event url is https://tockify.com/api/ngevent/766-0-1751040000000-0?calname=stagiune
-    response = requests.get("https://tockify.com/api/ngevent?calname=stagiune&startms=1725224400000").json()
-    events = response['events']
-    metadata = response['metaData']
+    response = requests.get(
+        "https://tockify.com/api/ngevent?calname=stagiune&startms=1725224400000"
+    ).json()
+    events = response["events"]
+    metadata = response["metaData"]
     for event in events[::2]:
-        event_id = event['eid']
+        event_id = event["eid"]
         event_url = get_event_url(event_id)
         print(event_url)
         event_response = requests.get(event_url).json()
-        event_data = event_response['events'][0]
-        when = event_data['when']
-        event_start_millis = when['start']['millis']
-        event_end_millis = when['end']['millis']
+        event_data = event_response["events"][0]
+        when = event_data["when"]
+        event_start_millis = when["start"]["millis"]
+        event_end_millis = when["end"]["millis"]
         event_start = datetime.fromtimestamp(event_start_millis / 1000)
         event_end = datetime.fromtimestamp(event_end_millis / 1000)
-        content = event_data['content']
-        summary = content['summary']['text']
-        description = content['description']['text'].replace("><p", ">\n\t<p")
+        content = event_data["content"]
+        summary = content["summary"]["text"]
+        description = content["description"]["text"].replace("><p", ">\n\t<p")
         event_details = extract_event_details(description)
 
-        #print_event(event_details)
+        # print_event(event_details)
+
 
 def print_event(event_details):
     print(f"{event_details.orchestra}")
@@ -47,22 +51,26 @@ def print_event(event_details):
             print(f"\t\t{soloist}")
     print()
 
+
 def get_event_url(event_id):
-    uid = event_id['uid']
-    seq = event_id['seq']
-    tid = event_id['tid']
-    rid = event_id['rid']
+    uid = event_id["uid"]
+    seq = event_id["seq"]
+    tid = event_id["tid"]
+    rid = event_id["rid"]
     return f"https://tockify.com/api/ngevent/{uid}-{seq}-{tid}-{rid}?calname=stagiune"
+
 
 @dataclass(frozen=True)
 class Soloist:
     name: str
-    instrument: str|None
+    instrument: str | None
+
 
 @dataclass(frozen=True)
 class Work:
     composer: str
     title: str
+
 
 @dataclass(frozen=True)
 class EventDetails:
@@ -72,13 +80,24 @@ class EventDetails:
     soloists: list[Soloist]
     works: list[Work]
 
+
 def extract_event_details(description) -> EventDetails:
-    parsed_description = BeautifulSoup(description, 'html.parser')
-    tags = [x for x in parsed_description.contents if type(x) is Tag and x.text.strip() != ""]
+    parsed_description = BeautifulSoup(description, "html.parser")
+    for element in parsed_description.contents:
+        if type(element) is Tag:
+            print(element)
+    print()
+    # print(parsed_description.prettify())
+    return
+    tags = [
+        x
+        for x in parsed_description.contents
+        if type(x) is Tag and x.text.strip() != ""
+    ]
     for tag in tags:
         print(f">>>{tag.text.strip()}<<<")
     print()
-    #return
+    # return
     subtitle = extract_subtitle(tags[0])
     orchestra_index = 0 if subtitle is None else 1
     orchestra = extract_orchestra(tags[orchestra_index])
@@ -109,22 +128,42 @@ def extract_event_details(description) -> EventDetails:
     print()
     return EventDetails(subtitle, orchestra, conductor, soloists, [])
 
+
 def extract_subtitle(p):
     if p.em is not None:
         return p.em.text
     return None
 
+
 def extract_orchestra(p):
     return p.strong.text
 
+
 def extract_conductor(p):
     conductor_name = p.strong.text.strip()
-    if (p.text.startswith("Dirijor și solist")):
+    if p.text.startswith("Dirijor și solist"):
         return (conductor_name, True)
-    if (p.text.startswith("Dirijor")):
+    if p.text.startswith("Dirijor"):
         return (conductor_name, False)
     print(f"Unexpected conductor format: {p}")
     return (conductor_name, False)
+
+
+def normalize(description):
+    return [
+        normalize_tag(element)
+        for element in BeautifulSoup(description, "html.parser").contents
+        if type(element) is Tag and element.text.strip() != ""
+    ]
+
+
+def normalize_tag(tag):
+    # remove empty spans
+    for span in tag.find_all("span"):
+        if span.text.strip() == "":
+            span.extract()
+    return tag
+
 
 if __name__ == "__main__":
     main()
