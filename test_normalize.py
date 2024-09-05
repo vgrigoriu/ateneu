@@ -93,3 +93,27 @@ def test_normalize_event_697_description():
         "<p>Dirijorul corului<br/><strong>IOSIF ION PRUNNER</strong></p>",
     ]
     assert actual == expected
+
+def test_normalize_event_729_description():
+    response = normalize("""<p><strong>Orchestra Filarmonicii George Enescu</strong></p>
+<p>Dirijor <br/><strong>ROBERTO FORÉS-VESES</strong></p>
+<p>Solist <br/><strong>ALEXANDRE THARAUD </strong></p>
+<div>Program</div>
+<div></div>
+<div><strong>Joseph Haydn</strong><br/>Simfonia nr. 85, în si bemol major, “Regina”</div>
+<div></div>
+<div><span><strong>Ludwig van Beethoven<br/></strong>Concertul nr. 3, în do minor, pentru pian și orchestră, op. 37 </span></div>
+<div><span></span></div>
+<div><span><strong>Robert Schumann<br/></strong>Simfonia nr. 4, în re minor, op. 120 </span></div>
+""")
+    actual = [str(element) for element in response]
+    expected = [
+        '<p><strong>Orchestra Filarmonicii George Enescu</strong></p>',
+        '<p>Dirijor <br/><strong>ROBERTO FORÉS-VESES</strong></p>',
+        '<p>Solist <br/><strong>ALEXANDRE THARAUD </strong></p>',
+        '<p>Program</p>',
+        '<p><strong>Joseph Haydn</strong><br/>Simfonia nr. 85, în si bemol major, “Regina”</p>',
+        '<p><strong>Ludwig van Beethoven<br/></strong>Concertul nr. 3, în do minor, pentru pian și orchestră, op. 37 </p>',
+        '<p><strong>Robert Schumann<br/></strong>Simfonia nr. 4, în re minor, op. 120 </p>',
+    ]
+    assert actual == expected

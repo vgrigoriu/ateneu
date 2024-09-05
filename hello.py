@@ -162,6 +162,12 @@ def normalize_tag(tag):
     for span in tag.find_all("span"):
         if span.text.strip() == "":
             span.extract()
+    # replace div with p
+    if tag.name == "div":
+        tag.name = "p"
+    # remove spans
+    for span in tag.find_all("span"):
+        span.unwrap()
     return tag
 
 
