@@ -11,7 +11,7 @@ def main():
     ).json()
     events = response["events"]
     parsed_events = [
-        get_and_parse_event(get_event_url(event["eid"])) for event in events
+        get_and_parse_event(event["eid"]) for event in events
     ]
     parsed_events.sort(key=lambda event: event.start)
 
@@ -20,7 +20,7 @@ def main():
     )
     print("<h1>Stagiunea Filarmonicii George Enescu</h1>")
     for event in parsed_events:
-        print(f"<h2>{event.title}</h2>")
+        print(f"<h2><a href='{event.url}'>{event.title}</a></h2>")
         # TODO: print start time for humans (including day of week)
         print(f"<p>{event.start} - {event.end}</p>")
         print(f"{event.details}")
@@ -28,7 +28,9 @@ def main():
     print("</body></html>")
 
 
-def get_and_parse_event(event_url):
+def get_and_parse_event(event_id):
+    event_url = get_event_url(event_id)
+    human_event_url = get_human_event_url(event_id)
     event_response = requests.get(event_url).json()
     event_data = event_response["events"][0]
     when = event_data["when"]
@@ -40,7 +42,7 @@ def get_and_parse_event(event_url):
     summary = content["summary"]["text"]
     description = content["description"]["text"]
 
-    return Event(event_start, event_end, summary, description)
+    return Event(human_event_url, event_start, event_end, summary, description)
 
 
 def get_event_url(event_id):
@@ -50,9 +52,12 @@ def get_event_url(event_id):
     rid = event_id["rid"]
     return f"https://tockify.com/api/ngevent/{uid}-{seq}-{tid}-{rid}?calname=stagiune"
 
+def get_human_event_url(event_id):
+    return f"https://tockify.com/stagiune/detail/{event_id["uid"]}/{event_id["tid"]}"
 
 @dataclass(frozen=True)
 class Event:
+    url: str
     start: datetime
     end: datetime
     title: str
