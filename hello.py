@@ -11,7 +11,7 @@ def main():
     ).json()
     events = response["events"]
     parsed_events = [
-        get_and_parse_event(get_event_url(event["eid"])) for event in events[::2]
+        get_and_parse_event(get_event_url(event["eid"])) for event in events
     ]
     parsed_events.sort(key=lambda event: event.start)
 
@@ -59,6 +59,7 @@ class Event:
     details: str
 
 
+# unused, kept for historical interest
 def normalize(description):
     return [
         normalized_tag
