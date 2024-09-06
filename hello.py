@@ -1,10 +1,13 @@
 from dataclasses import dataclass
 from datetime import datetime
+import locale
 from bs4 import BeautifulSoup, Tag
 import requests
 
 
 def main():
+    locale.setlocale(locale.LC_ALL, "ro_RO.UTF-8")
+
     # change startms for the current season
     response = requests.get(
         "https://tockify.com/api/ngevent?calname=stagiune&startms=1725224400000"
@@ -13,6 +16,7 @@ def main():
     parsed_events = [
         get_and_parse_event(event["eid"]) for event in events
     ]
+    # TODO: group events with the same title and details
     parsed_events.sort(key=lambda event: event.start)
 
     print(
@@ -22,7 +26,7 @@ def main():
     for event in parsed_events:
         print(f"<h2><a href='{event.url}'>{event.title}</a></h2>")
         # TODO: print start time for humans (including day of week)
-        print(f"<p>{event.start} - {event.end}</p>")
+        print(f"<p>{event.start.strftime("%A, %d %B %Y, %H:%M")}</p>")
         print(f"{event.details}")
 
     print("</body></html>")
