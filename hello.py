@@ -10,10 +10,14 @@ def main():
         "https://tockify.com/api/ngevent?calname=stagiune&startms=1725224400000"
     ).json()
     events = response["events"]
-    parsed_events = [get_and_parse_event(get_event_url(event["eid"])) for event in events[::2]]
+    parsed_events = [
+        get_and_parse_event(get_event_url(event["eid"])) for event in events[::2]
+    ]
     parsed_events.sort(key=lambda event: event.start)
 
-    print("<html><head><meta charset='utf-8'><title>Stagiunea Filarmonicii George Enescu</title></head><body>")
+    print(
+        "<html><head><meta charset='utf-8'><title>Stagiunea Filarmonicii George Enescu</title></head><body>"
+    )
     print("<h1>Stagiunea Filarmonicii George Enescu</h1>")
     for event in parsed_events:
         print(f"<h2>{event.title}</h2>")
