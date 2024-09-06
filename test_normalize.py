@@ -104,3 +104,30 @@ def test_normalize_event_731_description():
         "<p><strong>Antonin Dvorak</strong><br/>Simfonia nr. 9, în mi minor, “Din lumea nouă”, op. 95</p>",
     ]
     assert actual == expected
+
+def test_normalize_event_767_description():
+    response = normalize("<p><tkfmedia data-tkf-mediatype=\"image\" data-tkf-id=\"66d9a08c29c82220e82d4555\" data-tkf-style=\"align:left;width:256px\" data-tkf-featured=\"true\"></tkfmedia></p><p><strong>Moștenitorii Rom&acirc;niei muzicale</strong> - un proiect Radio Rom&acirc;nia Muzical și Rotary Club Pipera</p><p>Recital extraordinar de chitară</p><p><strong>DRAGOȘ ILIE</strong></p><p>Program</p><p><strong>B&eacute;la Bart&oacute;k</strong></p><p>Sonatina (ar. Kanengiser)</p><p><strong>George Enescu</strong></p><p>Lăutarul, din Suita Impresii din copilărie (trans. Ilie)</p><p><strong>Wenzeslaus Thomas </strong><strong>Matiegka</strong></p><p>Grande Sonate nr. 1</p><p>Sonata &icirc;n si minor, op. 23 (după Haydn)</p><p><strong>Tōru Takemitsu</strong></p><p>Equinox</p><p><strong>Leo Brouwer</strong></p><p>Hika</p><p><strong>Manuel de Falla</strong></p><p>Homenaje pour Le tombeau de Claude Debussy</p><p><strong>Joaqu&iacute;n Rodrigo</strong></p><p>Invocaci&oacute;n y danza</p><p>Homenaje a Manuel de Falla</p>")
+    actual = [str(element) for element in response]
+    expected = [
+        "<p><strong>Moștenitorii României muzicale</strong> - un proiect Radio România Muzical și Rotary Club Pipera</p>",
+        "<p>Recital extraordinar de chitară</p>",
+        "<p><strong>DRAGOȘ ILIE</strong></p>",
+        "<p>Program</p>",
+        "<p><strong>Béla Bartók</strong></p>",
+        "<p>Sonatina (ar. Kanengiser)</p>",
+        "<p><strong>George Enescu</strong></p>",
+        "<p>Lăutarul, din Suita Impresii din copilărie (trans. Ilie)</p>",
+        "<p><strong>Wenzeslaus Thomas </strong><strong>Matiegka</strong></p>",
+        "<p>Grande Sonate nr. 1</p>",
+        "<p>Sonata în si minor, op. 23 (după Haydn)</p>",
+        "<p><strong>Tōru Takemitsu</strong></p>",
+        "<p>Equinox</p>",
+        "<p><strong>Leo Brouwer</strong></p>",
+        "<p>Hika</p>",
+        "<p><strong>Manuel de Falla</strong></p>",
+        "<p>Homenaje pour Le tombeau de Claude Debussy</p>",
+        "<p><strong>Joaquín Rodrigo</strong></p>",
+        "<p>Invocación y danza</p>",
+        "<p>Homenaje a Manuel de Falla</p>",
+    ]
+    assert actual == expected

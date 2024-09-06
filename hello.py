@@ -20,35 +20,37 @@ def main():
         "https://tockify.com/api/ngevent?calname=stagiune&startms=1725224400000"
     ).json()
     events = response["events"]
-    metadata = response["metaData"]
-    for event in events[::2]:
-        event_id = event["eid"]
-        event_url = get_event_url(event_id)
-        print(event_url)
-        event_response = requests.get(event_url).json()
-        event_data = event_response["events"][0]
-        when = event_data["when"]
-        event_start_millis = when["start"]["millis"]
-        event_end_millis = when["end"]["millis"]
-        event_start = datetime.fromtimestamp(event_start_millis / 1000)
-        event_end = datetime.fromtimestamp(event_end_millis / 1000)
-        content = event_data["content"]
-        summary = content["summary"]["text"]
-        description = content["description"]["text"]  # .replace("><p", ">\n\t<p")
-        event_details = extract_event_details(description)
+    parsed_events = [get_and_parse_event(get_event_url(event["eid"])) for event in events[::2]]
+    parsed_events.sort(key=lambda event: event.start)
 
-        # print_event(event_details)
+    print("<html><head><meta charset='utf-8'></head><body>")
+    print("<h1>Stagiunea Filarmonicii George Enescu</h1>")
+    for event in parsed_events:
+        print(f"<h2>{event.title}</h2>")
+        print(f"<p>{event.start} - {event.end}</p>")
+        print(f"{event.details}")
 
+    print("</body></html>")
 
-def print_event(event_details):
-    print(f"{event_details.orchestra}")
-    if event_details.subtitle is not None:
-        print(f"\t{event_details.subtitle}")
-    print(f"\t{event_details.conductor}")
-    if len(event_details.soloists) > 0:
-        print("\tSoloists:")
-        for soloist in event_details.soloists:
-            print(f"\t\t{soloist}")
+def get_and_parse_event(event_url):
+    event_response = requests.get(event_url).json()
+    event_data = event_response["events"][0]
+    when = event_data["when"]
+    event_start_millis = when["start"]["millis"]
+    event_end_millis = when["end"]["millis"]
+    event_start = datetime.fromtimestamp(event_start_millis / 1000)
+    event_end = datetime.fromtimestamp(event_end_millis / 1000)
+    content = event_data["content"]
+    summary = content["summary"]["text"]
+    description = content["description"]["text"]
+
+    return Event(event_start, event_end, summary, description)
+
+def print_event(event):
+    print(f"Title: {event.title}")
+    print(f"Start: {event.start}")
+    print(f"End: {event.end}")
+    print(f"Details: {event.details}")
     print()
 
 
@@ -81,23 +83,17 @@ class EventDetails:
     works: list[Work]
 
 
+@dataclass(frozen=True)
+class Event:
+    start: datetime
+    end: datetime
+    title: str
+    details: str
+
+
 def extract_event_details(description) -> EventDetails:
-    print(description)
-    print()
-    return
-    parsed_description = BeautifulSoup(description, "html.parser")
-    for element in parsed_description.contents:
-        if type(element) is Tag:
-            print(element)
-    tags = [
-        x
-        for x in parsed_description.contents
-        if type(x) is Tag and x.text.strip() != ""
-    ]
-    for tag in tags:
-        print(f">>>{tag.text.strip()}<<<")
-    print()
-    # return
+    tags = normalize(description)
+
     subtitle = extract_subtitle(tags[0])
     orchestra_index = 0 if subtitle is None else 1
     orchestra = extract_orchestra(tags[orchestra_index])
@@ -119,12 +115,12 @@ def extract_event_details(description) -> EventDetails:
     # - https://tockify.com/api/ngevent/751-0-1746720000000-0?calname=stagiune
     #   (each work has its own soloists)
     soloist_index = conductor_index + 1
-    print(tags[soloist_index])
+    print("Soloist tag:", tags[soloist_index])
     if soloist_index + 1 < len(tags):
-        print(tags[soloist_index + 1])
+        print("Next tag: ", tags[soloist_index + 1])
     else:
         print("Fewer rows than expected:")
-        print(parsed_description)
+        print(tags)
     print()
     return EventDetails(subtitle, orchestra, conductor, soloists, [])
 
@@ -140,6 +136,7 @@ def extract_orchestra(p):
 
 
 def extract_conductor(p):
+    print("Conductor tag:", p)
     conductor_name = p.strong.text.strip()
     if p.text.startswith("Dirijor și solist"):
         return (conductor_name, True)
