@@ -151,9 +151,10 @@ def extract_conductor(p):
 
 def normalize(description):
     return [
-        normalize_tag(element)
+        normalized_tag
         for element in BeautifulSoup(description, "html.parser").contents
         if type(element) is Tag and element.text.strip() != ""
+        for normalized_tag in normalize_tag(element)
     ]
 
 
@@ -169,8 +170,13 @@ def normalize_tag(tag):
             span.extract()
         else:
             span.unwrap()
-    # TODO: unwrap <p><p><p> and return more than one tag
-    return tag
+    # unwrap <p><p><p>
+    if tag.p is not None:
+        tag.p.unwrap()
+    # if tag contains multiple p tags, return all of them
+    if len(tag.find_all("p")) > 1:
+        return tag.contents
+    return [tag]
 
 
 if __name__ == "__main__":

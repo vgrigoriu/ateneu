@@ -96,11 +96,11 @@ def test_normalize_event_731_description():
     actual = [str(element) for element in response]
     expected = [
         "<p><strong>Orchestra Filarmonicii George Enescu</strong></p>",
-        "<p>Dirijor <br /><strong>CHARLES DUTOIT</strong></p>",
-        "<p>Solistă <br /><strong>IOANA CRISTINA GOICEA </strong></p>",
+        "<p>Dirijor <br/><strong>CHARLES DUTOIT</strong></p>",
+        "<p>Solistă <br/><strong>IOANA CRISTINA GOICEA </strong></p>",
         "<p>Program</p>",
-        "<p><strong>Igor Stravinski</strong><br />Suita Pasărea de foc (1919)</p>",
-        "<p><strong>Serghei Prokofiev</strong><br />Concertul nr. 2, &icirc;n sol minor, pentru vioară și orchestră, op. 63</p>",
-        "<p><strong>Antonin Dvorak</strong><br />Simfonia nr. 9, &icirc;n mi minor, &ldquo;Din lumea nouă&rdquo;, op. 95</p>",
+        "<p><strong>Igor Stravinski</strong><br/>Suita Pasărea de foc (1919)</p>",
+        "<p><strong>Serghei Prokofiev</strong><br/>Concertul nr. 2, în sol minor, pentru vioară și orchestră, op. 63</p>",
+        "<p><strong>Antonin Dvorak</strong><br/>Simfonia nr. 9, în mi minor, “Din lumea nouă”, op. 95</p>",
     ]
     assert actual == expected
