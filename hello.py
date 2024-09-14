@@ -19,6 +19,7 @@ def main():
         if i + 1 < len(parsed_events):
             next_event = parsed_events[i + 1]
             # assume that if two events have the same title and details, they are one after the other
+            # TODO: some Thu/Fri concerts have different details: standardardize them
             if event.title == next_event.title and event.details == next_event.details:
                 event.dates.append(next_event.dates[0])
                 event.urls.append(next_event.urls[0])
