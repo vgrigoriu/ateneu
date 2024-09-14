@@ -13,20 +13,16 @@ def main():
         "https://tockify.com/api/ngevent?calname=stagiune&startms=1725224400000"
     ).json()
     events = response["events"]
-    parsed_events = [
-        get_and_parse_event(event["eid"]) for event in events
-    ]
+    parsed_events = [get_and_parse_event(event["eid"]) for event in events]
     # TODO: group events with the same title and details
-    parsed_events.sort(key=lambda event: event.start)
 
     print(
         "<html><head><meta charset='utf-8'><title>Stagiunea Filarmonicii George Enescu</title></head><body>"
     )
     print("<h1>Stagiunea Filarmonicii George Enescu</h1>")
     for event in parsed_events:
-        print(f"<h2><a href='{event.url}'>{event.title}</a></h2>")
-        # TODO: print start time for humans (including day of week)
-        print(f"<p>{event.start.strftime("%A, %d %B %Y, %H:%M")}</p>")
+        print(f"<h2><a href='{event.urls[0]}'>{event.title}</a></h2>")
+        print(f"<p>{event.dates[0].strftime("%A, %d %B %Y, %H:%M")}</p>")
         print(f"{event.details}")
 
     print("</body></html>")
@@ -39,14 +35,12 @@ def get_and_parse_event(event_id):
     event_data = event_response["events"][0]
     when = event_data["when"]
     event_start_millis = when["start"]["millis"]
-    event_end_millis = when["end"]["millis"]
     event_start = datetime.fromtimestamp(event_start_millis / 1000)
-    event_end = datetime.fromtimestamp(event_end_millis / 1000)
     content = event_data["content"]
     summary = content["summary"]["text"]
     description = content["description"]["text"]
 
-    return Event(human_event_url, event_start, event_end, summary, description)
+    return Event([human_event_url], [event_start], summary, description)
 
 
 def get_event_url(event_id):
@@ -56,14 +50,15 @@ def get_event_url(event_id):
     rid = event_id["rid"]
     return f"https://tockify.com/api/ngevent/{uid}-{seq}-{tid}-{rid}?calname=stagiune"
 
+
 def get_human_event_url(event_id):
     return f"https://tockify.com/stagiune/detail/{event_id["uid"]}/{event_id["tid"]}"
 
+
 @dataclass(frozen=True)
 class Event:
-    url: str
-    start: datetime
-    end: datetime
+    urls: list[str]
+    dates: list[datetime]
     title: str
     details: str
 
