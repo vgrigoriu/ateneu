@@ -14,16 +14,39 @@ def main():
     ).json()
     events = response["events"]
     parsed_events = [get_and_parse_event(event["eid"]) for event in events]
-    # TODO: group events with the same title and details
+
+    for i, event in enumerate(parsed_events):
+        if i + 1 < len(parsed_events):
+            next_event = parsed_events[i + 1]
+            # assume that if two events have the same title and details, they are one after the other
+            if event.title == next_event.title and event.details == next_event.details:
+                event.dates.append(next_event.dates[0])
+                event.urls.append(next_event.urls[0])
+                parsed_events.pop(i + 1)
 
     print(
-        "<html><head><meta charset='utf-8'><title>Stagiunea Filarmonicii George Enescu</title></head><body>"
+        """<html>
+        <head>
+        <meta charset='utf-8'>
+        <title>Stagiunea Filarmonicii George Enescu</title>
+        </head>
+        <body>"""
     )
     print("<h1>Stagiunea Filarmonicii George Enescu</h1>")
     for event in parsed_events:
-        print(f"<h2><a href='{event.urls[0]}'>{event.title}</a></h2>")
-        print(f"<p>{event.dates[0].strftime("%A, %d %B %Y, %H:%M")}</p>")
+        print("<div class='event'>")
+        print(f"<h2 style='color: green;'>{event.title}</h2>")
+        print("<p>")
+        for i in range(len(event.dates)):
+            print(
+                f"<a href='{event.urls[i]}'>{event.dates[i].strftime("%A, %d %B %Y, %H:%M")}</a>",
+                end="",
+            )
+            if i + 1 < len(event.dates):
+                print(", ")
+        print("</p>")
         print(f"{event.details}")
+        print("</div>")
 
     print("</body></html>")
 
