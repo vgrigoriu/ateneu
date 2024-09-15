@@ -1,6 +1,7 @@
 from dataclasses import dataclass
 from datetime import datetime
 import locale
+import sys
 from bs4 import BeautifulSoup, Tag
 import requests
 
@@ -20,7 +21,9 @@ def main():
             next_event = parsed_events[i + 1]
             # assume that if two events have the same title and details, they are one after the other
             # TODO: some Thu/Fri concerts have different details: standardardize them
-            if event.title == next_event.title and event.details == next_event.details:
+            if event.title == next_event.title and are_same(
+                event.details, next_event.details
+            ):
                 event.dates.append(next_event.dates[0])
                 event.urls.append(next_event.urls[0])
                 parsed_events.pop(i + 1)
@@ -62,7 +65,7 @@ def get_and_parse_event(event_id):
     event_start = datetime.fromtimestamp(event_start_millis / 1000)
     content = event_data["content"]
     summary = content["summary"]["text"]
-    description = content["description"]["text"]
+    description = standardize(content["description"]["text"])
 
     return Event([human_event_url], [event_start], summary, description)
 
@@ -77,6 +80,24 @@ def get_event_url(event_id):
 
 def get_human_event_url(event_id):
     return f"https://tockify.com/stagiune/detail/{event_id["uid"]}/{event_id["tid"]}"
+
+
+def are_same(details1: str, details2: str) -> bool:
+    if details1 == details2:
+        return True
+    print(f"not same:\n{details1}\n{details2}", file=sys.stderr)
+
+
+def standardize(details: str) -> str:
+    return (
+        details.replace(" <br />", "<br />")
+        .replace("<span></span>", "")
+        .replace("<span> </span>", "")
+        .replace("<p><strong></strong></p>", "")
+        .replace("<p><strong> </strong></p>", "")
+        .replace("<div></div>", "")
+        .replace("<p></p>", "")
+    )
 
 
 @dataclass(frozen=True)
