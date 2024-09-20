@@ -29,17 +29,23 @@ def main():
                 parsed_events.pop(i + 1)
 
     print(
-        """<html>
+        """<!DOCTYPE html>
+        <html>
         <head>
         <meta charset='utf-8'>
         <title>Stagiunea Filarmonicii George Enescu</title>
+        <style>
+        h2 {
+            color: green;
+        }
+        </style>
         </head>
         <body>"""
     )
     print("<h1>Stagiunea Filarmonicii George Enescu</h1>")
     for event in parsed_events:
         print("<div class='event'>")
-        print(f"<h2 style='color: green;'>{event.title}</h2>")
+        print(f"<h2>{event.title}</h2>")
         print("<p>")
         for i in range(len(event.dates)):
             print(
