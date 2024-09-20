@@ -24,8 +24,7 @@ def main():
             if event.title == next_event.title and are_same(
                 event.details, next_event.details
             ):
-                event.dates.append(next_event.dates[0])
-                event.urls.append(next_event.urls[0])
+                event.schedulings.append(next_event.schedulings[0])
                 parsed_events.pop(i + 1)
 
     print(
@@ -47,12 +46,12 @@ def main():
         print("<div class='event'>")
         print(f"<h2>{event.title}</h2>")
         print("<p>")
-        for i in range(len(event.dates)):
+        for i, scheduling in enumerate(event.schedulings):
             print(
-                f"<a href='{event.urls[i]}'>{event.dates[i].strftime("%a, %d %b %Y, %H:%M")}</a>",
+                f"<a href='{scheduling.url}'>{scheduling.date.strftime("%a, %d %b %Y, %H:%M")}</a>",
                 end="",
             )
-            if i + 1 < len(event.dates):
+            if i + 1 < len(event.schedulings):
                 print("<br/>")
         print("</p>")
         print(f"{event.details}")
@@ -73,7 +72,7 @@ def get_and_parse_event(event_id):
     title = standardize_title(content["summary"]["text"])
     description = standardize(content["description"]["text"])
 
-    return Event([human_event_url], [event_start], title, description)
+    return Event([Scheduling(human_event_url, event_start)], title, description)
 
 
 def get_event_url(event_id):
@@ -112,9 +111,14 @@ def standardize(details: str) -> str:
 
 
 @dataclass(frozen=True)
+class Scheduling:
+    url: str
+    date: datetime
+
+
+@dataclass(frozen=True)
 class Event:
-    urls: list[str]
-    dates: list[datetime]
+    schedulings: list[Scheduling]
     title: str
     details: str
 
