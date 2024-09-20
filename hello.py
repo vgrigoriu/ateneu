@@ -19,8 +19,8 @@ def main():
     for i, event in enumerate(parsed_events):
         if i + 1 < len(parsed_events):
             next_event = parsed_events[i + 1]
-            # assume that if two events have the same title and details, they are one after the other
-            # TODO: some Thu/Fri concerts have different details: standardardize them
+            # assume that if two events have the same title and details,
+            # they are the same show scheduled twice
             if event.title == next_event.title and are_same(
                 event.details, next_event.details
             ):
@@ -49,11 +49,11 @@ def main():
         print("<p>")
         for i in range(len(event.dates)):
             print(
-                f"<a href='{event.urls[i]}'>{event.dates[i].strftime("%A, %d %B %Y, %H:%M")}</a>",
+                f"<a href='{event.urls[i]}'>{event.dates[i].strftime("%a, %d %b %Y, %H:%M")}</a>",
                 end="",
             )
             if i + 1 < len(event.dates):
-                print(", ")
+                print("<br/>")
         print("</p>")
         print(f"{event.details}")
         print("</div>")
@@ -70,10 +70,10 @@ def get_and_parse_event(event_id):
     event_start_millis = when["start"]["millis"]
     event_start = datetime.fromtimestamp(event_start_millis / 1000)
     content = event_data["content"]
-    summary = content["summary"]["text"]
+    title = standardize_title(content["summary"]["text"])
     description = standardize(content["description"]["text"])
 
-    return Event([human_event_url], [event_start], summary, description)
+    return Event([human_event_url], [event_start], title, description)
 
 
 def get_event_url(event_id):
@@ -91,7 +91,12 @@ def get_human_event_url(event_id):
 def are_same(details1: str, details2: str) -> bool:
     if details1 == details2:
         return True
-    print(f"not same:\n{details1}\n{details2}", file=sys.stderr)
+    print(f"not same:\n{details1}\n{details2}\n", file=sys.stderr)
+    return False
+
+
+def standardize_title(title: str) -> str:
+    return title.replace("ÎNCHIDERERA", "ÎNCHIDEREA")
 
 
 def standardize(details: str) -> str:
