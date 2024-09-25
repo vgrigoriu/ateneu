@@ -69,6 +69,8 @@ def get_and_parse_event(event_id):
     event_start_millis = when["start"]["millis"]
     event_start = datetime.fromtimestamp(event_start_millis / 1000)
     content = event_data["content"]
+    # TODO: get customButtonText and customButtonLink from content
+    # TODO: get image from content
     title = standardize_title(content["summary"]["text"])
     description = standardize(content["description"]["text"])
 
