@@ -81,7 +81,9 @@ def get_and_parse_event(event_id):
     tickets_url = content["customButtonLink"] if "customButtonLink" in content else None
     print(f"{title} {event_start} {tickets_url}", file=sys.stderr)
 
-    return Event([Scheduling(human_event_url, tickets_url, event_start)], title, description)
+    return Event(
+        [Scheduling(human_event_url, tickets_url, event_start)], title, description
+    )
 
 
 def get_event_url(event_id):
