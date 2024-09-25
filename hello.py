@@ -2,6 +2,7 @@ from dataclasses import dataclass
 from datetime import datetime
 import locale
 import sys
+from typing import Optional
 from bs4 import BeautifulSoup, Tag
 import requests
 
@@ -47,10 +48,14 @@ def main():
         print(f"<h2>{event.title}</h2>")
         print("<p>")
         for i, scheduling in enumerate(event.schedulings):
+            if scheduling.tickets_url is not None:
+                print(f"<a href='{scheduling.tickets_url}'>", end="")
             print(
-                f"<a href='{scheduling.url}'>{scheduling.date.strftime("%a, %d %b %Y, %H:%M")}</a>",
+                f"{scheduling.date.strftime("%a, %d %b %Y, %H:%M")}",
                 end="",
             )
+            if scheduling.tickets_url is not None:
+                print("</a>", end="")
             if i + 1 < len(event.schedulings):
                 print("<br/>")
         print("</p>")
@@ -73,8 +78,10 @@ def get_and_parse_event(event_id):
     # TODO: get image from content
     title = standardize_title(content["summary"]["text"])
     description = standardize(content["description"]["text"])
+    tickets_url = content["customButtonLink"] if "customButtonLink" in content else None
+    print(f"{title} {event_start} {tickets_url}", file=sys.stderr)
 
-    return Event([Scheduling(human_event_url, event_start)], title, description)
+    return Event([Scheduling(human_event_url, tickets_url, event_start)], title, description)
 
 
 def get_event_url(event_id):
@@ -115,6 +122,7 @@ def standardize(details: str) -> str:
 @dataclass(frozen=True)
 class Scheduling:
     url: str
+    tickets_url: Optional[str]
     date: datetime
 
 
