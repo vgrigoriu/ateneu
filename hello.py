@@ -5,17 +5,18 @@ import sys
 from typing import Optional
 from bs4 import BeautifulSoup, Tag
 import requests
-
+import json
 
 def main():
     locale.setlocale(locale.LC_ALL, "ro_RO.UTF-8")
 
-    # change startms for the current season
-    response = requests.get(
-        "https://tockify.com/api/ngevent?calname=stagiune&startms=1725224400000"
-    ).json()
-    events = response["events"]
-    parsed_events = [get_and_parse_event(event["eid"]) for event in events]
+    events_ids = get_events_ids()
+    events_details = get_events_details(events_ids)
+    # save the details on disk as JSON
+    with open("docs/raw_events.json", "w") as f:
+        json.dump({"events_details": events_details}, f)
+    
+    parsed_events = [parse_event(event) for event in events_details]
 
     for i, event in enumerate(parsed_events):
         if i + 1 < len(parsed_events):
@@ -65,11 +66,26 @@ def main():
     print("</body></html>")
 
 
-def get_and_parse_event(event_id):
+def get_events_ids():
+    # change startms for the current season
+    response = requests.get(
+        "https://tockify.com/api/ngevent?calname=stagiune&startms=1725224400000"
+    ).json()
+    return [event["eid"] for event in response["events"]]
+
+
+def get_events_details(events_ids):
+    events_details = [get_event_details(event_id) for event_id in events_ids]
+    return events_details
+
+
+def get_event_details(event_id):
     event_url = get_event_url(event_id)
-    human_event_url = get_human_event_url(event_id)
     event_response = requests.get(event_url).json()
-    event_data = event_response["events"][0]
+    return event_response["events"][0]
+
+
+def parse_event(event_data):
     when = event_data["when"]
     event_start_millis = when["start"]["millis"]
     event_start = datetime.fromtimestamp(event_start_millis / 1000)
@@ -81,7 +97,7 @@ def get_and_parse_event(event_id):
     print(f"{title} {event_start} {tickets_url}", file=sys.stderr)
 
     return Event(
-        [Scheduling(human_event_url, tickets_url, event_start)], title, description
+        [Scheduling(tickets_url, event_start)], title, description
     )
 
 
@@ -122,7 +138,6 @@ def standardize(details: str) -> str:
 
 @dataclass(frozen=True)
 class Scheduling:
-    url: str
     tickets_url: Optional[str]
     date: datetime
 
