@@ -10,14 +10,10 @@ import json
 def main():
     locale.setlocale(locale.LC_ALL, "ro_RO.UTF-8")
 
-    # change start_date for the current season
-    start_date = datetime(2024, 9, 1)
-    events_ids = get_events_ids(start_date)
-    events_details = get_events_details(events_ids)
-    # save the details on disk as JSON
-    with open("docs/raw_events.json", "w") as f:
-        json.dump({"events_details": events_details}, f, indent=2)
-    
+    download_events_data()
+
+    with open("docs/raw_events.json") as f:
+        events_details = json.load(f)["events_details"]
     parsed_events = [parse_event(event) for event in events_details]
 
     for i, event in enumerate(parsed_events):
@@ -66,6 +62,16 @@ def main():
         print("</div>")
 
     print("</body></html>")
+
+
+def download_events_data():
+    # change start_date for the current season
+    start_date = datetime(2024, 9, 1)
+    events_ids = get_events_ids(start_date)
+    events_details = get_events_details(events_ids)
+    # save the details on disk as JSON
+    with open("docs/raw_events.json", "w") as f:
+        json.dump({"events_details": events_details}, f, indent=2)
 
 
 def get_events_ids(start_date: datetime):
