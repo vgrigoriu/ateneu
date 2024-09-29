@@ -10,7 +10,12 @@ import json
 def main():
     locale.setlocale(locale.LC_ALL, "ro_RO.UTF-8")
 
-    download_events_data()
+    # don't download the data if --no-download is passed
+    should_download = "--no-download" not in sys.argv
+    if should_download:
+        download_events_data()
+    else:
+        print("Skipping download", file=sys.stderr)
 
     with open("docs/raw_events.json") as f:
         events_details = json.load(f)["events_details"]
@@ -61,6 +66,7 @@ def main():
         print(f"{event.details}")
         print("</div>")
 
+    print("""<footer><a href="/raw_events.json">Raw data</a></footer>""")
     print("</body></html>")
 
 
@@ -83,12 +89,14 @@ def get_events_ids(start_date: datetime):
 
 
 def get_events_details(events_ids):
+    print(f"Downloading {len(events_ids)} events", file=sys.stderr, end="")
     events_details = [get_event_details(event_id) for event_id in events_ids]
     return events_details
 
 
 def get_event_details(event_id):
     event_url = get_event_url(event_id)
+    print(".", file=sys.stderr, end="", flush=True)
     event_response = requests.get(event_url).json()
     return event_response["events"][0]
 
