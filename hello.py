@@ -10,7 +10,9 @@ import json
 def main():
     locale.setlocale(locale.LC_ALL, "ro_RO.UTF-8")
 
-    events_ids = get_events_ids()
+    # change start_date for the current season
+    start_date = datetime(2024, 9, 1)
+    events_ids = get_events_ids(start_date)
     events_details = get_events_details(events_ids)
     # save the details on disk as JSON
     with open("docs/raw_events.json", "w") as f:
@@ -66,10 +68,10 @@ def main():
     print("</body></html>")
 
 
-def get_events_ids():
-    # change startms for the current season
+def get_events_ids(start_date: datetime):
+    start_ms = start_date.timestamp() * 1000
     response = requests.get(
-        "https://tockify.com/api/ngevent?calname=stagiune&startms=1725224400000"
+        f"https://tockify.com/api/ngevent?calname=stagiune&startms={start_ms}"
     ).json()
     return [event["eid"] for event in response["events"]]
 
