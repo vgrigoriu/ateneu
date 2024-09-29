@@ -17,6 +17,10 @@ def main():
     else:
         print("Skipping download", file=sys.stderr)
 
+    only_download = "--only-download" in sys.argv
+    if only_download:
+        return
+
     with open("docs/raw_events.json") as f:
         events_details = json.load(f)["events_details"]
     parsed_events = [parse_event(event) for event in events_details]
