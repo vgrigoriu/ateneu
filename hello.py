@@ -14,7 +14,7 @@ def main():
     events_details = get_events_details(events_ids)
     # save the details on disk as JSON
     with open("docs/raw_events.json", "w") as f:
-        json.dump({"events_details": events_details}, f)
+        json.dump({"events_details": events_details}, f, indent=2)
     
     parsed_events = [parse_event(event) for event in events_details]
 
