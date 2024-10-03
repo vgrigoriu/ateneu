@@ -3,73 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "775",
-        "seq": 0,
-        "tid": 1727886600000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1727886600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "end": {
-          "millis": 1727893800000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Recital extraordinar Martha Argerich"
-        },
-        "description": {
-          "text": "<p><tkfmedia data-tkf-mediatype=\"image\" data-tkf-id=\"66f2b36b6e1e462de2de9fc6\" data-tkf-style=\"align:left;width:256px\" data-tkf-featured=\"true\"></tkfmedia></p><p><strong>Recital extraordinar</strong></p><p><strong>MARTHA ARGERICH</strong> &ndash; pian<br /><strong>G&Eacute;ZA HOSSZU-LEGOCKY</strong> &ndash; vioar\u0103</p><p>Program</p><p><strong>Robert Schumann<br /></strong>Sonata nr. 1, &icirc;n la minor, pentru pian \u015fi vioar\u0103, op. 105</p><p><strong>C&eacute;sar Franck<br /></strong>Sonata &icirc;n la major pentru pian \u015fi vioar\u0103</p><p><strong>Ludwig van Beethoven<br /></strong>Sonata nr. 9, &icirc;n la major, pentru pian \u015fi vioar\u0103, &quot;Kreutzer&quot;</p><p><strong>B&eacute;la Bart&oacute;k<br /></strong>\u015ease dansuri rom&acirc;ne\u015fti</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66f2b36b6e1e462de2de9fc6",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/recital-extraordinar-martha-argerich",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66f2b36b6e1e462de2de9fc6",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66f2b36b6e1e462de2de9fc6",
-            "name": "02-10-hh-300x4242",
-            "altText": "02-10-hh-300x4242",
-            "width": 706,
-            "height": 878,
-            "size": 122240,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66f2b36b6e1e462de2de9fc6",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B76C9E_0901_01B76C9E-1-01B76D16_775-01B76C9E-0-0",
-      "dtstamp": 1727181680544,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "691",
         "seq": 0,
         "tid": 1727971200000,
@@ -497,7 +430,7 @@
           "text": "Concert simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra simfonic\u0103 a Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>GABRIEL BEBE\u0218ELEA</strong></p><p>Solist <br /><strong>BRUCE LIU</strong></p><p>Program</p><p><strong>George Enescu</strong><br />Pastorale-Fantaisie</p><p><strong>Aleksandr Scriabin</strong><br />Concertul &icirc;n fa diez minor pentru pian \u0219i orchestr\u0103, op. 20</p><p><strong>Paul Dukas</strong><br />Ucenicul vr\u0103jitor</p><p><strong>Aleksandr Scriabin</strong><br />Poemul extazului, op. 54</p>"
+          "text": "<p><strong>Orchestra simfonic\u0103 a Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>GABRIEL BEBE\u0218ELEA</strong></p><p>Solist <br /><strong>BRUCE LIU</strong></p><p>Program</p><p><strong>George Enescu</strong><br />Pastorale-Fantaisie</p><p><strong>Aleksandr Scriabin</strong><br />Concertul &icirc;n fa diez minor pentru pian \u0219i orchestr\u0103, op. 20</p><p><strong>Paul Dukas</strong><br />Ucenicul vr\u0103jitor</p><p><strong>Aleksandr Scriabin</strong><br />Poemul extazului, op. 54</p><p></p><p><span>Pe 11 octombrie, de la ora 18, va avea loc &icirc;n Rotonda Ateneului lansarea volumului &quot;Musica Ricercata sau 11 povestiri muzicale surprinz\u0103toare&quot; de Gabriel Bebe\u015felea, publicat de Editura Humanitas, &icirc;n prezen\u0163a autorului \u015fi a directorului editurii, Gabriel Liiceanu, care vor sus\u0163ine un dialog cu public &icirc;n prefa\u0163a concertului simfonic de la ora 19.</span></p>"
         },
         "tagset": {
           "tags": {
@@ -529,7 +462,7 @@
         ]
       },
       "sorter": "999_01B79F20_0901_01B79F20-1-01B79F98_694-01B79F20-0-0",
-      "dtstamp": 1727209839214,
+      "dtstamp": 1727784400173,
       "status": {
         "name": "scheduled"
       },
@@ -753,7 +686,7 @@
           "offset": 10800000
         },
         "end": {
-          "millis": 1728925200000,
+          "millis": 1728923400000,
           "tzid": "Europe/Bucharest",
           "ltz": "EEST",
           "offset": 10800000
@@ -765,7 +698,7 @@
           "text": "Stagiunea de jazz (Sala mic\u0103)"
         },
         "description": {
-          "text": "<p><strong>Turneul Interna\u0163ional &bdquo;What Freedom Sounds Like&rdquo;</strong></p><p><strong>Amphitrio</strong> <strong>J</strong><strong>azz Trio</strong></p><p><strong>Andrei Petrache</strong> - pian, compozi\u0163ie</p><p><strong>Alexandru (Mike) Marian</strong> - bas</p><p><strong>Philip Goron</strong> - percu\u0163ie</p><p>Invita\u0163i:</p><p><strong>Blue Noise</strong> &ndash; voce</p><p><strong>Sebastian Burneci</strong> &ndash; trompet\u0103</p><p><strong>C\u0103t\u0103lin Milea</strong> &ndash; saxofon</p><p><strong>Nicu Patoi</strong> &ndash; chitar\u0103 electric\u0103</p><p><strong>Mihail Grigore</strong> &ndash; violoncel \u015fi voce</p><p><strong>R\u0103zvan Florescu</strong> - vibrafon</p>"
+          "text": "<p><strong>Turneul Interna\u0163ional &bdquo;What Freedom Sounds Like&rdquo;</strong></p><p><strong>Amphitrio</strong> <strong>J</strong><strong>azz Trio</strong></p><p><strong>Andrei Petrache</strong> - pian, compozi\u0163ie</p><p><strong>Alexandru (Mike) Marin</strong> - bas</p><p><strong>Philip Goron</strong> - percu\u0163ie</p><p>Invita\u0163i:</p><p><strong>Blue Noise</strong> &ndash; voce</p><p><strong>Sebastian Burneci</strong> &ndash; trompet\u0103</p><p><strong>C\u0103t\u0103lin Milea</strong> &ndash; saxofon</p><p><strong>Nicu Patoi</strong> &ndash; chitar\u0103 electric\u0103</p><p><strong>Mihail Grigore</strong> &ndash; violoncel \u015fi voce</p><p><strong>R\u0103zvan Florescu</strong> - vibrafon</p><p></p><p>Curator: <strong>Sebastian Gheorghiu</strong></p><p>Coorganizator: UCIMR</p>"
         },
         "tagset": {
           "tags": {
@@ -796,8 +729,8 @@
           }
         ]
       },
-      "sorter": "999_01B7AFC4_0901_01B7AFC4-1-01B7B03C_781-01B7AFC4-0-0",
-      "dtstamp": 1726862137218,
+      "sorter": "999_01B7AFC4_0901_01B7AFC4-1-01B7B01E_781-01B7AFC4-0-0",
+      "dtstamp": 1727862465158,
       "status": {
         "name": "scheduled"
       },
@@ -865,6 +798,73 @@
       },
       "sorter": "999_01B7B000_0901_01B7B000-1-01B7B078_773-01B7B000-0-0",
       "dtstamp": 1726174984987,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "794",
+        "seq": 0,
+        "tid": 1728925200000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1728925200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EEST",
+          "offset": 10800000
+        },
+        "end": {
+          "millis": 1728930600000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EEST",
+          "offset": 10800000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Stagiunea de jazz (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<p><strong>Turneul Interna\u0163ional &bdquo;What Freedom Sounds Like&rdquo;</strong></p><p><strong>Amphitrio</strong><span> </span><strong>J</strong><strong>azz Trio</strong></p><p><strong>Andrei Petrache</strong><span> </span>- pian, compozi\u0163ie</p><p><strong>Alexandru (Mike) Marin</strong><span> </span>- bas</p><p><strong>Philip Goron</strong><span> </span>- percu\u0163ie</p><p>Invita\u0163i:</p><p><strong>Blue Noise</strong><span> </span>&ndash; voce</p><p><strong>Sebastian Burneci</strong><span> </span>&ndash; trompet\u0103</p><p><strong>C\u0103t\u0103lin Milea</strong><span> </span>&ndash; saxofon</p><p><strong>Nicu Patoi</strong><span> </span>&ndash; chitar\u0103 electric\u0103</p><p><strong>Mihail Grigore</strong><span> </span>&ndash; violoncel \u015fi voce</p><p><strong>R\u0103zvan Florescu</strong><span> </span>- vibrafon</p><p></p><p>Curator:<span> </span><strong>Sebastian Gheorghiu</strong></p><p>Coorganizator: UCIMR</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66fbf0c5205890162e5ed261",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://ove.ro/stagiunea-de-jazz-sala-mica-6931",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66fbf0c5205890162e5ed261",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66fbf0c5205890162e5ed261",
+            "name": "IMAG4096 (1)",
+            "altText": "IMAG4096 (1)",
+            "width": 4000,
+            "height": 3000,
+            "size": 1470175,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66fbf0c5205890162e5ed261",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B7B03C_0901_01B7B03C-1-01B7B096_794-01B7B03C-0-0",
+      "dtstamp": 1727877763870,
       "status": {
         "name": "scheduled"
       },
@@ -1301,7 +1301,7 @@
           "text": "Festivalul Interna\u021bional de DUO Majura - Concert extraordinar"
         },
         "description": {
-          "text": "<p><strong><em>Festivalul Interna\u021bional de DUO Majura</em></strong><br /><strong><em>Concert extraordinar </em></strong></p><p><strong></strong><strong>Camerata Regal\u0103</strong></p><p>Dirijor</p><p><strong>NN</strong><br /><strong></strong></p><p>Soli\u0219ti</p><p><strong>Duo pianistic ANDERSON &amp; ROE<br /></strong></p><p>Program <br /><strong>Ludwig van Beethoven </strong><br />Uvertura Egmont</p><p><strong>Wolfgang Amadeus Mozart </strong><br />Concertul &icirc;n mi bemol major pentru 2 piane \u015fi orchestr\u0103, KV 365</p><p><strong>Camille Saint-Sa&euml;ns</strong> <br />Uvertura operei &rdquo;Carmen&rdquo;</p><p><strong>Saint-Sa&euml;ns / Anderson &amp; Roe</strong><br />Fantezia &rdquo;Carmen&rdquo; pentru 2 piane \u0219i orchestr\u0103</p>"
+          "text": "<p><strong><em>Festivalul Interna\u021bional de DUO Majura</em></strong><br /><strong><em>Concert extraordinar </em></strong></p><p><strong></strong><strong>Camerata Regal\u0103</strong></p><p>Dirijor</p><p><strong>CRISTIAN MANDEAL</strong><br /><strong></strong></p><p>Soli\u0219ti</p><p><strong>Duo pianistic ANDERSON &amp; ROE<br /></strong></p><p>Program <br /><strong>Ludwig van Beethoven </strong><br />Uvertura Egmont</p><p><strong>Wolfgang Amadeus Mozart </strong><br />Concertul &icirc;n mi bemol major pentru 2 piane \u015fi orchestr\u0103, KV 365</p><p><strong>Camille Saint-Sa&euml;ns</strong> <br />Uvertura operei &rdquo;Carmen&rdquo;</p><p><strong>Saint-Sa&euml;ns / Anderson &amp; Roe</strong><br />Fantezia &rdquo;Carmen&rdquo; pentru 2 piane \u0219i orchestr\u0103</p>"
         },
         "tagset": {
           "tags": {
@@ -1338,7 +1338,7 @@
         ]
       },
       "sorter": "999_01B7D1C0_0901_01B7D1C0-1-01B7D238_774-01B7D1C0-0-0",
-      "dtstamp": 1727176875056,
+      "dtstamp": 1727691577765,
       "status": {
         "name": "scheduled"
       },
@@ -1373,7 +1373,7 @@
           "text": "Stagiunea de mar\u0163i seara (Sala mic\u0103)"
         },
         "description": {
-          "text": "<p><strong>Recital cameral</strong></p><p><strong>SMARANDA IFTIME</strong></p><p><strong>COSMIN P\u0102TRANA</strong></p><p>Program</p><p><strong><span>Johannes Brahms<br /></span></strong>Sonata nr. 1, &icirc;n mi minor, pentru violoncel \u0219i pian, op.38<strong><br /><span></span></strong></p><p><strong><span>Manuel de Falla<br /></span></strong>Suit\u0103 popular\u0103 spaniol\u0103 pentru violoncel \u0219i pian<strong><br /><span></span></strong></p><p><strong><span>Aulis Sallinen<br /></span></strong>Elegie pentru Sebastian Knight, pentru violoncel solo, op.10<strong><br /><span></span></strong></p><p><strong><span>Benjamin Britten<br /></span></strong>Sonata &icirc;n do major pentru violoncel \u0219i pian, op. 65<br /><br />Coproduc\u0103tor: Radio Rom&acirc;nia Muzical</p>"
+          "text": "<p><strong>Recital cameral</strong></p><p><strong>SMARANDA IFTIME </strong>- violoncel</p><p><strong>COSMIN P\u0102TRANA </strong>- pian</p><p>Program</p><p><strong><span>Johannes Brahms<br /></span></strong>Sonata nr. 1, &icirc;n mi minor, pentru violoncel \u0219i pian, op.38<strong><br /><span></span></strong></p><p><strong><span>Manuel de Falla<br /></span></strong>Suit\u0103 popular\u0103 spaniol\u0103 pentru violoncel \u0219i pian<strong><br /><span></span></strong></p><p><strong><span>Aulis Sallinen<br /></span></strong>Elegie pentru Sebastian Knight, pentru violoncel solo, op.10<strong><br /><span></span></strong></p><p><strong><span>Benjamin Britten<br /></span></strong>Sonata &icirc;n do major pentru violoncel \u0219i pian, op. 65<br /><br />Coproduc\u0103tor: Radio Rom&acirc;nia Muzical</p>"
         },
         "tagset": {
           "tags": {
@@ -1405,7 +1405,7 @@
         ]
       },
       "sorter": "999_01B7DD00_0901_01B7DD00-1-01B7DD3C_782-01B7DD00-0-0",
-      "dtstamp": 1727363450005,
+      "dtstamp": 1727688783640,
       "status": {
         "name": "scheduled"
       },
@@ -1750,6 +1750,73 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
+        "uid": "796",
+        "seq": 0,
+        "tid": 1730019600000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1730019600000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1730025000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Muzica pe \u00cen\u0163elesul Tuturor"
+        },
+        "description": {
+          "text": "<p><em><strong>Grand Op&eacute;ra</strong></em></p><p><strong>O c\u0103l\u0103torie prin universul liric francez</strong></p><p>Programul va fi anun\u0163at &icirc;n cur&acirc;nd!</p><p>Comentariu<br /><strong>MIHAI COJOCARU</strong></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66fd2477205890162e5fa51a",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://ove.ro/muzica-pe-intelesul-tuturor-6933",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66fd2477205890162e5fa51a",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66fd2477205890162e5fa51a",
+            "name": "IMAG4105 (1)",
+            "altText": "IMAG4105 (1)",
+            "width": 4000,
+            "height": 3000,
+            "size": 1341799,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66fd2477205890162e5fa51a",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B7F77C_0901_01B7F77C-1-01B7F7D6_796-01B7F77C-0-0",
+      "dtstamp": 1727897782781,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
         "uid": "787",
         "seq": 0,
         "tid": 1730048400000,
@@ -1884,6 +1951,73 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
+        "uid": "791",
+        "seq": 0,
+        "tid": 1730388600000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1730388600000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1730394000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "De la Krefeld la Buenos Aires - Povestea bandoneonului (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<p><strong>ANDRE PARFENOV </strong>- pian \u015fi compozi\u0163ie</p><p><strong>IULIANA M&Uuml;NCH </strong>- vioar\u0103</p><p><strong>OMAR MASSA </strong>- bandoneon</p><p>Recital organizat &icirc;n colaborare cu Ambasada Germaniei la Bucure\u015fti</p><p></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66fbf0c5205890162e5ed261",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://ove.ro/de-la-krefeld-la-buenos-aires-povestea-bandoneonului-sala-mica",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66fbf0c5205890162e5ed261",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66fbf0c5205890162e5ed261",
+            "name": "IMAG4096 (1)",
+            "altText": "IMAG4096 (1)",
+            "width": 4000,
+            "height": 3000,
+            "size": 1470175,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66fbf0c5205890162e5ed261",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B80F82_0901_01B80F82-1-01B80FDC_791-01B80F82-0-0",
+      "dtstamp": 1727788468128,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
         "uid": "699",
         "seq": 0,
         "tid": 1730394000000,
@@ -2009,6 +2143,73 @@
       },
       "sorter": "999_01B8157C_0901_01B8157C-1-01B815F4_700-01B8157C-0-0",
       "dtstamp": 1727211999414,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "795",
+        "seq": 0,
+        "tid": 1730653200000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1730653200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1730660400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital vocal (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<div><em><strong>Arabescuri lirice</strong></em></div><div></div><div><div><strong>Recital de arii \u0219i duete din opere \u0219i operete </strong></div><div><div></div><div>Interpre\u021bi:</div><div></div><div><strong>ALEXANDRA C&Acirc;RSTEA </strong>- sopran\u0103</div><div><strong>ALEXANDRA HORPAS </strong>- mezzosopran\u0103</div><div><strong>MILI\u021aA PANTIN </strong>- sopran\u0103</div><div><strong>DANIELA ROGACEV</strong> - sopran\u0103</div><div><strong>EMILIA TUDORACHE </strong>- sopran\u0103</div><div><strong>CRISTIAN GRIGORESCU </strong>- tenor</div><div><strong>ANDREI MARINACHE </strong>- bariton</div><div><strong>HORIA RADU </strong>- bas-bariton</div><div>(Studen\u021bi ai Universit\u0103\u021bii Na\u021bionale de Muzic\u0103 din Bucure\u0219ti, clasa conf. univ. dr. Claudia Codreanu)</div><div></div><div>La pian<br /><strong>VIORELA CIUCUR, INNA ONCESCU</strong></div><div></div><div>Program</div><div></div><div><strong>Georg Friedrich H&auml;ndel</strong><br />Ciel e terra din <em>Tamerlano</em></div><div></div></div></div><div><strong>Joseph Haydn</strong><br />Misera, chi m'aiuta din <em>La vera costanza</em></div><div></div><div><strong>Wolfgang Amadeus Mozart</strong><br />Notte e giorno faticar din <em>Don Giovanni</em></div><div></div><div><strong>Gaetano Donizetti</strong> <br />Chacun le sait din <em>Fiica regimentului</em></div><div></div><div><strong>Charles Gounod</strong> <br />Avant de quitter ces lieux din <em>Faust</em></div><div><div></div><div><strong>Johann Strauss</strong>-fiul<br />Mein Herr Marquis din <em>Liliacul</em></div><div></div><div><strong>Gaetano Donizetti</strong><br />O mio Fernando din <em>La Favorita </em></div></div><div></div><div><strong>Jules Massenet</strong></div><div>Sevillana din <em>Don C&eacute;sar de Basan </em></div><div></div><div><strong>Giuseppe Verdi</strong><br />Per me giunto &egrave; il di supremo din <em>Don Carlo</em></div><div></div><div>Jacques Offenbach<br />Barcarola din <em>Povestirile lui Hoffmann </em></div><div></div><div><strong>Piotr Ilici Ceaikovski<br /></strong>Kuda, kuda din <em>Evgheni Oneghin</em></div><div></div><div><strong>Georges Bizet</strong> <br />Chanson boh&egrave;me din <em>Carmen</em></div><div></div><div><strong>Giuseppe Verdi</strong><br />Caro nome din<em> Rigoletto </em></div><div></div><div><strong>Gaetano Donizetti</strong><br />Chetti, chetti, immantinente din <em>Don Pasquale</em></div><div></div><div><strong>Giacomo Puccini<br /></strong>Ch'il bel sogno din <em>La Rondine</em></div><div></div><div><strong>Jos&eacute; Serrano<br /></strong>Que te importa que no venga din<em> Los Claveles </em></div><div></div><div><strong>Gherase Dendrino</strong><br />Te iubesc din <em>L\u0103sa\u021bi-m\u0103 s\u0103 c&acirc;nt </em></div><div></div><div><strong>Arrigo Boito<br /></strong>Son lo spirito din <em>Mefistofele</em></div><div></div><div><strong>Giacomo Puccini</strong> <br />Quando m'en vo din <em>Boema</em></div>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66fd1b7d205890162e5fa2cf",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://ove.ro/recital-vocal-sala-mica-6932",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66fd1b7d205890162e5fa2cf",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66fd1b7d205890162e5fa2cf",
+            "name": "IMAG4127",
+            "altText": "IMAG4127",
+            "width": 4000,
+            "height": 3000,
+            "size": 1199005,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66fd1b7d205890162e5fa2cf",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B820BC_0901_01B820BC-1-01B82134_795-01B820BC-0-0",
+      "dtstamp": 1727877933135,
       "status": {
         "name": "scheduled"
       },
@@ -2210,6 +2411,150 @@
       },
       "sorter": "999_01B83CDC_0901_01B83CDC-1-01B83D54_702-01B83CDC-0-0",
       "dtstamp": 1727212449483,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "790",
+        "seq": 0,
+        "tid": 1731344400000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1731344400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1731344400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Stagiunea de jazz (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<p><tkfmedia data-tkf-mediatype=\"image\" data-tkf-id=\"66fbce79205890162e5ebfa9\" data-tkf-style=\"align:left;width:256px\" data-tkf-featured=\"true\"></tkfmedia></p><p><strong>North Sea String Quartet </strong></p><p>- turneul de lansare al albumului &ldquo;Splunge&rdquo; &icirc;n Rom&acirc;nia -</p><p><span><strong></strong></span></p><p><span><strong></strong></span></p><p><span><strong>George Dumitriu</strong> - vioar\u0103, viol\u0103<br /><strong>Pablo Rodr&iacute;guez</strong> - vioar\u0103<br /><strong>Yanna Pelser</strong> - viol\u0103<br />Thomas van Geelen - violoncel</span></p><p><span>&Icirc;n program, compozi\u021bii originale \u0219i improviza\u021bii</span></p><p><span>Foto: Federico Castelli</span></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "place": "Ateneul Roman",
+        "address": "Strada Benjamin Franklin, Bucure\u0219ti, Rom\u00e2nia",
+        "location": {
+          "place_id": "Ei5TdHJhZGEgQmVuamFtaW4gRnJhbmtsaW4sIEJ1Y3VyZciZdGksIFJvbcOibmlhIi4qLAoUChIJI-cqbk__sUARgEkd41PE6ioSFAoSCU-tPL86-bFAESimnHzjMgas",
+          "name": "Strada Benjamin Franklin",
+          "latitude": 44.4409329,
+          "longitude": 26.0972111,
+          "c_street": "Strada Benjamin Franklin",
+          "c_locality": "Bucure\u0219ti",
+          "c_region": "Bucure\u0219ti",
+          "c_country": "RO"
+        },
+        "imageId": "BWC_66fbce79205890162e5ebfa9",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://ove.ro/stagiunea-de-jazz-sala-mica-6927",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66fbce79205890162e5ebfa9",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66fbce79205890162e5ebfa9",
+            "name": "2. North Sea String Quartet - royalty free, please mention photo by Federico Castelli",
+            "altText": "2. North Sea String Quartet - royalty free, please mention photo by Federico Castelli",
+            "width": 4183,
+            "height": 2796,
+            "size": 979341,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66fbce79205890162e5ebfa9",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B84DBC_0901_01B84DBC-1-01B84DBC_790-01B84DBC-0-0",
+      "dtstamp": 1727791011442,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "793",
+        "seq": 0,
+        "tid": 1731430800000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1731430800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1731436200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Stagiunea de mar\u0163i seara (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<div><strong>Ansamblul Apollo</strong></div><div></div><div><strong>Aron Cavassi</strong> - vioar\u0103</div><div><strong>Daniel Vots</strong> - viol\u0103</div><div><strong>David Soma</strong> - violoncel</div><div><strong>Andra M\u0103rgineanu</strong> - pian</div><div></div><div>Program</div><div></div><div><strong>Robert Schumann</strong><br />Cvartetul cu pian &icirc;n mi bemol major, op. 47</div><div> </div><div><strong>Johannes Brahms</strong><br />Cvartetul cu pian nr. 1, &icirc;n sol minor, op. 25</div><div></div>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66fd1544205890162e5fa1db",
+        "attachments": [],
+        "noDetail": false,
+        "version": 2,
+        "imageIdNg": "66fd1544205890162e5fa1db",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66fd1544205890162e5fa1db",
+            "name": "IMAG4122 (1)",
+            "altText": "IMAG4122 (1)",
+            "width": 3000,
+            "height": 4000,
+            "size": 1135341,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66fd1544205890162e5fa1db",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B8535C_0901_01B8535C-1-01B853B6_793-01B8535C-0-0",
+      "dtstamp": 1727862325461,
       "status": {
         "name": "scheduled"
       },
@@ -4251,6 +4596,71 @@
       },
       "sorter": "999_01BAB2DC_0901_01BAB2DC-1-01BAB354_732-01BAB2DC-0-0",
       "dtstamp": 1722442426723,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "789",
+        "seq": 0,
+        "tid": 1740934800000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1740934800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1740942000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital de pian"
+        },
+        "description": {
+          "text": "<p><em><strong>Algo-Ritm</strong></em></p><p><strong>M\u0102D\u0102LINA PA\u015eOL</strong></p><p>Program</p><p><strong>Ludwig van Beethoven<br /></strong>Varia\u0163iunile &quot;Vienni Amore&quot;, &icirc;n re major, WoO 65 </p><p><strong>Serghei Rahmaninov<br /></strong>Varia\u0163iuni pe o tem\u0103 de Corelli, op. 42</p><p><strong>J.-Ph. Rameau/ M. Pa\u015fol<br /></strong>Les Sauvages, Les Boreades, L'Egyptienne</p><p><strong>Johannes Brahms<br /></strong>Pagin\u0103 de album &icirc;n la minor</p><p><strong>Franz Liszt<br /></strong>Roman\u021b\u0103 &icirc;n la minor</p><p><strong>Robert Schumann<br /></strong>Contrabandistul, op. 74</p><p><strong>Richard Wagner<br /></strong>Pagin\u0103 de album, WWV 94</p><p><strong>Claude Debussy<br /></strong>Vals romantic</p><p><strong>Fr&eacute;d&eacute;ric Chopin<br /></strong>Balada nr. 1, &icirc;n sol minor, op. 23</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66fa9eb8205890162e5de587",
+        "attachments": [],
+        "noDetail": false,
+        "version": 2,
+        "imageIdNg": "66fa9eb8205890162e5de587",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66fa9eb8205890162e5de587",
+            "name": "Pa\u015fol 2",
+            "altText": "Pa\u015fol 2",
+            "width": 231,
+            "height": 168,
+            "size": 6905,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66fa9eb8205890162e5de587",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BABE1C_0901_01BABE1C-1-01BABE94_789-01BABE1C-0-0",
+      "dtstamp": 1727700702413,
       "status": {
         "name": "scheduled"
       },
