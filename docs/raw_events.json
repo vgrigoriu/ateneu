@@ -941,6 +941,71 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
+        "uid": "801",
+        "seq": 0,
+        "tid": 1729353600000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1729353600000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EEST",
+          "offset": 10800000
+        },
+        "end": {
+          "millis": 1729360800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EEST",
+          "offset": 10800000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Universitatea Na\u0163ional\u0103 de Muzic\u0103 din Bucure\u015fti - 160"
+        },
+        "description": {
+          "text": "<p><strong><em>Concert aniversar cu prilejul &icirc;mplinirii a 160 de ani de la &icirc;nfiin\u0163area</em></strong><br /><strong><em>Universit\u0103\u0163ii Na\u0163ionale de Muzic\u0103 din Bucure\u015fti</em></strong></p><p><strong>Ansamblurile UNMB</strong></p><p><strong>VIOLONCELLISSIMO<br /></strong>coordonator prof. univ. dr. Marin Cazacu</p><p><strong>GAME</strong><br />coordonatori prof. univ. dr. Alexandru Matei \u0219i conf. univ. dr. Sorin Rotaru</p><p><strong>FLAUT POWER</strong><br />coordonator prof. univ. dr. habil. Ion Bogdan \u0218ref\u0103nescu</p><p><strong>CLARINO</strong><br />coordonator conf. univ. dr. Emil Vi\u0219enescu</p><p><strong>Corul RICERCARE<br /></strong>dirijor lector univ. dr. Florian Costea</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66f54a606e1e462de2e04a91",
+        "attachments": [],
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66f54a606e1e462de2e04a91",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66f54a606e1e462de2e04a91",
+            "name": "IMAG4104",
+            "altText": "IMAG4104",
+            "width": 4000,
+            "height": 3000,
+            "size": 1392269,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66f54a606e1e462de2e04a91",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B7CC20_0901_01B7CC20-1-01B7CC98_801-01B7CC20-0-0",
+      "dtstamp": 1728295915288,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
         "uid": "788",
         "seq": 0,
         "tid": 1729436400000,
@@ -2076,6 +2141,73 @@
       },
       "sorter": "999_01B820BC_0901_01B820BC-1-01B82134_795-01B820BC-0-0",
       "dtstamp": 1727877933135,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "802",
+        "seq": 0,
+        "tid": 1730826000000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1730826000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1730833200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Stagiunea de mar\u0163i seara (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<p><strong>Recital de pian</strong><br /><strong>MARIA CRISTINA IONEL</strong></p><p>Program<br /><strong>Claude Debussy </strong><br />Clair de lune, din suita Bergamasque<br />Nocturn\u0103</p><p><strong>Franz Liszt </strong><br />Harmonies du soir</p><p><strong>Fr&eacute;d&eacute;ric Chopin </strong><br />Nocturna &icirc;n re bemol major, op. 27, nr. 2</p><p><strong>Maurice Ravel </strong><br />Gaspard de la Nuit<br />Pavana pentru o infant\u0103 defunct\u0103</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_6703c279205890162e63062a",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://ove.ro/stagiunea-de-marti-seara-sala-mica-6940",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "6703c279205890162e63062a",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "6703c279205890162e63062a",
+            "name": "Maria Cristina Ionel",
+            "altText": "Maria Cristina Ionel",
+            "width": 1764,
+            "height": 2048,
+            "size": 160688,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_6703c279205890162e63062a",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B82BFC_0901_01B82BFC-1-01B82C74_802-01B82BFC-0-0",
+      "dtstamp": 1728300754998,
       "status": {
         "name": "scheduled"
       },
