@@ -3,274 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "691",
-        "seq": 0,
-        "tid": 1727971200000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1727971200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "end": {
-          "millis": 1727978400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "DESCHIDEREA STAGIUNII SIMFONICE 2024 - 2025"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra simfonic\u0103 a Filarmonicii George Enescu</strong></p><p>Dirijor<strong> <br />MIKHAIL PLETNEV </strong></p><p>Solist\u0103<br /><strong>IOANA CRISTINA GOICEA </strong></p><p>Program</p><p><strong>Alfred Alessandrescu<br /></strong>Amurg de toamn\u0103</p><p><strong>Jean Sibelius<br /></strong>Concertul &icirc;n re minor pentru vioar\u0103 \u0219i orchestr\u0103, op. 47</p><p><strong>Aleksandr Glazunov</strong> <br />Anotimpurile, op. 67</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa58e7117e3a71e7fc63ca",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/deschiderea-stagiunii-simfonice-2024-2025-6890",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa58e7117e3a71e7fc63ca",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa58e7117e3a71e7fc63ca",
-            "name": "PLETNEV",
-            "altText": "PLETNEV",
-            "width": 225,
-            "height": 225,
-            "size": 7663,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa58e7117e3a71e7fc63ca",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B77220_0901_01B77220-1-01B77298_691-01B77220-0-0",
-      "dtstamp": 1727208876469,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "692",
-        "seq": 0,
-        "tid": 1728057600000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1728057600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "end": {
-          "millis": 1728064800000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "DESCHIDEREA STAGIUNII SIMFONICE 2024 - 2025"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra simfonic\u0103 a Filarmonicii George Enescu</strong></p><p>Dirijor<strong> <br />MIKHAIL PLETNEV </strong></p><p>Solist\u0103<br /><strong>IOANA CRISTINA GOICEA </strong></p><p>Program</p><p><strong>Alfred Alessandrescu<br /></strong>Amurg de toamn\u0103</p><p><strong>Jean Sibelius<br /></strong>Concertul &icirc;n re minor pentru vioar\u0103 \u0219i orchestr\u0103, op. 47</p><p><strong>Aleksandr Glazunov</strong> <br />Anotimpurile, op. 67</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa58e7117e3a71e7fc63ca",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/deschiderea-stagiunii-simfonice-2024-2025-6891",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa58e7117e3a71e7fc63ca",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa58e7117e3a71e7fc63ca",
-            "name": "PLETNEV",
-            "altText": "PLETNEV",
-            "width": 225,
-            "height": 225,
-            "size": 7663,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa58e7117e3a71e7fc63ca",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B777C0_0901_01B777C0-1-01B77838_692-01B777C0-0-0",
-      "dtstamp": 1727209202306,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "769",
-        "seq": 0,
-        "tid": 1728144000000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1728144000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "end": {
-          "millis": 1728151200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Un artist, un pian \u015fi un \u021bambal"
-        },
-        "description": {
-          "text": "<p><strong><em>Un artist, un pian \u015fi un \u021bambal </em></strong></p><p><strong>C\u0102T\u0102LIN R\u0102DUCANU</strong></p><p>Program</p><p><strong>Pian clasic</strong></p><p><strong>Domenico Scarlatti<br /></strong>Sonata &icirc;n mi major, K. 380</p><p><strong>Ludwig van Beethoven<br /></strong>Rondo a capriccio, op. 129</p><p><strong>Serghei Rahmaninov<br /></strong>Preludiu &icirc;n si bemol major, op. 23, nr. 2<br />Preludiu &icirc;n re major, op. 23, nr. 4 <br />Preludiu &icirc;n sol minor, op. 23, nr. 5</p><p><strong>Claude Debussy<br /></strong>Preludiul nr. 4 &quot;Les sons et les parfums tournent dans l'air du soir&quot;<br />Preludiul nr. 7 &quot;Ce qu'a vu vent le vent d'ouest&quot;</p><p><strong>Improviza\u0163ii la pian pe teme de jazz</strong></p><p><strong>Thelonious Monk</strong><br />Blue Monk</p><p><strong>Victor Young</strong><br />Stella by Starlight</p><p><strong>Jo&atilde;o Bosco</strong><br />Incompatibilidade de G&ecirc;nios</p><p>Improviza\u021bii pe teme din<em> Mociri\u021b\u0103 cu trifoi, Leli\u021b\u0103 Ioan\u0103, Pe deal pe la corn\u0103\u021bel</em></p><p><strong></strong></p><p><strong>Improviza\u0163ii la \u0163ambal pe teme folclorice</strong></p><p><strong>Toni Iordache</strong><br />Balad\u0103 Haiduceasc\u0103<br />Hor\u0103 din Muntenia</p><p><strong>Grigora\u0219 Dinicu</strong><br />Hora Staccato</p><p><strong>Toni Iordache</strong><br />Pic\u0103turi de untdelemn (aranjament propriu)</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66e1b176e072aa1321c94b2a",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/un-artist-un-pian-si-un-tambal",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66e1b176e072aa1321c94b2a",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66e1b176e072aa1321c94b2a",
-            "name": "Un-artist,-un-pian-si-un-tambal_A1_2024_Bucuresti",
-            "altText": "Un-artist,-un-pian-si-un-tambal_A1_2024_Bucuresti",
-            "width": 1200,
-            "height": 1699,
-            "size": 189958,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66e1b176e072aa1321c94b2a",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B77D60_0901_01B77D60-1-01B77DD8_769-01B77D60-0-0",
-      "dtstamp": 1726067085627,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "777",
-        "seq": 0,
-        "tid": 1728223200000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1728223200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "end": {
-          "millis": 1728230400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Salonul baroc (Salonul oficial)"
-        },
-        "description": {
-          "text": "<p><em><strong>Rameau, le musicien de rois</strong></em></p><p><strong>RALUCA ENEA </strong>- clavecin</p><p>Program</p><p><strong>Jean Philippe Rameau</strong> (1683 &ndash; 1764):</p><p>Din colec\u021bia Nouvelles Suites de Pi&egrave;ces de Clavecin 1728:</p><p>- Din Suite en la: <em>Allemande &ndash; Courante &ndash; Sarabande &ndash; La Triomphante</em></p><p>- Din Suite en sol: <em>Les Tricotets - L`Indifferente - Menuet I - Menuet II - Menuet I - Les Sauvages </em></p><p>Din colec\u021biile Pi&egrave;ces de Clavecin en Concerts / Cinq Pi&egrave;ces 1741:</p><p>- 1er Concert: <em>La Coulicam - La Livri. Rondeau Gracieux - La V&eacute;zinet </em></p><p>Din colec\u021biile Les Indes Galantes &ndash; Ballet reduit &agrave; quatre grands concerts:</p><p>- Din 1er Concert: <em>Entr&eacute;e des quatre nations dans la Cour d'H&eacute;b&eacute; - Musette en rondeau &ndash; 1er Menuet &ndash; 2e Menuet - 1er Menuet</em></p><p>Din colec\u021biile Pi&egrave;ces de Clavecin en Concerts 1741 / Cinq Pi&egrave;ces 1741:</p><p>- 4e Concert: <em>La Pantomime - L`Indiscr&egrave;te. Rondeau - La Rameau</em></p><p><em>La Dauphine 1747 </em></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66e953d84ef2856a921a9234",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/salonul-baroc-salonul-oficial",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66e953d84ef2856a921a9234",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66e953d84ef2856a921a9234",
-            "name": "Rameau",
-            "altText": "Rameau",
-            "width": 220,
-            "height": 220,
-            "size": 11218,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66e953d84ef2856a921a9234",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B78288_0901_01B78288-1-01B78300_777-01B78288-0-0",
-      "dtstamp": 1726600764794,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "767",
         "seq": 0,
         "tid": 1728403200000,
@@ -363,7 +95,7 @@
           "text": "Concert simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra simfonic\u0103 a Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>GABRIEL BEBE\u0218ELEA</strong></p><p>Solist <br /><strong>BRUCE LIU</strong></p><p>Program</p><p><strong>George Enescu</strong><br />Pastorale-Fantaisie</p><p><strong>Aleksandr Scriabin</strong><br />Concertul &icirc;n fa diez minor pentru pian \u0219i orchestr\u0103, op. 20</p><p><strong>Paul Dukas</strong><br />Ucenicul vr\u0103jitor</p><p><strong>Aleksandr Scriabin</strong><br />Poemul extazului, op. 54</p>"
+          "text": "<p><strong>Orchestra simfonic\u0103 a Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>GABRIEL BEBE\u0218ELEA</strong></p><p>Solist <br /><strong>BRUCE LIU</strong></p><p>Program</p><p><strong>George Enescu</strong><br />Pastorale-Fantaisie</p><p><strong>Fr&eacute;d&eacute;ric Chopin<br /></strong>Concertul nr. 1, &icirc;n mi minor, pentru pian \u0219i orchestr\u0103, op. 11</p><p><strong>Paul Dukas</strong><br />Ucenicul vr\u0103jitor</p><p><strong>Aleksandr Scriabin</strong><br />Poemul extazului, op. 54</p>"
         },
         "tagset": {
           "tags": {
@@ -395,7 +127,7 @@
         ]
       },
       "sorter": "999_01B79980_0901_01B79980-1-01B799F8_693-01B79980-0-0",
-      "dtstamp": 1727209677888,
+      "dtstamp": 1728144368652,
       "status": {
         "name": "scheduled"
       },
@@ -430,7 +162,7 @@
           "text": "Concert simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra simfonic\u0103 a Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>GABRIEL BEBE\u0218ELEA</strong></p><p>Solist <br /><strong>BRUCE LIU</strong></p><p>Program</p><p><strong>George Enescu</strong><br />Pastorale-Fantaisie</p><p><strong>Aleksandr Scriabin</strong><br />Concertul &icirc;n fa diez minor pentru pian \u0219i orchestr\u0103, op. 20</p><p><strong>Paul Dukas</strong><br />Ucenicul vr\u0103jitor</p><p><strong>Aleksandr Scriabin</strong><br />Poemul extazului, op. 54</p><p></p><p><span>Pe 11 octombrie, de la ora 18, va avea loc &icirc;n Rotonda Ateneului lansarea volumului &quot;Musica Ricercata sau 11 povestiri muzicale surprinz\u0103toare&quot; de Gabriel Bebe\u015felea, publicat de Editura Humanitas, &icirc;n prezen\u0163a autorului \u015fi a directorului editurii, Gabriel Liiceanu, care vor sus\u0163ine un dialog cu public &icirc;n prefa\u0163a concertului simfonic de la ora 19.</span></p>"
+          "text": "<p><strong>Orchestra simfonic\u0103 a Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>GABRIEL BEBE\u0218ELEA</strong></p><p>Solist <br /><strong>BRUCE LIU</strong></p><p>Program</p><p><strong>George Enescu</strong><br />Pastorale-Fantaisie</p><p><strong>Fr&eacute;d&eacute;ric Chopin<br /></strong>Concertul nr. 1, &icirc;n mi minor, pentru pian \u0219i orchestr\u0103, op. 11</p><p><strong>Paul Dukas</strong><br />Ucenicul vr\u0103jitor</p><p><strong>Aleksandr Scriabin</strong><br />Poemul extazului, op. 54</p><p></p><p><span>&Icirc;n data de 11 octombrie, de la ora 18, va avea loc &icirc;n Rotonda Ateneului lansarea volumului &quot;Musica Ricercata sau 11 povestiri muzicale surprinz\u0103toare&quot; de Gabriel Bebe\u015felea, publicat de Editura Humanitas, &icirc;n prezen\u0163a autorului \u015fi a directorului editurii, Gabriel Liiceanu, care vor sus\u0163ine un dialog cu public &icirc;n prefa\u0163a concertului simfonic de la ora 19.</span></p>"
         },
         "tagset": {
           "tags": {
@@ -462,7 +194,7 @@
         ]
       },
       "sorter": "999_01B79F20_0901_01B79F20-1-01B79F98_694-01B79F20-0-0",
-      "dtstamp": 1727784400173,
+      "dtstamp": 1728144397525,
       "status": {
         "name": "scheduled"
       },
@@ -2152,6 +1884,140 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
+        "uid": "799",
+        "seq": 0,
+        "tid": 1730566800000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1730566800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1730574000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Cvartetul Arcadia"
+        },
+        "description": {
+          "text": "<p><strong>ANA T&Ouml;R&Ouml;K </strong>- vioar\u0103</p><p><strong>R\u0102SVAN DUMITRU </strong>- vioar\u0103</p><p><strong>TRAIAN BOAL\u0102 </strong>- viol\u0103</p><p><strong>ZSOLT T&Ouml;R&Ouml;K </strong>- violoncel</p><p>Invitat<br /><strong>SERGIU TUHU\u0162IU </strong>- pian</p><p>Program</p><p><span><strong>Joseph Haydn<br /></strong>Cvartetul de coarde nr. 38, &icirc;n mi bemol major, op. 50, nr. 3, Hob, III/46</span><br /><span></span></p><p><span><strong>Robert Schumann<br /></strong>Cvintetul cu pian &icirc;n mi bemol major, op. 44</span></p><p><span></span></p><p><span>Recital organizat &icirc;n colaborare cu Centrul Na\u0163ional de Art\u0103 Tinerimea Rom&acirc;n\u0103</span></p><p><span></span></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66ffba31205890162e6170f2",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://ove.ro/cvartetul-arcadia-6937",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66ffba31205890162e6170f2",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66ffba31205890162e6170f2",
+            "name": "Arcadia nou",
+            "altText": "Arcadia nou",
+            "width": 1536,
+            "height": 1024,
+            "size": 150917,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66ffba31205890162e6170f2",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B81B1C_0901_01B81B1C-1-01B81B94_799-01B81B1C-0-0",
+      "dtstamp": 1728052805116,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "798",
+        "seq": 0,
+        "tid": 1730566800000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1730566800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1730574000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital vocal (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<p><strong>Muzicienii Filarmonicii se prezint\u0103</strong></p><p><strong>Sear\u0103 de muzic\u0103 francez\u0103</strong></p><p><strong>LAURA CHERA </strong>- sopran\u0103</p><p>La pian<br /><strong>nn</strong></p><p>Program</p><p><strong>Reynaldo Hahn<br /></strong>Mai (Fran&ccedil;ois Copp&eacute;e)<br />L'Enamour&eacute;e (Th&eacute;odore de Banville)<br />F&ecirc;tes Galantes (Paul Verlaine)<br />Nocturne (Henri Cazalis)<br />Quand je fus pris au pavillon (Charles d'Orl&eacute;ans)<br />A Chloris (Th&eacute;ophile de Viau)<br />7 Chansons Grises (Paul Verlaine)</p><p><strong>Gabriel Faur&eacute;<br /></strong>Tristesse (Th&eacute;ophile Gautier)<br />Automne (Armand Silvestre)<br />Les Berceaux (Sully Prudhomme)</p><p><strong>Jules Massenet<br /></strong>Nuit d'Espagne (Louis Gallet)</p><p><strong>Alfred Bachelet<br /></strong>Ch&egrave;re Nuit (Eug&egrave;ne-Ad&egrave;nis Colombeau)</p><p><strong>Vincent d'Indy<br /></strong>Lied Maritime (autor anonim)</p><p><strong>Gabriel Dupont<br /></strong>Mandoline (Paul Verlaine)</p><p><strong>C&eacute;cile Chaminade<br /></strong>Ma Premi&egrave;re Lettre (Rosemonde G&eacute;rard)<br />La Lune Paresseuse (Charles de Bussy)<br />Sombrero (&Eacute;douard Guinand)<br />Les R&ecirc;ves (Louis Guays)</p><p><strong>Camille Saint-Sa&euml;ns<br /></strong>Tournoiement (Armand Renaud)</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66ffb7e4205890162e617006",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://ove.ro/recital-vocal-sala-mica-6936",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66ffb7e4205890162e617006",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66ffb7e4205890162e617006",
+            "name": "IMAG4127",
+            "altText": "IMAG4127",
+            "width": 4000,
+            "height": 3000,
+            "size": 1199005,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66ffb7e4205890162e617006",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B81B1C_0901_01B81B1C-1-01B81B94_798-01B81B1C-0-0",
+      "dtstamp": 1728052557960,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
         "uid": "795",
         "seq": 0,
         "tid": 1730653200000,
@@ -2420,6 +2286,71 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
+        "uid": "797",
+        "seq": 0,
+        "tid": 1731229200000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1731229200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1731236400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Concert simfonic"
+        },
+        "description": {
+          "text": "<p><strong>Orchestra inginerilor &rdquo;Petru Ghenghea&rdquo; </strong></p><p><span>Dirijor<br /><strong>ANDREI ILIESCU</strong></span></p><p>Solist\u0103 <br /><strong>DELIA DIACONESCU</strong><span><br /></span></p><p>Program</p><p><span><strong>Gioachino Rossini </strong> <br />Uvertura operei &rdquo;Cenu\u0219\u0103reasa&rdquo;</span></p><p><strong>Camille Saint-Sa&euml;</strong><span><strong>ns </strong> <br />Concertul </span>nr. 3, &icirc;n si minor, pentru vioar\u0103 \u0219i orchestr\u0103,  op. 61</p><p><span><strong>Franz Schubert</strong> <br />Simfonia nr. 6, &icirc;n do major, D 589</span></p><p><span> </span></p><p></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66ffb52d205890162e616f36",
+        "attachments": [],
+        "noDetail": false,
+        "version": 2,
+        "imageIdNg": "66ffb52d205890162e616f36",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66ffb52d205890162e616f36",
+            "name": "IMAG4119",
+            "altText": "IMAG4119",
+            "width": 4000,
+            "height": 3000,
+            "size": 1064818,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66ffb52d205890162e616f36",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B8463C_0901_01B8463C-1-01B846B4_797-01B8463C-0-0",
+      "dtstamp": 1728034109082,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
         "uid": "790",
         "seq": 0,
         "tid": 1731344400000,
@@ -2555,6 +2486,73 @@
       },
       "sorter": "999_01B8535C_0901_01B8535C-1-01B853B6_793-01B8535C-0-0",
       "dtstamp": 1727862325461,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "800",
+        "seq": 0,
+        "tid": 1731517200000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1731517200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1731524400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital de pian"
+        },
+        "description": {
+          "text": "<p><strong>Mo\u0219tenitorii Rom&acirc;niei muzicale</strong></p><p>- un proiect Radio Rom&acirc;nia Muzical \u0219i Rotary Club Pipera -</p><p><strong>ANDREI GOLOGAN</strong></p><p><em><strong>Muzica sferelor</strong></em></p><p>Program</p><p><strong>Komitas Vardapet</strong><br />Trei dansuri</p><p><strong>Aleksandr Scriabin<br /></strong>Poem, op. 32, nr. 1<br />Mazurc\u0103, op. 25, nr. 3</p><p><strong>George Enescu</strong><br />Pavana din Suita nr. 2, op. 10</p><p><strong>Johannes Brahms</strong><br />Sonata nr. 3, &icirc;n fa minor, op. 5</p><p></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66ffbcbe205890162e6171dc",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://ove.ro/recital-de-pian-6938",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66ffbcbe205890162e6171dc",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66ffbcbe205890162e6171dc",
+            "name": "Andrei Gologan",
+            "altText": "Andrei Gologan",
+            "width": 1500,
+            "height": 2000,
+            "size": 120651,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66ffbcbe205890162e6171dc",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B858FC_0901_01B858FC-1-01B85974_800-01B858FC-0-0",
+      "dtstamp": 1728053522977,
       "status": {
         "name": "scheduled"
       },
