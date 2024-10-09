@@ -3,73 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "767",
-        "seq": 0,
-        "tid": 1728403200000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1728403200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "end": {
-          "millis": 1728410400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Recital de chitar\u0103"
-        },
-        "description": {
-          "text": "<p><tkfmedia data-tkf-mediatype=\"image\" data-tkf-id=\"66d9a08c29c82220e82d4555\" data-tkf-style=\"align:left;width:256px\" data-tkf-featured=\"true\"></tkfmedia></p><p><strong>Mo\u0219tenitorii Rom&acirc;niei muzicale</strong> - un proiect Radio Rom&acirc;nia Muzical \u0219i Rotary Club Pipera</p><p>Recital extraordinar de chitar\u0103</p><p><strong>DRAGO\u0218 ILIE</strong></p><p>Program</p><p><strong>B&eacute;la Bart&oacute;k</strong></p><p>Sonatina (ar. Kanengiser)</p><p><strong>George Enescu</strong></p><p>L\u0103utarul, din Suita Impresii din copil\u0103rie (trans. Ilie)</p><p><strong>Wenzeslaus Thomas </strong><strong>Matiegka</strong></p><p>Grande Sonate nr. 1</p><p>Sonata &icirc;n si minor, op. 23 (dup\u0103 Haydn)</p><p><strong>T\u014dru Takemitsu</strong></p><p>Equinox</p><p><strong>Leo Brouwer</strong></p><p>Hika</p><p><strong>Manuel de Falla</strong></p><p>Homenaje pour Le tombeau de Claude Debussy</p><p><strong>Joaqu&iacute;n Rodrigo</strong></p><p>Invocaci&oacute;n y danza</p><p>Homenaje a Manuel de Falla</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66d9a08c29c82220e82d4555",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/recital-de-chitara",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66d9a08c29c82220e82d4555",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66d9a08c29c82220e82d4555",
-            "name": "Mostenitorii_romaniei_muzicale_octombrie_8_landscape",
-            "altText": "Mostenitorii_romaniei_muzicale_octombrie_8_landscape",
-            "width": 1920,
-            "height": 1080,
-            "size": 286326,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66d9a08c29c82220e82d4555",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B78E40_0901_01B78E40-1-01B78EB8_767-01B78E40-0-0",
-      "dtstamp": 1725907762902,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "693",
         "seq": 0,
         "tid": 1728576000000,
@@ -966,7 +899,7 @@
           "text": "Universitatea Na\u0163ional\u0103 de Muzic\u0103 din Bucure\u015fti - 160"
         },
         "description": {
-          "text": "<p><strong><em>Concert aniversar cu prilejul &icirc;mplinirii a 160 de ani de la &icirc;nfiin\u0163area</em></strong><br /><strong><em>Universit\u0103\u0163ii Na\u0163ionale de Muzic\u0103 din Bucure\u015fti</em></strong></p><p><strong>Ansamblurile UNMB</strong></p><p><strong>VIOLONCELLISSIMO<br /></strong>coordonator prof. univ. dr. Marin Cazacu</p><p><strong>GAME</strong><br />coordonatori prof. univ. dr. Alexandru Matei \u0219i conf. univ. dr. Sorin Rotaru</p><p><strong>FLAUT POWER</strong><br />coordonator prof. univ. dr. habil. Ion Bogdan \u0218ref\u0103nescu</p><p><strong>CLARINO</strong><br />coordonator conf. univ. dr. Emil Vi\u0219enescu</p><p><strong>Corul RICERCARE<br /></strong>dirijor lector univ. dr. Florian Costea</p>"
+          "text": "<p><strong><em>Concert aniversar cu prilejul &icirc;mplinirii a 160 de ani de la &icirc;nfiin\u0163area</em></strong><br /><strong><em>Universit\u0103\u0163ii Na\u0163ionale de Muzic\u0103 din Bucure\u015fti</em></strong></p><p><strong>Ansamblurile UNMB</strong></p><p><strong>VIOLONCELLISSIMO<br /></strong>coordonator prof. univ. dr. Marin Cazacu</p><p><strong>GAME</strong><br />coordonatori prof. univ. dr. Alexandru Matei \u0219i conf. univ. dr. Sorin Rotaru</p><p><strong>FLAUT POWER</strong><br />coordonator prof. univ. dr. habil. Ion Bogdan \u0218tef\u0103nescu</p><p><strong>CLARINO</strong><br />coordonator conf. univ. dr. Emil Vi\u0219enescu</p><p><strong>Corul RICERCARE<br /></strong>dirijor lector univ. dr. Florian Costea</p>"
         },
         "tagset": {
           "tags": {
@@ -996,7 +929,7 @@
         ]
       },
       "sorter": "999_01B7CC20_0901_01B7CC20-1-01B7CC98_801-01B7CC20-0-0",
-      "dtstamp": 1728295915288,
+      "dtstamp": 1728412640377,
       "status": {
         "name": "scheduled"
       },
