@@ -908,6 +908,8 @@
         },
         "imageId": "BWC_66f54a606e1e462de2e04a91",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://ove.ro/universitatea-nationala-de-muzica-din-bucuresti-160",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66f54a606e1e462de2e04a91",
@@ -929,7 +931,7 @@
         ]
       },
       "sorter": "999_01B7CC20_0901_01B7CC20-1-01B7CC98_801-01B7CC20-0-0",
-      "dtstamp": 1728412640377,
+      "dtstamp": 1728464253099,
       "status": {
         "name": "scheduled"
       },
@@ -1170,7 +1172,7 @@
           "text": "Recital cameral"
         },
         "description": {
-          "text": "<p><strong><em>&Aacute; la recherche du temps perdu</em></strong></p><p><strong>Cvintetul &rdquo;George Enescu&rdquo;</strong></p><p><strong>Ion Bogdan \u0218tef\u0103nescu </strong>- flaut</p><p><strong>Adrian Petrescu </strong>- oboi</p><p><strong>Emil Vi\u0219enescu </strong>- clarinet</p><p><strong>Lauren\u021biu Darie</strong> - fagot</p><p><strong>Ioan Gabriel Luca </strong>- corn</p><p>Invitat</p><p><strong>Andrei Licare\u021b </strong>- pian</p><p>Program<strong> </strong></p><p><strong>Louise Farrenc</strong><br />Sextet &icirc;n do minor pentru cvintet de sufl\u0103tori \u0219i pian, op. 40</p><p><strong>Vincent d&rsquo;Indy<br /></strong>Saraband\u0103 \u0219i Menuet pentru cvintet de sufl\u0103tori \u0219i pian, op. 72</p><p><strong>Francis Poulenc<br /></strong>Sextet pentru pian \u0219i cvintet de sufl\u0103tori, op. 100</p>"
+          "text": "<p><strong>ANULAT!</strong></p><p><strong>Din motive independente de voin\u0163a organizatorului, recitalul </strong><strong><em>&Aacute; la recherche du temps perdu </em>se anuleaz\u0103. Valoarea costului biletelor v&acirc;ndute va fi returnat\u0103 &icirc;n c&acirc;teva zile. </strong></p><p><strong>Cvintetul &rdquo;George Enescu&rdquo;</strong></p><p><strong>Ion Bogdan \u0218tef\u0103nescu </strong>- flaut</p><p><strong>Adrian Petrescu </strong>- oboi</p><p><strong>Emil Vi\u0219enescu </strong>- clarinet</p><p><strong>Lauren\u021biu Darie</strong> - fagot</p><p><strong>Ioan Gabriel Luca </strong>- corn</p><p>Invitat</p><p><strong>Andrei Licare\u021b </strong>- pian</p><p>Program<strong> </strong></p><p><strong>Louise Farrenc</strong><br />Sextet &icirc;n do minor pentru cvintet de sufl\u0103tori \u0219i pian, op. 40</p><p><strong>Vincent d&rsquo;Indy<br /></strong>Saraband\u0103 \u0219i Menuet pentru cvintet de sufl\u0103tori \u0219i pian, op. 72</p><p><strong>Francis Poulenc<br /></strong>Sextet pentru pian \u0219i cvintet de sufl\u0103tori, op. 100</p>"
         },
         "tagset": {
           "tags": {
@@ -1202,7 +1204,7 @@
         ]
       },
       "sorter": "999_01B7DD00_0901_01B7DD00-1-01B7DD78_768-01B7DD00-0-0",
-      "dtstamp": 1725907950531,
+      "dtstamp": 1728476999389,
       "status": {
         "name": "scheduled"
       },
@@ -1605,6 +1607,73 @@
       },
       "sorter": "999_01B7F95C_0901_01B7F95C-1-01B7F9D4_787-01B7F95C-0-0",
       "dtstamp": 1727450465024,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "803",
+        "seq": 0,
+        "tid": 1730134800000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1730134800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1730142000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Concert simfonic"
+        },
+        "description": {
+          "text": "<p><b><span>Gala final\u0103 a Festivalului Interna\u021bional Propatria &ndash; Tinere Talente Rom&acirc;ne\u0219ti</span></b><span></span></p><p><b><span>Orchestra Filarmonicii George Enescu</span></b></p><p>Dirijor<b><span> <br />Constantin Adrian Grigore</span></b></p><p>Soli\u015fti<b><span><br />Teodora Gheorghiu </span></b>&ndash; sopran\u0103<b><span><br /></span></b><b><span>Sorin Coliban </span></b>- bariton</p><p><span>Program</span></p><p><span><strong>Gioachino Rossini<br /></strong>Uvertura operei Co\u021bofana hoa\u021b\u0103 </span><span><br />&bdquo;Sia qualunque delle figlie&ldquo;, aria lui Don Magnifico din opera La Cenerentola <br /></span><span>&bdquo;All'ombra amena&ldquo;, aria Corinnei din opera Viaggio a Reims </span><span><br /></span></p><p><span><strong>B&eacute;la Bart&oacute;k</strong><br />7 dansuri rom&acirc;ne\u0219ti<br /></span></p><p><span><strong>George Enescu<br /></strong>Din \u015eapte c&acirc;ntece pe versuri de Cl&eacute;ment Marot: <br />Languir me fais, Changeons propos <br /></span></p><p><span><strong>Tiberiu Brediceanu<br /></strong>Doina st\u0103ncu\u0163ei </span></p><p><span><strong>Wolfgang Amadeus Mozart<br /></strong>Uvertura operei Nunta lui Figaro <br />&ldquo;La ci darem la mano&rdquo;, duet Zerlina &amp; Don Giovanni din opera Don Giovanni <br />Eugen Doga<br />Valsul Gramofon <br /></span></p><p><span><strong>Franz Leh&aacute;r<br /></strong>&ldquo;Lippen schweigen&rdquo;, duet Hanna &amp; Danilo din opereta V\u0103duva vesel\u0103</span></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66ffb52d205890162e616f36",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://ove.ro/concert-simfonic-6942",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66ffb52d205890162e616f36",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66ffb52d205890162e616f36",
+            "name": "IMAG4119",
+            "altText": "IMAG4119",
+            "width": 4000,
+            "height": 3000,
+            "size": 1064818,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66ffb52d205890162e616f36",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B7FEFC_0901_01B7FEFC-1-01B7FF74_803-01B7FEFC-0-0",
+      "dtstamp": 1728470190657,
       "status": {
         "name": "scheduled"
       },
@@ -2752,6 +2821,73 @@
       },
       "sorter": "999_01B8643C_0901_01B8643C-1-01B864B4_706-01B8643C-0-0",
       "dtstamp": 1727212829692,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "804",
+        "seq": 0,
+        "tid": 1731949200000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1731949200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1731956400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Turneul Na\u0163ional Vioara lui Enescu XIII"
+        },
+        "description": {
+          "text": "<p><strong>GABRIEL CROITORU</strong></p><p><strong>SIMINA CROITORU</strong></p><p><strong>PAUL R\u0102DUCANU</strong></p><p><strong>MIRCEA DUMITRESCU</strong></p><p>Program</p><p><strong>G. Pugnani/ Fr. Kreisler</strong><br />Preludiu \u0219i Allegro</p><p><strong>E. Poldini/ Fr. Kreisler</strong><br />Poup&eacute;e valsante</p><p><strong>Fritz Kreisler<br /></strong>Liebesleid<br /><strong></strong></p><p><strong>Grigora\u015f Dinicu<br /></strong>Hora staccato</p><p><strong>Fritz Kreisler<br /></strong>Liebesfreud</p><p><strong>Grigora\u015f Dinicu<br /></strong>Hora m\u0103r\u021bi\u0219orului<br />Reverie<br />Cioc&acirc;rlia</p><p><strong>Charles Dancla<br /></strong>Ah! vous dirai-je, maman!</p><p><strong>G. Enescu/ E. Girtain</strong><br />Balad\u0103</p><p><strong>P. Sarasate/ G. Croitoru</strong><br />Navarra</p><p><strong>Fr. Kreisler/ G. Croitoru</strong><br />Capriciu vienez</p><p></p><p></p><p></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66f54a606e1e462de2e04a91",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://ove.ro/turneul-national-vioara-lui-enescu-xiii",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66f54a606e1e462de2e04a91",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66f54a606e1e462de2e04a91",
+            "name": "IMAG4104",
+            "altText": "IMAG4104",
+            "width": 4000,
+            "height": 3000,
+            "size": 1392269,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66f54a606e1e462de2e04a91",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B8751C_0901_01B8751C-1-01B87594_804-01B8751C-0-0",
+      "dtstamp": 1728483628624,
       "status": {
         "name": "scheduled"
       },
@@ -5798,7 +5934,7 @@
           "text": "Concert simfonic"
         },
         "description": {
-          "text": "<p><em><strong>Concert de concerte</strong></em></p><p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>NICOLAE MOLDOVEANU</strong></p><p>Soli\u0219tii Filarmonicii:<br /><strong>ION BOGDAN \u0218TEF\u0102NESCU</strong> &ndash; flaut<br /><strong>EMIL VI\u0218ENESCU</strong> &ndash; clarinet<br /><strong>GABRIEL LUCA</strong> &ndash; corn<br /><strong>CONSTANTIN BORODIN</strong> &ndash; violoncel</p><p>Program</p><p><strong>Wolfgang Amadeus Mozart<br /></strong>Concertul nr. 2, &icirc;n mi bemol major, pentru corn \u0219i orchestr\u0103, KV 417</p><p><strong>Ludwig van Beethoven/ Sorin Petrescu<br /></strong>Serenada pentru flaut \u0219i orchestr\u0103, op. 25</p><p><strong>Carl Maria von Weber<br /></strong>Concertul nr. 2, &icirc;n mi bemol major, pentru clarinet \u0219i orchestr\u0103, op. 74</p><p><strong>Piotr Ilici Ceaikovski<br /></strong>Varia\u021biuni pe o tem\u0103 rococo pentru violoncel \u0219i orchestr\u0103, op. 33</p>"
+          "text": "<p><em><strong>Concert de concerte</strong></em></p><p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>NICOLAE MOLDOVEANU</strong></p><p>Soli\u0219tii Filarmonicii:<br /><strong>ION BOGDAN \u0218TEF\u0102NESCU</strong> &ndash; flaut<br /><strong>EMIL VI\u0218ENESCU</strong> &ndash; clarinet<br /><strong>GABRIEL LUCA</strong> &ndash; corn<br /><strong>CONSTANTIN BORODIN</strong> &ndash; violoncel</p><p>Program</p><p><strong>Wolfgang Amadeus Mozart<br /></strong>Concertul nr. 4, &icirc;n mi bemol major, pentru corn \u0219i orchestr\u0103, KV 495</p><p><strong>Ludwig van Beethoven/ Sorin Petrescu<br /></strong>Serenada pentru flaut \u0219i orchestr\u0103, op. 25</p><p><strong>Carl Maria von Weber<br /></strong>Concertul nr. 2, &icirc;n mi bemol major, pentru clarinet \u0219i orchestr\u0103, op. 74</p><p><strong>Piotr Ilici Ceaikovski<br /></strong>Varia\u021biuni pe o tem\u0103 rococo pentru violoncel \u0219i orchestr\u0103, op. 33</p>"
         },
         "tagset": {
           "tags": {
@@ -5828,7 +5964,7 @@
         ]
       },
       "sorter": "999_01BC0420_0901_01BC0420-1-01BC0498_749-01BC0420-0-0",
-      "dtstamp": 1722442896662,
+      "dtstamp": 1728464984014,
       "status": {
         "name": "scheduled"
       },
@@ -5863,7 +5999,7 @@
           "text": "Concert simfonic"
         },
         "description": {
-          "text": "<p><em><strong>Concert de concerte</strong></em></p><p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>NICOLAE MOLDOVEANU</strong></p><p>Soli\u0219tii Filarmonicii:<br /><strong>ION BOGDAN \u0218TEF\u0102NESCU</strong> &ndash; flaut<br /><strong>EMIL VI\u0218ENESCU</strong> &ndash; clarinet<br /><strong>GABRIEL LUCA</strong> &ndash; corn<br /><strong>CONSTANTIN BORODIN</strong> &ndash; violoncel</p><p>Program</p><p><strong>Wolfgang Amadeus Mozart<br /></strong>Concertul nr. 2, &icirc;n mi bemol major, pentru corn \u0219i orchestr\u0103, KV 417</p><p><strong>Ludwig van Beethoven/ Sorin Petrescu<br /></strong>Serenada pentru flaut \u0219i orchestr\u0103, op. 25</p><p><strong>Carl Maria von Weber<br /></strong>Concertul nr. 2, &icirc;n mi bemol major, pentru clarinet \u0219i orchestr\u0103, op. 74</p><p><strong>Piotr Ilici Ceaikovski<br /></strong>Varia\u021biuni pe o tem\u0103 rococo pentru violoncel \u0219i orchestr\u0103, op. 33</p>"
+          "text": "<p><em><strong>Concert de concerte</strong></em></p><p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>NICOLAE MOLDOVEANU</strong></p><p>Soli\u0219tii Filarmonicii:<br /><strong>ION BOGDAN \u0218TEF\u0102NESCU</strong> &ndash; flaut<br /><strong>EMIL VI\u0218ENESCU</strong> &ndash; clarinet<br /><strong>GABRIEL LUCA</strong> &ndash; corn<br /><strong>CONSTANTIN BORODIN</strong> &ndash; violoncel</p><p>Program</p><p><strong>Wolfgang Amadeus Mozart<br /></strong>Concertul nr. 4, &icirc;n mi bemol major, pentru corn \u0219i orchestr\u0103, KV 495</p><p><strong>Ludwig van Beethoven/ Sorin Petrescu<br /></strong>Serenada pentru flaut \u0219i orchestr\u0103, op. 25</p><p><strong>Carl Maria von Weber<br /></strong>Concertul nr. 2, &icirc;n mi bemol major, pentru clarinet \u0219i orchestr\u0103, op. 74</p><p><strong>Piotr Ilici Ceaikovski<br /></strong>Varia\u021biuni pe o tem\u0103 rococo pentru violoncel \u0219i orchestr\u0103, op. 33</p>"
         },
         "tagset": {
           "tags": {
@@ -5893,7 +6029,7 @@
         ]
       },
       "sorter": "999_01BC09C0_0901_01BC09C0-1-01BC0A38_750-01BC09C0-0-0",
-      "dtstamp": 1722442916118,
+      "dtstamp": 1728465009042,
       "status": {
         "name": "scheduled"
       },
