@@ -3,73 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "694",
-        "seq": 0,
-        "tid": 1728662400000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1728662400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "end": {
-          "millis": 1728669600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra simfonic\u0103 a Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>GABRIEL BEBE\u0218ELEA</strong></p><p>Solist <br /><strong>BRUCE LIU</strong></p><p>Program</p><p><strong>George Enescu</strong><br />Pastorale-Fantaisie</p><p><strong>Fr&eacute;d&eacute;ric Chopin<br /></strong>Concertul nr. 1, &icirc;n mi minor, pentru pian \u0219i orchestr\u0103, op. 11</p><p><strong>Paul Dukas</strong><br />Ucenicul vr\u0103jitor</p><p><strong>Aleksandr Scriabin</strong><br />Poemul extazului, op. 54</p><p></p><p><span>&Icirc;n data de 11 octombrie, de la ora 18, va avea loc &icirc;n Rotonda Ateneului lansarea volumului &quot;Musica Ricercata sau 11 povestiri muzicale surprinz\u0103toare&quot; de Gabriel Bebe\u015felea, publicat de Editura Humanitas, &icirc;n prezen\u0163a autorului \u015fi a directorului editurii, Gabriel Liiceanu, care vor sus\u0163ine un dialog cu public &icirc;n prefa\u0163a concertului simfonic de la ora 19.</span></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5945117e3a71e7fc6477",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/concert-simfonic-6894",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5945117e3a71e7fc6477",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5945117e3a71e7fc6477",
-            "name": "lIU",
-            "altText": "lIU",
-            "width": 225,
-            "height": 225,
-            "size": 6781,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5945117e3a71e7fc6477",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B79F20_0901_01B79F20-1-01B79F98_694-01B79F20-0-0",
-      "dtstamp": 1728144397525,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "776",
         "seq": 0,
         "tid": 1728720000000,
@@ -1440,7 +1373,7 @@
           "text": "Muzica pe \u00cen\u0163elesul Tuturor"
         },
         "description": {
-          "text": "<p><em><strong>Grand Op&eacute;ra</strong></em></p><p><strong>O c\u0103l\u0103torie prin universul liric francez</strong></p><p>Programul va fi anun\u0163at &icirc;n cur&acirc;nd!</p><p>Comentariu<br /><strong>MIHAI COJOCARU</strong></p>"
+          "text": "<p><em><strong>Grand Op&eacute;ra</strong></em></p><p><strong>O c\u0103l\u0103torie prin universul liric francez</strong></p><p><strong>LAURA CHERA, LAVINIA MAMOT, M\u0102D\u0102LINA STAN,<br />IRINA IONESCU, ELENA R\u0102DU\u0162 </strong>- soprane</p><p><strong>\u015eTEFANIA CHI\u0162ULESCU, GEANINA MUNTEANU,<br />ALEXANDRINA STAN </strong>- mezzosoprane</p><p><strong>ANDREI MIHALCEA </strong>- tenor</p><p><strong>DAN MACAVEI </strong>- bariton</p><p>Comentariu<br /><strong>MIHAI COJOCARU</strong></p><p>Program</p><p><strong>Charles Gounod<br /></strong>Duetul <em>Ange adorable</em> din opera Romeo \u015fi Julieta</p><p><strong>Georges Bizet</strong> <br />Aria <em>Je dis que rien m'epouvante </em>din opera Carmen<br />Seguidilla din opera Carmen<br />Aria <em>Me voila seule </em>din opera Pescuitorii de perle <br />Aria <em>O Nadir</em> din opera Pescuitorii de perle </p><p><strong>Jules Massenet</strong> <br />Aria <em>Je marche</em><span> <em>sur les chemins </em>din opera Manon</span></p><p><strong>Georges Bizet</strong> <br />Aria <em>A la voix d'un amant fid&egrave;le </em>din opera Frumoasa din<span> Perth <br /></span>Habanera din opera Carmen</p><p><strong>Jules Massenet</strong> <br />Aria <em>Pleurez, mes yeux</em> din opera Cidul </p><p><strong>Camille Saint-Sa&euml;ns</strong><br />Aria <em>Mon coeur s'ouvre &agrave; ta voix </em>din opera Samson \u015fi Dalila</p><p><strong>Jacques Offenbach</strong> <br />Aria <em>Les oiseaux dans la charmille </em>din opera Povestirile lui Hoffmann </p><p><strong>Leo Delibes</strong> <br />Duetul florilor din opera Lakm&eacute; </p><p><strong>Gaetano Donizetti</strong> <br />Aria<em> Leonor! viens, j'abandonne </em>din opera Favorita </p><p><strong>Jacques Offenbach</strong> <br /><span>Barcarola <em>Belle nuit, &ocirc; nuit d'amour </em>din opera Povestirile lui Hoffmann </span></p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p><span> </span></p>"
         },
         "tagset": {
           "tags": {
@@ -1472,7 +1405,7 @@
         ]
       },
       "sorter": "999_01B7F77C_0901_01B7F77C-1-01B7F7D6_796-01B7F77C-0-0",
-      "dtstamp": 1727897782781,
+      "dtstamp": 1728648811857,
       "status": {
         "name": "scheduled"
       },
@@ -2418,6 +2351,73 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
+        "uid": "805",
+        "seq": 0,
+        "tid": 1731258000000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1731258000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1731265200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital de flaut (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<p><strong>GABRIELE MASTROTOTARO</strong> - flaut</p><p><strong>CLEMENTINA RISTEA CIUCU</strong> - pian</p><p>Program</p><p><strong>Wolfgang Amadeus Mozart<br /></strong>Rondo &icirc;n re major, KV 184</p><p><strong>Salvatore Sciarrino<br /></strong>Immagine Fenicia pentru flaut solo (2001)</p><p><strong>Anna Bon di Venezia<br /></strong>Sonata &icirc;n sol minor, op. 1, nr. 5</p><p><strong>Doina Rotaru<br /></strong>Legenda pentru flaut solo (1983)</p><p><strong>Wolfgang Amadeus Mozart<br /></strong>Sonata pentru pian \u015fi vioar\u0103 &icirc;n sol major, KV 301 (versiunea pentru flaut)</p><p><strong>Bettina Skrzypczak<br /></strong>Mouvement for flute solo (1999)</p><p><strong>Carl Philipp Emanuel Bach<br /></strong>Sonata &icirc;n sol major pentru flaut \u015fi continuo, &quot;Hamburger&quot;</p><p></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_67090af2cdfd2d1ec6726a1c",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://ove.ro/recital-de-flaut-sala-mica-6947",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "67090af2cdfd2d1ec6726a1c",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "67090af2cdfd2d1ec6726a1c",
+            "name": "IMG_20230925_085125_705",
+            "altText": "IMG_20230925_085125_705",
+            "width": 671,
+            "height": 499,
+            "size": 39465,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_67090af2cdfd2d1ec6726a1c",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B8481C_0901_01B8481C-1-01B84894_805-01B8481C-0-0",
+      "dtstamp": 1728661602353,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
         "uid": "790",
         "seq": 0,
         "tid": 1731344400000,
@@ -2522,7 +2522,7 @@
           "text": "Stagiunea de mar\u0163i seara (Sala mic\u0103)"
         },
         "description": {
-          "text": "<div><strong>Ansamblul Apollo</strong></div><div></div><div><strong>Aron Cavassi</strong> - vioar\u0103</div><div><strong>Daniel Vots</strong> - viol\u0103</div><div><strong>David Soma</strong> - violoncel</div><div><strong>Andra M\u0103rgineanu</strong> - pian</div><div></div><div>Program</div><div></div><div><strong>Robert Schumann</strong><br />Cvartetul cu pian &icirc;n mi bemol major, op. 47</div><div> </div><div><strong>Johannes Brahms</strong><br />Cvartetul cu pian nr. 1, &icirc;n sol minor, op. 25</div><div></div>"
+          "text": "<div><strong>Ansamblul Apollo</strong></div><div></div><div><strong>Aron Cavassi</strong> - vioar\u0103</div><div><strong>Daniel Vots</strong> - viol\u0103</div><div><strong>David Soma</strong> - violoncel</div><div><strong>Andra M\u0103rgineanu</strong> - pian</div><div></div><div>Program</div><div></div><div><strong>Robert Schumann</strong><br />Cvartetul cu pian &icirc;n mi bemol major, op. 47</div><div></div><div><strong>Johannes Brahms</strong><br />Cvartetul cu pian nr. 1, &icirc;n sol minor, op. 25</div><div></div>"
         },
         "tagset": {
           "tags": {
@@ -2531,8 +2531,10 @@
         },
         "imageId": "BWC_66fd1544205890162e5fa1db",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://ove.ro/stagiunea-de-marti-seara-sala-mica-6948",
         "noDetail": false,
-        "version": 2,
+        "version": 1,
         "imageIdNg": "66fd1544205890162e5fa1db",
         "imageSets": [
           {
@@ -2552,7 +2554,7 @@
         ]
       },
       "sorter": "999_01B8535C_0901_01B8535C-1-01B853B6_793-01B8535C-0-0",
-      "dtstamp": 1727862325461,
+      "dtstamp": 1728670467946,
       "status": {
         "name": "scheduled"
       },
