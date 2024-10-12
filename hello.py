@@ -41,6 +41,7 @@ def main():
         <html>
         <head>
         <meta charset='utf-8'>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>Stagiunea Filarmonicii George Enescu</title>
         <link rel="stylesheet" href="style.css">
         <style>
@@ -51,7 +52,7 @@ def main():
         </head>
         <body>"""
     )
-    print("<header><h1>Stagiunea Filarmonicii George Enescu</h1></header>")
+    print("<header><h1>Stagiunea Filarmonicii <em>„George&nbsp;Enescu”</em></h1></header>")
     for event in parsed_events:
         print("<section>")
         print(f"<h2>{event.title}</h2>")
