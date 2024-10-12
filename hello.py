@@ -42,6 +42,7 @@ def main():
         <head>
         <meta charset='utf-8'>
         <title>Stagiunea Filarmonicii George Enescu</title>
+        <link rel="stylesheet" href="style.css">
         <style>
         h2 {
             color: green;
@@ -50,14 +51,14 @@ def main():
         </head>
         <body>"""
     )
-    print("<h1>Stagiunea Filarmonicii George Enescu</h1>")
+    print("<header><h1>Stagiunea Filarmonicii George Enescu</h1></header>")
     for event in parsed_events:
-        print("<div class='event'>")
+        print("<section>")
         print(f"<h2>{event.title}</h2>")
         print("<p>")
         for i, scheduling in enumerate(event.schedulings):
             if scheduling.tickets_url is not None:
-                print(f"<a href='{scheduling.tickets_url}'>", end="")
+                print(f"<a href='{scheduling.tickets_url}' class='button'>", end="")
             print(
                 f"{scheduling.date.strftime("%a, %d %b %Y, %H:%M")}",
                 end="",
@@ -68,7 +69,7 @@ def main():
                 print("<br/>")
         print("</p>")
         print(f"{event.details}")
-        print("</div>")
+        print("</section>")
 
     print("""<footer><a href="/raw_events.json">Raw data</a></footer>""")
     print("</body></html>")
