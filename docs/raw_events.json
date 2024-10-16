@@ -3,140 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "780",
-        "seq": 0,
-        "tid": 1729008000000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1729008000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "end": {
-          "millis": 1729015200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Stagiunea de mar\u021bi seara (Sala mic\u0103)"
-        },
-        "description": {
-          "text": "<p><strong>INGA</strong> <strong>RODINA</strong> - vioar\u0103</p><p><strong>TUDOR</strong> <strong>SCRIPCARIU</strong> - pian</p><p>Program</p><p><strong>\u0218tefan</strong> <strong>Aprodu<br /></strong>Sonata Agado, p\u0103r\u021bile I \u0219i II</p><p><strong>Arvo</strong> <strong>P&auml;rt<br /></strong>Fratres pentru vioar\u0103 \u0219i pian</p><p><strong>George </strong><strong>Enescu<br /></strong>Impromptu concertant</p><p><strong>Aleksandr</strong> <strong>Scriabin<br /></strong>Nocturn\u0103 (transcrip\u021bie pentru vioar\u0103 \u0219i pian de A. Moghilevski)</p><p><strong>Serghei</strong> <strong>Prokofiev<br /></strong>Sonata nr. 2, &icirc;n re major, pentru vioar\u0103 \u0219i pian, op. 94a, p\u0103r\u0163ile III \u015fi IV</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_651ffa6811412b783e04bf49",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/stagiunea-de-marti-seara-sala-mica-6917",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "651ffa6811412b783e04bf49",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "651ffa6811412b783e04bf49",
-            "name": "IMAG4134 (1)",
-            "altText": "IMAG4134 (1)",
-            "width": 4000,
-            "height": 3000,
-            "size": 1768558,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_651ffa6811412b783e04bf49",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B7B5A0_0901_01B7B5A0-1-01B7B618_780-01B7B5A0-0-0",
-      "dtstamp": 1728907851685,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "771",
-        "seq": 0,
-        "tid": 1729008000000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1729008000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "end": {
-          "millis": 1729015200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Ziua limbii, alfabetului \u015fi culturii armene"
-        },
-        "description": {
-          "text": "<p><strong><em>Ziua limbii, alfabetului \u015fi culturii armene</em></strong></p><p><strong>Recital extraordinar de pian<br />ILINCA DUMITRESCU</strong></p><p>Program<br /><strong>Arno Babageanian </strong>- 3 piese<br /><em>Elegie (In memoriam Aram Haciaturian) - Nocturn\u0103 - Capriccio</em></p><p><strong>Komitas &ndash; G. Saragian </strong> - Krunk (Cocorul)</p><p><strong>Gayane Cebotarian </strong>- 6 preludii</p><p><strong>Suren Zakarian </strong>- Humoreska</p><p><strong>Aram Satian </strong> - Sonatina</p><p><strong>Karen Ananian </strong>- 3 piese de jazz</p><p><strong>Aram Haciaturian </strong>- 4 piese<br /><em>&bdquo;&Icirc;n stil popular&rdquo; - Adagio din baletul &bdquo;Gayane&rdquo; - Galop (din muzica de scen\u0103 la &bdquo;Bal mascat&rdquo;) - Toccata (1932)</em></p><p>Cuv&acirc;nt introductiv: <strong>VARUJAN VOSGANIAN</strong><br />Prezentare: <strong>MADELEINE KARACA\u015eIAN</strong></p><p><br /><em>&Icirc;n colaborare cu Uniunea Armenilor din Rom&acirc;nia \u015fi Arhiepiscopia Armean\u0103 din Rom&acirc;nia</em></p><p></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66e2da5be072aa1321ca116d",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/ziua-limbii-alfabetului-si-culturii-armene",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66e2da5be072aa1321ca116d",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66e2da5be072aa1321ca116d",
-            "name": "The-Gospel-of-John-in-Armenian-leaves-from-an-extremely-early-Biblical-codex-on-vellum-9th-12th-c.-2",
-            "altText": "The-Gospel-of-John-in-Armenian-leaves-from-an-extremely-early-Biblical-codex-on-vellum-9th-12th-c.-2",
-            "width": 2000,
-            "height": 1391,
-            "size": 325258,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66e2da5be072aa1321ca116d",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B7B5A0_0901_01B7B5A0-1-01B7B618_771-01B7B5A0-0-0",
-      "dtstamp": 1726654735453,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "695",
         "seq": 0,
         "tid": 1729180800000,
@@ -497,7 +363,7 @@
           "text": "Festivalul Interna\u021bional de DUO Majura - Concert extraordinar"
         },
         "description": {
-          "text": "<p><strong><em>Festivalul Interna\u021bional de DUO Majura</em></strong><br /><strong><em>Concert extraordinar </em></strong></p><p><strong></strong><strong>Camerata Regal\u0103</strong></p><p>Dirijor</p><p><strong>CRISTIAN MANDEAL</strong><br /><strong></strong></p><p>Soli\u0219ti</p><p><strong>Duo pianistic ANDERSON &amp; ROE<br /></strong></p><p>Program <br /><strong>Ludwig van Beethoven </strong><br />Uvertura Egmont</p><p><strong>Wolfgang Amadeus Mozart </strong><br />Concertul &icirc;n mi bemol major pentru 2 piane \u015fi orchestr\u0103, KV 365</p><p><strong>Camille Saint-Sa&euml;ns</strong> <br />Uvertura operei &rdquo;Carmen&rdquo;</p><p><strong>Saint-Sa&euml;ns / Anderson &amp; Roe</strong><br />Fantezia &rdquo;Carmen&rdquo; pentru 2 piane \u0219i orchestr\u0103</p>"
+          "text": "<p><strong><em>Festivalul Interna\u021bional de DUO Majura</em></strong><br /><strong><em>Concert extraordinar </em></strong></p><p><strong></strong><strong>Camerata Regal\u0103</strong></p><p>Dirijor</p><p><strong>CRISTIAN MANDEAL</strong><br /><strong></strong></p><p>Soli\u0219ti</p><p><strong>Duo pianistic ANDERSON &amp; ROE<br /></strong></p><p>Program <br /><strong>Ludwig van Beethoven </strong><br />Uvertura Egmont</p><p><strong>Wolfgang Amadeus Mozart </strong><br />Concertul &icirc;n mi bemol major pentru 2 piane \u015fi orchestr\u0103, KV 365</p><p><strong>Georges Bizet</strong><br />Uvertura operei &rdquo;Carmen&rdquo;</p><p><strong>G. Bizet / Anderson &amp; Roe</strong><br />Fantezia &rdquo;Carmen&rdquo; pentru 2 piane \u0219i orchestr\u0103</p>"
         },
         "tagset": {
           "tags": {
@@ -534,7 +400,7 @@
         ]
       },
       "sorter": "999_01B7D1C0_0901_01B7D1C0-1-01B7D238_774-01B7D1C0-0-0",
-      "dtstamp": 1727691577765,
+      "dtstamp": 1728996429600,
       "status": {
         "name": "scheduled"
       },
@@ -1750,76 +1616,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "806",
-        "seq": 0,
-        "tid": 1730912400000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1730912400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1730917800000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Recital de pian la patru m\u00e2ini (Sala mic\u0103)"
-        },
-        "description": {
-          "text": "<p><strong><em>Bohemian Trip</em></strong></p><p><strong>Les Enharmoniques Piano Duo</strong><br /><strong>MARIA INDRIC\u0102U<br />ANAMARIA BIACIU-POPA</strong></p><p>Program</p><p><strong>Franz Liszt/ F. Bendel<br /></strong>Rapsodia ungar\u0103 nr. 2<br /><br /><strong>Bed\u0159ich Smetana<br /></strong>Poemul Simfonic ,,Vltava&rdquo; (200 de ani de la na\u0219terea<br />compozitorului)<br /><br /><strong>Franz Liszt<br /></strong>Poemul Simfonic ,,Mazeppa&rdquo;<br /><br /><strong>Johannes Brahms<br /></strong>Dansuri ungare:<br />Nr. 10 Presto<br />Nr. 8 Presto<br />Nr. 7 Allegretto<br />Nr. 6 Vivace<br />Nr. 5 Allegro</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_670d052acdfd2d1ec673f96c",
-        "attachments": [],
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "670d052acdfd2d1ec673f96c",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "670d052acdfd2d1ec673f96c",
-            "name": "Les Enharmoniques - foto Cristina Nichitus Roncea-18-1",
-            "altText": "Les Enharmoniques - foto Cristina Nichitus Roncea-18-1",
-            "width": 3400,
-            "height": 3921,
-            "size": 663660,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_670d052acdfd2d1ec673f96c",
-            "copyright": {
-              "creator": "Cristina Nichitus Roncea",
-              "copyright": "PhotographyStudio.Ro",
-              "source": "IPTC"
-            },
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B8319C_0901_01B8319C-1-01B831F6_806-01B8319C-0-0",
-      "dtstamp": 1728909237775,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "701",
         "seq": 0,
         "tid": 1730998800000,
@@ -2491,6 +2287,78 @@
       },
       "sorter": "999_01B8751C_0901_01B8751C-1-01B87594_804-01B8751C-0-0",
       "dtstamp": 1728483628624,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "806",
+        "seq": 0,
+        "tid": 1732035600000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1732035600000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1732039200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Stagiunea de mar\u0163i seara (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<p><strong><em>Bohemian Trip</em></strong></p><p><strong>Les Enharmoniques Piano Duo</strong><br /><strong>MARIA INDRIC\u0102U<br />ANAMARIA BIACIU-POPA</strong></p><p>Program</p><p><strong>Franz Liszt/ F. Bendel<br /></strong>Rapsodia ungar\u0103 nr. 2<br /><br /><strong>Bed\u0159ich Smetana<br /></strong>Poemul Simfonic ,,Vltava&rdquo; (200 de ani de la na\u0219terea<br />compozitorului)<br /><br /><strong>Franz Liszt<br /></strong>Poemul Simfonic ,,Mazeppa&rdquo;<br /><br /><strong>Johannes Brahms<br /></strong>Dansuri ungare:<br />Nr. 10 Presto<br />Nr. 8 Presto<br />Nr. 7 Allegretto<br />Nr. 6 Vivace<br />Nr. 5 Allegro</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_670d052acdfd2d1ec673f96c",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://ove.ro/stagiunea-de-marti-seara-sala-mica-6950",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "670d052acdfd2d1ec673f96c",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "670d052acdfd2d1ec673f96c",
+            "name": "Les Enharmoniques - foto Cristina Nichitus Roncea-18-1",
+            "altText": "Les Enharmoniques - foto Cristina Nichitus Roncea-18-1",
+            "width": 3400,
+            "height": 3921,
+            "size": 663660,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_670d052acdfd2d1ec673f96c",
+            "copyright": {
+              "creator": "Cristina Nichitus Roncea",
+              "copyright": "PhotographyStudio.Ro",
+              "source": "IPTC"
+            },
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B87ABC_0901_01B87ABC-1-01B87AF8_806-01B87ABC-0-0",
+      "dtstamp": 1729012910081,
       "status": {
         "name": "scheduled"
       },
