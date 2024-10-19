@@ -52,7 +52,7 @@ def main():
     for event in parsed_events:
         print("<section>")
         print(f"<h2>{event.title}</h2>")
-        print(f"<img src='{event.image_url}'/>")
+        print(f"<img src='{event.image.src}' alt='{event.image.alt}'/>")
         print("<p>")
         for i, scheduling in enumerate(event.schedulings):
             if scheduling.tickets_url is not None:
@@ -110,22 +110,30 @@ def parse_event(event_data):
     event_start_millis = when["start"]["millis"]
     event_start = datetime.fromtimestamp(event_start_millis / 1000)
     content = event_data["content"]
-    image_url = get_image_url(content)
+    img = get_image(content)
     title = standardize_title(content["summary"]["text"])
     description = standardize(content["description"]["text"])
     tickets_url = content["customButtonLink"] if "customButtonLink" in content else None
     print(f"{title} {event_start} {tickets_url}", file=sys.stderr)
 
     return Event(
-        [Scheduling(tickets_url, event_start)], title, description, image_url
+        [Scheduling(tickets_url, event_start)], title, description, img
     )
 
 
-def get_image_url(event_content):
+@dataclass(frozen=True)
+class Img:
+    src: str
+    alt: str
+
+
+def get_image(event_content) -> Img:
     image_set = event_content["imageSets"][0]
     owner_id = image_set["ownerId"]
     image_id = image_set["id"]
-    return f"https://d3flpus5evl89n.cloudfront.net/{owner_id}/{image_id}/scaled_512.jpg"
+    src = f"https://d3flpus5evl89n.cloudfront.net/{owner_id}/{image_id}/scaled_512.jpg"
+    alt = image_set["altText"]
+    return Img(src, alt)
 
 
 def get_event_url(event_id):
@@ -174,7 +182,7 @@ class Event:
     schedulings: list[Scheduling]
     title: str
     details: str
-    image_url: Optional[str] = None
+    image: Optional[Img] = None
 
 
 # unused, kept for historical interest
