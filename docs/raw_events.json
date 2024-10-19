@@ -3,73 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "696",
-        "seq": 0,
-        "tid": 1729267200000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1729267200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "end": {
-          "millis": 1729274400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra simfonic\u0103 a Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>KRISTJAN J&Auml;RVI</strong></p><p>Solist <br /><strong>VLAD ST\u0102NCULEASA</strong></p><p>Program</p><p><strong>Kristjan J&auml;rvi<br /></strong>Aurora</p><p><strong>Felix Mendelssohn<br /></strong>Concertul &icirc;n mi minor pentru vioar\u0103 \u015fi orchestr\u0103, op. 64</p><p><strong>Jean Sibelius<br /></strong>Simfonia nr. 2, &icirc;n re major, op. 43</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5990117e3a71e7fc64b9",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/concert-simfonic-6896",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5990117e3a71e7fc64b9",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5990117e3a71e7fc64b9",
-            "name": "jarvi",
-            "altText": "jarvi",
-            "width": 281,
-            "height": 179,
-            "size": 4823,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5990117e3a71e7fc64b9",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B7C680_0901_01B7C680-1-01B7C6F8_696-01B7C680-0-0",
-      "dtstamp": 1727210518451,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "779",
         "seq": 0,
         "tid": 1729353600000,
@@ -1805,7 +1738,7 @@
         ]
       },
       "sorter": "999_01B8481C_0901_01B8481C-1-01B84894_805-01B8481C-0-0",
-      "dtstamp": 1728661602353,
+      "dtstamp": 1729258345937,
       "status": {
         "name": "scheduled"
       },
@@ -2837,6 +2770,71 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
+        "uid": "807",
+        "seq": 0,
+        "tid": 1734454800000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1734454800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1734462000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital de org\u0103"
+        },
+        "description": {
+          "text": "<p><strong>Recital de org\u0103<br /></strong><strong>NICOLAE MOLDOVEANU<br /></strong></p><p>Program</p><p><strong>Vincent L&uuml;beck<br /></strong>Preambulum &icirc;n mi major</p><p><strong>Georg B&ouml;hm<br /></strong>Partita dup\u0103 aria &quot;Jesu, du bist allzu schone</p><p><strong>Nicolaus Bruhns<br /></strong>Coralul &quot;Nun Komm, der Heiden Heiland&quot;</p><p><strong>Dietrich Buxtehude<br /></strong>Preludiu \u015fi fug\u0103 &icirc;n re major</p><p><strong>Johann Sebastian Bach<br /></strong>Preludiu \u015fi fug\u0103 &icirc;n si minor, BWV 544</p><p><strong>Bach/Reger/Brahms<br /></strong>Varia\u0163iuni dup\u0103 coralul &quot;O Haupt von Blut und Wunden&quot;</p><p><strong>Bach/Mendelssohn<br /></strong>Sonata dup\u0103 coralul &quot;Vater unser in Himmel&quot;</p><p><strong>Robert Schumann<br /></strong>Fuga nr. 1, pe tema BACH</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_6712644fe26a8f325c1d7392",
+        "attachments": [],
+        "noDetail": false,
+        "version": 2,
+        "imageIdNg": "6712644fe26a8f325c1d7392",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "6712644fe26a8f325c1d7392",
+            "name": "Recital-de-orga-cu-Nicolae-Moldoveanu-@-Ateneul-Roman-Sursa-FGE",
+            "altText": "Recital-de-orga-cu-Nicolae-Moldoveanu-@-Ateneul-Roman-Sursa-FGE",
+            "width": 1440,
+            "height": 900,
+            "size": 161488,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_6712644fe26a8f325c1d7392",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B9183C_0901_01B9183C-1-01B918B4_807-01B9183C-0-0",
+      "dtstamp": 1729258585536,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
         "uid": "713",
         "seq": 0,
         "tid": 1734627600000,
@@ -3549,6 +3547,71 @@
       },
       "sorter": "999_01B9EDFC_0901_01B9EDFC-1-01B9EE74_722-01B9EDFC-0-0",
       "dtstamp": 1722441446414,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "808",
+        "seq": 0,
+        "tid": 1737910800000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1737910800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1737918000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital cameral"
+        },
+        "description": {
+          "text": "<p><strong>Cvartetul &quot;Pas de Quatre&quot;<br />MIRCEA LAZ\u0102R</strong> - vioar\u0103<br /><strong>LUCIAN MORARU</strong> - viol\u0103<br /><strong>BOGDAN POSTOLACHE</strong> - violoncel<br /><strong>NICOLAE DUMITRU</strong> - pian</p><p>Program</p><p><strong>Ludwig van Beethoven<br /></strong>Cvartetul cu pian &icirc;n mi bemol major, op. 16</p><p><strong>Robert Schumann<br /></strong>Cvartetul cu pian &icirc;n mi bemol major, op. 47</p><p><strong>Johannes Brahms<br /></strong>Cvartetul cu pian &icirc;n sol minor, op. 25</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_67127664e26a8f325c1d8972",
+        "attachments": [],
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "67127664e26a8f325c1d8972",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "67127664e26a8f325c1d8972",
+            "name": "Poster_A3_Concerto_2025-01",
+            "altText": "Poster_A3_Concerto_2025-01",
+            "width": 1126,
+            "height": 1024,
+            "size": 134713,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_67127664e26a8f325c1d8972",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B9F93C_0901_01B9F93C-1-01B9F9B4_808-01B9F93C-0-0",
+      "dtstamp": 1729263261091,
       "status": {
         "name": "scheduled"
       },
