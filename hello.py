@@ -131,7 +131,12 @@ def get_image(event_content) -> Img:
     image_set = event_content["imageSets"][0]
     owner_id = image_set["ownerId"]
     image_id = image_set["id"]
-    src = f"https://d3flpus5evl89n.cloudfront.net/{owner_id}/{image_id}/scaled_512.jpg"
+    width = image_set["width"]
+    if width < 512:
+        size = 256
+    else:
+        size = 512
+    src = f"https://d3flpus5evl89n.cloudfront.net/{owner_id}/{image_id}/scaled_{size}.jpg"
     alt = image_set["altText"]
     return Img(src, alt)
 
