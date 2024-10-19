@@ -48,6 +48,7 @@ def main():
         <body>"""
     )
     print("<header><h1>Stagiunea Filarmonicii <em>„George&nbsp;Enescu”</em></h1></header>")
+    print("<main>")
     for event in parsed_events:
         print("<section>")
         print(f"<h2>{event.title}</h2>")
@@ -68,6 +69,7 @@ def main():
         print(f"{event.details}")
         print("</section>")
 
+    print("</main>")
     print("""<footer><a href="/raw_events.json">Raw data</a></footer>""")
     print("</body></html>")
 
@@ -123,7 +125,7 @@ def get_image_url(event_content):
     image_set = event_content["imageSets"][0]
     owner_id = image_set["ownerId"]
     image_id = image_set["id"]
-    return f"https://d3flpus5evl89n.cloudfront.net/{owner_id}/{image_id}/scaled_256.jpg"
+    return f"https://d3flpus5evl89n.cloudfront.net/{owner_id}/{image_id}/scaled_512.jpg"
 
 
 def get_event_url(event_id):
