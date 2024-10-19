@@ -44,11 +44,6 @@ def main():
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>Stagiunea Filarmonicii George Enescu</title>
         <link rel="stylesheet" href="style.css">
-        <style>
-        h2 {
-            color: green;
-        }
-        </style>
         </head>
         <body>"""
     )
@@ -56,6 +51,7 @@ def main():
     for event in parsed_events:
         print("<section>")
         print(f"<h2>{event.title}</h2>")
+        print(f"<img src='{event.image_url}'/>")
         print("<p>")
         for i, scheduling in enumerate(event.schedulings):
             if scheduling.tickets_url is not None:
@@ -112,15 +108,22 @@ def parse_event(event_data):
     event_start_millis = when["start"]["millis"]
     event_start = datetime.fromtimestamp(event_start_millis / 1000)
     content = event_data["content"]
-    # TODO: get image from content
+    image_url = get_image_url(content)
     title = standardize_title(content["summary"]["text"])
     description = standardize(content["description"]["text"])
     tickets_url = content["customButtonLink"] if "customButtonLink" in content else None
     print(f"{title} {event_start} {tickets_url}", file=sys.stderr)
 
     return Event(
-        [Scheduling(tickets_url, event_start)], title, description
+        [Scheduling(tickets_url, event_start)], title, description, image_url
     )
+
+
+def get_image_url(event_content):
+    image_set = event_content["imageSets"][0]
+    owner_id = image_set["ownerId"]
+    image_id = image_set["id"]
+    return f"https://d3flpus5evl89n.cloudfront.net/{owner_id}/{image_id}/scaled_256.jpg"
 
 
 def get_event_url(event_id):
@@ -169,6 +172,7 @@ class Event:
     schedulings: list[Scheduling]
     title: str
     details: str
+    image_url: Optional[str] = None
 
 
 # unused, kept for historical interest
