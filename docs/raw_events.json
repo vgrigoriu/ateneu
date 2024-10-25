@@ -1579,7 +1579,7 @@
           "text": "Clasic e Fantastic - Cum s\u0103 \u00een\u021belegem muzica"
         },
         "description": {
-          "text": "<p><strong>Camille Saint-Sa&euml;ns &ndash; Carnavalul animalelor</strong></p><p>Orchestra de camer\u0103 a Colegiului Na\u021bional de Muzic\u0103 <em>George Enescu</em></p><p>Dirijor<br /><strong>GHEORGHE ILIU\u021a\u0102</strong></p><p>Soli\u0219ti</p><p><strong>Filippos Klapsinakis</strong> &ndash; pian 1</p><p><strong>Alexandru Dumitru</strong> &ndash; pian 2</p><p> </p><p>Program</p><p>Nr. 1 - Introduction et marche royale du lion (<strong>Introducere </strong><strong>\u0219i </strong><strong>mar\u0219ul regal al leului</strong>)</p><p>Nr. 2 - Poules et coqs (<strong>G\u0103ini \u0219i coco\u0219i</strong>) </p><p>Nr. 3: H&eacute;miones (animaux v&eacute;loces) <strong>M\u0103garii s\u0103lbatici (animale rapide)</strong></p><p>Nr. 4 &ndash; Tortues (<strong>\u021aestoase)</strong></p><p>Nr. 5: L'&Eacute;l&eacute;phant (<strong>Elefantul</strong>) solo contrabas &ndash; Gheorghe Ulubeanu</p><p>Nr. 6 - Kangourous (<strong>Cangurii</strong>)</p><p>Nr. 7 - Aquarium (<strong>Acvariul</strong>)</p><p>Nr. 8 &ndash; Personnages &agrave; longues oreilles<strong> (Personaje cu urechi lungi)</strong></p><p>Nr. 9: Le coucou au fond des bois<strong> (Cucul &icirc;n ad&acirc;ncul p\u0103durii)</strong></p><p>Nr. 10 &ndash; Voli&egrave;re <strong>(Colivia)</strong></p><p>Nr. 11 &ndash; Pianistes <strong>(Piani\u0219ti)</strong></p><p>Nr. 12 &ndash; Fossiles (<strong>Fosilele</strong>)</p><p>Nr. 13 - Cygne (<strong>Leb\u0103da</strong>)</p><p>Nr. 14 &ndash; <strong>Final </strong></p><p></p>"
+          "text": "<p><strong>Camille Saint-Sa&euml;ns &ndash; Carnavalul animalelor</strong></p><p>Orchestra de camer\u0103 a Colegiului Na\u021bional de Muzic\u0103 <em>George Enescu</em></p><p>Dirijor<br /><strong>GHEORGHE ILIU\u021a\u0102</strong></p><p>Soli\u0219ti</p><p><strong>Filippos Klapsinakis</strong> &ndash; pian 1</p><p><strong>Alexandru Dumitru</strong> &ndash; pian 2</p><p>Comentariu<br /><strong>IRINA S&Acirc;RBU</strong></p><p></p><p>Program</p><p>Nr. 1 - Introduction et marche royale du lion (<strong>Introducere </strong><strong>\u0219i </strong><strong>mar\u0219ul regal al leului</strong>)</p><p>Nr. 2 - Poules et coqs (<strong>G\u0103ini \u0219i coco\u0219i</strong>)</p><p>Nr. 3: H&eacute;miones (animaux v&eacute;loces) <strong>M\u0103garii s\u0103lbatici (animale rapide)</strong></p><p>Nr. 4 &ndash; Tortues (<strong>\u021aestoase)</strong></p><p>Nr. 5: L'&Eacute;l&eacute;phant (<strong>Elefantul</strong>) solo contrabas &ndash; Gheorghe Ulubeanu</p><p>Nr. 6 - Kangourous (<strong>Cangurii</strong>)</p><p>Nr. 7 - Aquarium (<strong>Acvariul</strong>)</p><p>Nr. 8 &ndash; Personnages &agrave; longues oreilles<strong> (Personaje cu urechi lungi)</strong></p><p>Nr. 9: Le coucou au fond des bois<strong> (Cucul &icirc;n ad&acirc;ncul p\u0103durii)</strong></p><p>Nr. 10 &ndash; Voli&egrave;re <strong>(Colivia)</strong></p><p>Nr. 11 &ndash; Pianistes <strong>(Piani\u0219ti)</strong></p><p>Nr. 12 &ndash; Fossiles (<strong>Fosilele</strong>)</p><p>Nr. 13 - Cygne (<strong>Leb\u0103da</strong>)</p><p>Nr. 14 &ndash; <strong>Final </strong></p><p></p>"
         },
         "tagset": {
           "tags": {
@@ -1589,7 +1589,7 @@
         "imageId": "BWC_66ffb52d205890162e616f36",
         "attachments": [],
         "noDetail": false,
-        "version": 2,
+        "version": 1,
         "imageIdNg": "66ffb52d205890162e616f36",
         "imageSets": [
           {
@@ -1609,7 +1609,7 @@
         ]
       },
       "sorter": "999_01B867FC_0901_01B867FC-1-01B86856_809-01B867FC-0-0",
-      "dtstamp": 1729768189432,
+      "dtstamp": 1729860070902,
       "status": {
         "name": "scheduled"
       },
@@ -1948,6 +1948,71 @@
       },
       "sorter": "999_01B88B9C_0901_01B88B9C-1-01B88C14_705-01B88B9C-0-0",
       "dtstamp": 1727213812862,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "811",
+        "seq": 0,
+        "tid": 1732381200000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1732381200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1732386600000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital cameral"
+        },
+        "description": {
+          "text": "<p><strong>VALENTIN \u0218ERBAN </strong>- vioar\u0103</p><p><strong>\u0218TEFAN CAZACU </strong>- violoncel</p><p><strong>IOAN-DRAGO\u0218 DIMITRIU </strong>- pian</p><p>Program</p><p><strong>Serghei Rahmaninov</strong><br />Trio elegiac nr. 1, &icirc;n sol minor</p><p><strong>Piotr Ilici Ceaikovski</strong><br />Trio &icirc;n la minor, op. 50</p><p><strong></strong></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66fbf0c5205890162e5ed261",
+        "attachments": [],
+        "noDetail": false,
+        "version": 2,
+        "imageIdNg": "66fbf0c5205890162e5ed261",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66fbf0c5205890162e5ed261",
+            "name": "IMAG4096 (1)",
+            "altText": "IMAG4096 (1)",
+            "width": 4000,
+            "height": 3000,
+            "size": 1470175,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66fbf0c5205890162e5ed261",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B8913C_0901_01B8913C-1-01B89196_811-01B8913C-0-0",
+      "dtstamp": 1729859898854,
       "status": {
         "name": "scheduled"
       },
