@@ -18,7 +18,7 @@
             <h2>{{{title}}}</h2>
             <img src='{{image.src}}' alt='{{image.alt}}' />
             <p>
-                {{#schedulings}}{{#tickets_url}}<a href='{{tickets_url}}' class='button'>{{/tickets_url}}{{when}}{{#tickets_url}}</a>{{/tickets_url}}{{#newline_after}}<br />
+                {{#schedulings}}{{#tickets_url}}<a href='{{tickets_url}}' class='button' target='_blank'>{{/tickets_url}}{{when}}{{#tickets_url}}</a>{{/tickets_url}}{{#newline_after}}<br />
                 {{/newline_after}}{{/schedulings}}
             </p>
             {{{details}}}
