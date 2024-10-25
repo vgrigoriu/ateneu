@@ -1,13 +1,14 @@
 from dataclasses import dataclass
 from datetime import datetime
+import json
 import locale
 import sys
 from typing import Optional
-from bs4 import BeautifulSoup, Tag
-import requests
-import json
 
+from bs4 import BeautifulSoup, Tag
 import chevron
+import requests
+
 
 def main():
     locale.setlocale(locale.LC_ALL, "ro_RO.UTF-8")
@@ -88,9 +89,7 @@ def parse_event(event_data):
     tickets_url = content["customButtonLink"] if "customButtonLink" in content else None
     print(f"{title} {event_start} {tickets_url}", file=sys.stderr)
 
-    return Event(
-        [Scheduling(tickets_url, event_start)], title, description, img
-    )
+    return Event([Scheduling(tickets_url, event_start)], title, description, img)
 
 
 @dataclass(frozen=True)
@@ -108,7 +107,9 @@ def get_image(event_content) -> Img:
         size = 256
     else:
         size = 512
-    src = f"https://d3flpus5evl89n.cloudfront.net/{owner_id}/{image_id}/scaled_{size}.jpg"
+    src = (
+        f"https://d3flpus5evl89n.cloudfront.net/{owner_id}/{image_id}/scaled_{size}.jpg"
+    )
     alt = image_set["altText"]
     return Img(src, alt)
 
