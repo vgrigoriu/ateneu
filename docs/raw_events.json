@@ -3,140 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "697",
-        "seq": 0,
-        "tid": 1729699200000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1729699200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "end": {
-          "millis": 1729706400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert vocal-simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra Simfonic\u0103 \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>ARNAUD ARBET</strong></p><p>Solist <br /><strong>DAVID KADOUCH</strong></p><p>Program</p><p><strong>Gabriel Faur&eacute;<br /></strong>Pavan\u0103, op. 50</p><p><strong>Camille Saint-Sa&euml;ns</strong><br />Concertul nr. 1, &icirc;n re major, pentru pian \u0219i orchestr\u0103, op. 17</p><p><strong>Claude Debussy<br /></strong>Nocturne<span> </span><span> </span></p><p><strong>Maurice Ravel<br /></strong>Bol&eacute;ro</p><p>Dirijorul corului<br /><strong>IOSIF ION PRUNNER</strong></p><p><strong> </strong></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa59d4117e3a71e7fc64f8",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/concert-vocal-simfonic-6898",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa59d4117e3a71e7fc64f8",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa59d4117e3a71e7fc64f8",
-            "name": "arbet",
-            "altText": "arbet",
-            "width": 275,
-            "height": 183,
-            "size": 5717,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa59d4117e3a71e7fc64f8",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B7E2A0_0901_01B7E2A0-1-01B7E318_697-01B7E2A0-0-0",
-      "dtstamp": 1727211169583,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "698",
-        "seq": 0,
-        "tid": 1729785600000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1729785600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "end": {
-          "millis": 1729792800000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EEST",
-          "offset": 10800000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert vocal-simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra Simfonic\u0103 \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor<br /><strong>ARNAUD ARBET</strong></p><p>Solist<br /><strong>DAVID KADOUCH</strong></p><p>Program</p><p><strong>Gabriel Faur&eacute;<br /></strong>Pavan\u0103, op. 50</p><p><strong>Camille Saint-Sa&euml;ns</strong><br />Concertul nr. 1, &icirc;n re major, pentru pian \u0219i orchestr\u0103, op. 17</p><p><strong>Claude Debussy<br /></strong>Nocturne<span></span><span></span></p><p><strong>Maurice Ravel<br /></strong>Bol&eacute;ro</p><p>Dirijorul corului<br /><strong>IOSIF ION PRUNNER</strong></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa59d4117e3a71e7fc64f8",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/concert-vocal-simfonic-6897",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa59d4117e3a71e7fc64f8",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa59d4117e3a71e7fc64f8",
-            "name": "arbet",
-            "altText": "arbet",
-            "width": 275,
-            "height": 183,
-            "size": 5717,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa59d4117e3a71e7fc64f8",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B7E840_0901_01B7E840-1-01B7E8B8_698-01B7E840-0-0",
-      "dtstamp": 1727211018650,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "778",
         "seq": 0,
         "tid": 1729958400000,
@@ -1679,6 +1545,136 @@
       },
       "sorter": "999_01B8643C_0901_01B8643C-1-01B864B4_706-01B8643C-0-0",
       "dtstamp": 1727212829692,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "809",
+        "seq": 0,
+        "tid": 1731747600000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1731747600000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1731753000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Clasic e Fantastic - Cum s\u0103 \u00een\u021belegem muzica"
+        },
+        "description": {
+          "text": "<p><strong>Camille Saint-Sa&euml;ns &ndash; Carnavalul animalelor</strong></p><p>Orchestra de camer\u0103 a Colegiului Na\u021bional de Muzic\u0103 <em>George Enescu</em></p><p>Dirijor<br /><strong>GHEORGHE ILIU\u021a\u0102</strong></p><p>Soli\u0219ti</p><p><strong>Filippos Klapsinakis</strong> &ndash; pian 1</p><p><strong>Alexandru Dumitru</strong> &ndash; pian 2</p><p> </p><p>Program</p><p>Nr. 1 - Introduction et marche royale du lion (<strong>Introducere </strong><strong>\u0219i </strong><strong>mar\u0219ul regal al leului</strong>)</p><p>Nr. 2 - Poules et coqs (<strong>G\u0103ini \u0219i coco\u0219i</strong>) </p><p>Nr. 3: H&eacute;miones (animaux v&eacute;loces) <strong>M\u0103garii s\u0103lbatici (animale rapide)</strong></p><p>Nr. 4 &ndash; Tortues (<strong>\u021aestoase)</strong></p><p>Nr. 5: L'&Eacute;l&eacute;phant (<strong>Elefantul</strong>) solo contrabas &ndash; Gheorghe Ulubeanu</p><p>Nr. 6 - Kangourous (<strong>Cangurii</strong>)</p><p>Nr. 7 - Aquarium (<strong>Acvariul</strong>)</p><p>Nr. 8 &ndash; Personnages &agrave; longues oreilles<strong> (Personaje cu urechi lungi)</strong></p><p>Nr. 9: Le coucou au fond des bois<strong> (Cucul &icirc;n ad&acirc;ncul p\u0103durii)</strong></p><p>Nr. 10 &ndash; Voli&egrave;re <strong>(Colivia)</strong></p><p>Nr. 11 &ndash; Pianistes <strong>(Piani\u0219ti)</strong></p><p>Nr. 12 &ndash; Fossiles (<strong>Fosilele</strong>)</p><p>Nr. 13 - Cygne (<strong>Leb\u0103da</strong>)</p><p>Nr. 14 &ndash; <strong>Final </strong></p><p></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66ffb52d205890162e616f36",
+        "attachments": [],
+        "noDetail": false,
+        "version": 2,
+        "imageIdNg": "66ffb52d205890162e616f36",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66ffb52d205890162e616f36",
+            "name": "IMAG4119",
+            "altText": "IMAG4119",
+            "width": 4000,
+            "height": 3000,
+            "size": 1064818,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66ffb52d205890162e616f36",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B867FC_0901_01B867FC-1-01B86856_809-01B867FC-0-0",
+      "dtstamp": 1729768189432,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "810",
+        "seq": 0,
+        "tid": 1731862800000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1731862800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1731868200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital cameral (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<p> <strong>CONCERT CAMERAL DEDICAT ZILEI DINASTIEI BELGIENE</strong></p><p> Sub &icirc;naltul patronaj al Excelen\u0163ei Sale Domnului John Cornet d&rsquo;Elzius, Ambasadorul Regatului Belgiei la Bucure\u015fti</p><p>Soli\u0219ti </p><p><strong>DANIELA CIOCIEA </strong>- sopran\u0103</p><p><strong>GEANINA MUNTEANU</strong> - mezzosopran\u0103</p><p><strong>LILIANA NEDELCIU</strong> - pian</p><p><strong>\u015eTEFAN GHEORGHIU</strong> - viol\u0103</p><p><strong>ION NEDELCIU</strong> - clarinet</p><p><strong>\u015eERBAN NICHIFOR</strong> - violoncel</p><p><strong>EMANUEL PUSZTAI</strong> - pian</p><p><strong>ETHAN SCHMEISSER</strong> - pian</p><p>Program<em> </em></p><p><strong>Carl Verbraeken</strong> <br />Kleine droefenis (Dor)</p><p><strong>Jean Absil</strong><br />Berceuse (C&acirc;ntec de leag\u0103n)</p><p><strong>Fr&eacute;d&eacute;ric Devreese</strong> <br />Muzic\u0103 din filmul &laquo;Benvenuta&raquo;</p><p><strong>Danielle Baas</strong> <br />El&eacute;gance</p><p><strong>Vladimir Cosma</strong> <br />Muzic\u0103 din filmul &laquo;Marele Blond cu un pantof negru&raquo; (fantezie concertant\u0103)</p><p><strong>Boudewijn Buckinx</strong> <br />Prin &laquo; viol\u0103&raquo;,  &icirc;n\u0163elegem viola</p><p><strong>Jean Absil</strong><br />Humoresque, op. 126, nr. 3<br />Cinq pi&egrave;ces faciles (Cinci piese u\u015foare)<br />Dou\u0103 colinde rom&acirc;ne\u015fti</p><p><strong>Arthur de Greef </strong><br />La Neige (versuri de May De Rudder) <br />Les Ailes du R&ecirc;ve (versuri de Charles Fuster)</p><p><strong>Raoul De Smet</strong> <br />Stilleven (Natur\u0103 moart\u0103)</p><p><strong>Jean Absil</strong> <br />Galben (mar\u015f) &ndash; din cantata Albumul de colorat pe versuri de Etienne de Sadeleer</p><p> </p><p> </p><p><em> x------------------------------------x</em></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66ffbba7205890162e6171c3",
+        "attachments": [],
+        "noDetail": false,
+        "version": 2,
+        "imageIdNg": "66ffbba7205890162e6171c3",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66ffbba7205890162e6171c3",
+            "name": "IMAG4116",
+            "altText": "IMAG4116",
+            "width": 4000,
+            "height": 3000,
+            "size": 1462384,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66ffbba7205890162e6171c3",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B86F7C_0901_01B86F7C-1-01B86FD6_810-01B86F7C-0-0",
+      "dtstamp": 1729768737741,
       "status": {
         "name": "scheduled"
       },
