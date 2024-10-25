@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+        <meta charset='utf-8'>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Stagiunea Filarmonicii George Enescu</title>
+        <link rel="stylesheet" href="style.css">
+        </head>
+        <body>
+<header><h1>Stagiunea Filarmonicii <em>„George&nbsp;Enescu”</em></h1></header>
+<main>
+{{#events}}
+<section>
+<h2>{{{title}}}</h2>
+<img src='{{image.src}}' alt='{{image.alt}}'/>
+<p>
+{{#schedulings}}{{#tickets_url}}<a href='{{tickets_url}}' class='button'>{{/tickets_url}}{{when}}{{#tickets_url}}</a>{{/tickets_url}}{{#newline_after}}<br/>
+{{/newline_after}}{{/schedulings}}</p>
+{{{details}}}
+</section>
+{{/events}}
+</main>
+<footer><a href="/raw_events.json">Raw data</a></footer>
+</body></html>

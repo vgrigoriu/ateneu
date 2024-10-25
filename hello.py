@@ -7,6 +7,8 @@ from bs4 import BeautifulSoup, Tag
 import requests
 import json
 
+import chevron
+
 def main():
     locale.setlocale(locale.LC_ALL, "ro_RO.UTF-8")
 
@@ -33,45 +35,15 @@ def main():
             if event.title == next_event.title and are_same(
                 event.details, next_event.details
             ):
+                event.schedulings[-1].newline_after = True
                 event.schedulings.append(next_event.schedulings[0])
                 parsed_events.pop(i + 1)
 
-    print(
-        """<!DOCTYPE html>
-        <html>
-        <head>
-        <meta charset='utf-8'>
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>Stagiunea Filarmonicii George Enescu</title>
-        <link rel="stylesheet" href="style.css">
-        </head>
-        <body>"""
-    )
-    print("<header><h1>Stagiunea Filarmonicii <em>„George&nbsp;Enescu”</em></h1></header>")
-    print("<main>")
-    for event in parsed_events:
-        print("<section>")
-        print(f"<h2>{event.title}</h2>")
-        print(f"<img src='{event.image.src}' alt='{event.image.alt}'/>")
-        print("<p>")
-        for i, scheduling in enumerate(event.schedulings):
-            if scheduling.tickets_url is not None:
-                print(f"<a href='{scheduling.tickets_url}' class='button'>", end="")
-            print(
-                f"{scheduling.date.strftime("%a, %d %b %Y, %H:%M")}",
-                end="",
-            )
-            if scheduling.tickets_url is not None:
-                print("</a>", end="")
-            if i + 1 < len(event.schedulings):
-                print("<br/>")
-        print("</p>")
-        print(f"{event.details}")
-        print("</section>")
+    with open("index.mustache", "r") as f:
+        result = chevron.render(f, {"events": parsed_events})
 
-    print("</main>")
-    print("""<footer><a href="/raw_events.json">Raw data</a></footer>""")
-    print("</body></html>")
+    with open("docs/index.html", "w") as f:
+        f.write(result)
 
 
 def download_events_data():
@@ -176,10 +148,14 @@ def standardize(details: str) -> str:
     )
 
 
-@dataclass(frozen=True)
+# Can't make this frozen, it thrown in __post_init__.
+@dataclass
 class Scheduling:
     tickets_url: Optional[str]
     date: datetime
+
+    def __post_init__(self):
+        self.when = self.date.strftime("%a, %d %b %Y, %H:%M")
 
 
 @dataclass(frozen=True)
