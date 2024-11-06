@@ -3,140 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "802",
-        "seq": 0,
-        "tid": 1730826000000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1730826000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1730833200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Stagiunea de mar\u0163i seara (Sala mic\u0103)"
-        },
-        "description": {
-          "text": "<p><strong>Recital de pian</strong><br /><strong>MARIA CRISTINA IONEL</strong></p><p>Program<br /><strong>Claude Debussy </strong><br />Clair de lune, din suita Bergamasque<br />Nocturn\u0103</p><p><strong>Franz Liszt </strong><br />Harmonies du soir</p><p><strong>Fr&eacute;d&eacute;ric Chopin </strong><br />Nocturna &icirc;n re bemol major, op. 27, nr. 2</p><p><strong>Maurice Ravel </strong><br />Gaspard de la Nuit<br />Pavana pentru o infant\u0103 defunct\u0103</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_6703c279205890162e63062a",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/stagiunea-de-marti-seara-sala-mica-6940",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "6703c279205890162e63062a",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "6703c279205890162e63062a",
-            "name": "Maria Cristina Ionel",
-            "altText": "Maria Cristina Ionel",
-            "width": 1764,
-            "height": 2048,
-            "size": 160688,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_6703c279205890162e63062a",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B82BFC_0901_01B82BFC-1-01B82C74_802-01B82BFC-0-0",
-      "dtstamp": 1728300754998,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "785",
-        "seq": 0,
-        "tid": 1730826000000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1730826000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1730833200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Turneul na\u0163ional \"Orgile Rom\u00e2niei\""
-        },
-        "description": {
-          "text": "<p><b>EDUARD IOSIF ANTAL </b>- org\u0103</p><div><b>MARIA-LUISA ANDRICI </b>- org\u0103</div><div><b><br /></b><div data-smartmail=\"gmail_signature\">Program<br /><div></div><div><strong>Johann Sebastian Bach</strong><br />Triosonata nr. 5, &icirc;n do major, BWV 529</div><div><p><span></span></p><p><span><strong>Max Reger</strong><br />Toccata &icirc;n re minor, op. 59, nr. 5</span></p><p><span><strong>Wolfgang Amadeus Mozart</strong><br />Sonata da chiesa nr. 10, &icirc;n fa major, KV 244</span></p><p><span><strong>Adolf Friedrich Hesse</strong><br />Fantezia &icirc;n re minor op. 87</span></p><p><span><strong>Gabriel Faur&eacute;<br /></strong>Vals din Suita Dolly, op. 56</span></p><p><span><strong>Marco Enrico Bossi<br /></strong>Scherzo &icirc;n sol minor, op. 49, nr. 2</span></p><p><span><strong>Serghei Rahmaninov<br /></strong>Polc\u0103 italian\u0103</span></p><p><span><strong>Denis B&eacute;dard</strong><br />Mic\u0103 suit\u0103</span></p></div></div></div>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66ec0ea16e1e462de2dae55f",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/turneul-national-orgile-romaniei",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66ec0ea16e1e462de2dae55f",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66ec0ea16e1e462de2dae55f",
-            "name": "IMAG4119",
-            "altText": "IMAG4119",
-            "width": 4000,
-            "height": 3000,
-            "size": 1064818,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66ec0ea16e1e462de2dae55f",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B82BFC_0901_01B82BFC-1-01B82C74_785-01B82BFC-0-0",
-      "dtstamp": 1727294504484,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "701",
         "seq": 0,
         "tid": 1730998800000,
@@ -1182,7 +1048,7 @@
           "text": "Muzica pe \u00cen\u021belesul Tuturor - Povestea liedului"
         },
         "description": {
-          "text": "<p><strong>Povestea liedului</strong></p><p>Programul va fi anun\u021bat &icirc;n cur&acirc;nd!</p>"
+          "text": "<p><strong>Povestea liedului</strong></p><p><strong>YOLANDA CONSTANTINESCU, LAURA CHERA, <br /></strong><strong>ALDA MACRI, SIMONA JIDVEANU </strong>- soprane</p><p><strong>ALINA BUZDUGAN, \u0218TEFANIA CHI\u021aULESCU, <br />GEANINA MUNTEANU, ALEXANDRINA STAN </strong>- mezzosoprane</p><p><strong>MARIUS NINE </strong>- tenor</p><p><strong>DAN MACAVEI </strong>- bariton</p><p>La pian<strong><br />TUDOR SCRIPCARIU<br />IERONIM BUGA</strong></p><p>Program</p><p><strong>Franz Schubert</strong><br />Ganymed, Du bist die Ruh, Der Lindenbaum, Litanei auf das Fest Allerseelen</p><p><strong>Robert Schumann</strong><br /><span>Seit ich ihn gesehen, Er, der Herrlichste von allen, Helft mir, ihr Schwestern</span></p><p><strong>Hugo</strong> <strong>Wolf</strong><br />Das verlassene M&auml;gdlein</p><p><strong>Gustav Mahler</strong><br />Ich bin der Welt abhanden gekommen</p><p><strong>Reynaldo Hahn<br /></strong>A Chloris </p><p><strong>C&eacute;cile Chaminade</strong><br />Sombrero</p><p><strong>Camille Saint-Sa&euml;ns<br /></strong>Tournoiement</p><p><strong>Erik Satie<br /></strong>Je te veux</p><p><strong>Francis Poulenc</strong><br />Les chemins de l'amour</p><p><strong>George Enescu</strong><br />Le Galop, Languir me fais, Si j'etais Dieu</p><p><strong>Mauriciu Vescan</strong> <br />Poate c\u0103 n-am iubi at&acirc;t</p><p><strong>Felicia Donceanu</strong><br />Apa vie </p><p><strong>Carmen Petra-Basacopol</strong><br />R\u0103u de frumuse\u021be, Psalm, Zorile-\u0219i m&acirc;n\u0103 cerbii de foc</p><p><strong>Serghei Rahmaninov</strong><br />&Icirc;n lini\u0219tea nop\u021bii tainice<br />Apele prim\u0103verii</p><p></p>"
         },
         "tagset": {
           "tags": {
@@ -1214,7 +1080,7 @@
         ]
       },
       "sorter": "999_01B88F5C_0901_01B88F5C-1-01B88FB6_812-01B88F5C-0-0",
-      "dtstamp": 1730321865610,
+      "dtstamp": 1730805165768,
       "status": {
         "name": "scheduled"
       },
