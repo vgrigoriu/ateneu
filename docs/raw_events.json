@@ -3,272 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "701",
-        "seq": 0,
-        "tid": 1730998800000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1730998800000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1731006000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra Simfonic\u0103 a Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>MAXIME PASCAL</strong></p><p>Soli\u0219ti <br /><strong>DAMIEN BIGOURDAN</strong>- tenor<br /><strong>THEODORE BROWNE</strong> - tenor<br /><strong>MARTINA BELLI</strong> - mezzosopran\u0103<br /><strong>CHARLES RICE</strong> - bariton<br /><strong>BARNABY REA</strong> - bas</p><p>Program</p><p><strong>Maurice Ravel</strong><br />Ora spaniol\u0103 - oper\u0103 &icirc;n concert</p><p><strong>Nikolai Rimski-Korsakov<br /></strong>\u0218eherezada, op. 35</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5b29117e3a71e7fc65fb",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/concert-simfonic-6901",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5b29117e3a71e7fc65fb",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5b29117e3a71e7fc65fb",
-            "name": "pascal",
-            "altText": "pascal",
-            "width": 216,
-            "height": 183,
-            "size": 6372,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5b29117e3a71e7fc65fb",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B8373C_0901_01B8373C-1-01B837B4_701-01B8373C-0-0",
-      "dtstamp": 1727212357504,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "702",
-        "seq": 0,
-        "tid": 1731085200000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1731085200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1731092400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra Simfonic\u0103 a Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>MAXIME PASCAL</strong></p><p>Soli\u0219ti <br /><strong>DAMIEN BIGOURDAN</strong>- tenor<br /><strong>THEODORE BROWNE</strong> - tenor<br /><strong>MARTINA BELLI</strong> - mezzosopran\u0103<br /><strong>CHARLES RICE</strong> - bariton<br /><strong>BARNABY REA</strong> - bas</p><p>Program</p><p><strong>Maurice Ravel</strong><br />Ora spaniol\u0103 - oper\u0103 &icirc;n concert</p><p><strong>Nikolai Rimski-Korsakov<br /></strong>\u0218eherezada, op. 35</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5b29117e3a71e7fc65fb",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/concert-simfonic-6902",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5b29117e3a71e7fc65fb",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5b29117e3a71e7fc65fb",
-            "name": "pascal",
-            "altText": "pascal",
-            "width": 216,
-            "height": 183,
-            "size": 6372,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5b29117e3a71e7fc65fb",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B83CDC_0901_01B83CDC-1-01B83D54_702-01B83CDC-0-0",
-      "dtstamp": 1727212449483,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "797",
-        "seq": 0,
-        "tid": 1731229200000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1731229200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1731236400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra inginerilor &rdquo;Petru Ghenghea&rdquo; </strong></p><p><span>Dirijor<br /><strong>ANDREI ILIESCU</strong></span></p><p>Solist\u0103 <br /><strong>DELIA DIACONESCU</strong><span><br /></span></p><p>Program</p><p><span><strong>Gioachino Rossini </strong> <br />Uvertura operei &rdquo;Cenu\u0219\u0103reasa&rdquo;</span></p><p><strong>Camille Saint-Sa&euml;</strong><span><strong>ns </strong> <br />Concertul </span>nr. 3, &icirc;n si minor, pentru vioar\u0103 \u0219i orchestr\u0103,  op. 61</p><p><span><strong>Franz Schubert</strong> <br />Simfonia nr. 6, &icirc;n do major, D 589</span></p><p><span> </span></p><p></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66ffb52d205890162e616f36",
-        "attachments": [],
-        "noDetail": false,
-        "version": 2,
-        "imageIdNg": "66ffb52d205890162e616f36",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66ffb52d205890162e616f36",
-            "name": "IMAG4119",
-            "altText": "IMAG4119",
-            "width": 4000,
-            "height": 3000,
-            "size": 1064818,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66ffb52d205890162e616f36",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B8463C_0901_01B8463C-1-01B846B4_797-01B8463C-0-0",
-      "dtstamp": 1728034109082,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "805",
-        "seq": 0,
-        "tid": 1731258000000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1731258000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1731265200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Recital de flaut (Sala mic\u0103)"
-        },
-        "description": {
-          "text": "<p><strong>GABRIELE MASTROTOTARO</strong> - flaut</p><p><strong>CLEMENTINA RISTEA CIUCU</strong> - pian</p><p>Program</p><p><strong>Wolfgang Amadeus Mozart<br /></strong>Rondo &icirc;n re major, KV 184</p><p><strong>Salvatore Sciarrino<br /></strong>Immagine Fenicia pentru flaut solo (2001)</p><p><strong>Anna Bon di Venezia<br /></strong>Sonata &icirc;n sol minor, op. 1, nr. 5</p><p><strong>Doina Rotaru<br /></strong>Legenda pentru flaut solo (1983)</p><p><strong>Wolfgang Amadeus Mozart<br /></strong>Sonata pentru pian \u015fi vioar\u0103 &icirc;n sol major, KV 301 (versiunea pentru flaut)</p><p><strong>Bettina Skrzypczak<br /></strong>Mouvement for flute solo (1999)</p><p><strong>Carl Philipp Emanuel Bach<br /></strong>Sonata &icirc;n sol major pentru flaut \u015fi continuo, &quot;Hamburger&quot;</p><p></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_67090af2cdfd2d1ec6726a1c",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/recital-de-flaut-sala-mica-6947",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "67090af2cdfd2d1ec6726a1c",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "67090af2cdfd2d1ec6726a1c",
-            "name": "IMG_20230925_085125_705",
-            "altText": "IMG_20230925_085125_705",
-            "width": 671,
-            "height": 499,
-            "size": 39465,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_67090af2cdfd2d1ec6726a1c",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B8481C_0901_01B8481C-1-01B84894_805-01B8481C-0-0",
-      "dtstamp": 1729258345937,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "790",
         "seq": 0,
         "tid": 1731344400000,
@@ -507,7 +241,7 @@
           "text": "Concert simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>LEO HUSSAIN</strong></p><p>Solist <br /><strong>PETER DONOHOE</strong></p><p>Program</p><p><strong>Johannes Brahms<br /></strong>Concertul nr. 1, &icirc;n do minor, pentru pian \u0219i orchestr\u0103, op. 15</p><p><strong>Bedrich Smetana</strong><br />Patria mea (selec\u0163iuni)</p><p><strong> </strong></p>"
+          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>LEO HUSSAIN</strong></p><p>Solist <br /><strong>PETER DONOHOE</strong></p><p>Program</p><p><strong>Johannes Brahms<br /></strong>Concertul nr. 1, &icirc;n re minor, pentru pian \u0219i orchestr\u0103, op. 15</p><p><strong>Bedrich Smetana</strong><br />Patria mea (selec\u0163iuni)</p><p><strong> </strong></p>"
         },
         "tagset": {
           "tags": {
@@ -539,7 +273,7 @@
         ]
       },
       "sorter": "999_01B85E9C_0901_01B85E9C-1-01B85F14_703-01B85E9C-0-0",
-      "dtstamp": 1727212674437,
+      "dtstamp": 1730979013055,
       "status": {
         "name": "scheduled"
       },
@@ -574,7 +308,7 @@
           "text": "Concert simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor<br /><strong>LEO HUSSAIN</strong></p><p>Solist<br /><strong>PETER DONOHOE</strong></p><p>Program</p><p><strong>Johannes Brahms<br /></strong>Concertul nr. 1, &icirc;n do minor, pentru pian \u0219i orchestr\u0103, op. 15</p><p><strong>Bedrich Smetana</strong><br />Patria mea (selec\u0163iuni)</p>"
+          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor<br /><strong>LEO HUSSAIN</strong></p><p>Solist<br /><strong>PETER DONOHOE</strong></p><p>Program</p><p><strong>Johannes Brahms<br /></strong>Concertul nr. 1, &icirc;n re minor, pentru pian \u0219i orchestr\u0103, op. 15</p><p><strong>Bedrich Smetana</strong><br />Patria mea (selec\u0163iuni)</p>"
         },
         "tagset": {
           "tags": {
@@ -606,7 +340,7 @@
         ]
       },
       "sorter": "999_01B8643C_0901_01B8643C-1-01B864B4_706-01B8643C-0-0",
-      "dtstamp": 1727212829692,
+      "dtstamp": 1730979026838,
       "status": {
         "name": "scheduled"
       },
