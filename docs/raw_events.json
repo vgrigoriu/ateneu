@@ -3,85 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "790",
-        "seq": 0,
-        "tid": 1731344400000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1731344400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1731344400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Stagiunea de jazz (Sala mic\u0103)"
-        },
-        "description": {
-          "text": "<p><tkfmedia data-tkf-mediatype=\"image\" data-tkf-id=\"66fbce79205890162e5ebfa9\" data-tkf-style=\"align:left;width:256px\" data-tkf-featured=\"true\"></tkfmedia></p><p><strong>North Sea String Quartet </strong></p><p>- turneul de lansare al albumului &ldquo;Splunge&rdquo; &icirc;n Rom&acirc;nia -</p><p><span><strong></strong></span></p><p><span><strong></strong></span></p><p><span><strong>George Dumitriu</strong> - vioar\u0103, viol\u0103<br /><strong>Pablo Rodr&iacute;guez</strong> - vioar\u0103<br /><strong>Yanna Pelser</strong> - viol\u0103<br />Thomas van Geelen - violoncel</span></p><p><span>&Icirc;n program, compozi\u021bii originale \u0219i improviza\u021bii</span></p><p><span>Foto: Federico Castelli</span></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "place": "Ateneul Roman",
-        "address": "Strada Benjamin Franklin, Bucure\u0219ti, Rom\u00e2nia",
-        "location": {
-          "place_id": "Ei5TdHJhZGEgQmVuamFtaW4gRnJhbmtsaW4sIEJ1Y3VyZciZdGksIFJvbcOibmlhIi4qLAoUChIJI-cqbk__sUARgEkd41PE6ioSFAoSCU-tPL86-bFAESimnHzjMgas",
-          "name": "Strada Benjamin Franklin",
-          "latitude": 44.4409329,
-          "longitude": 26.0972111,
-          "c_street": "Strada Benjamin Franklin",
-          "c_locality": "Bucure\u0219ti",
-          "c_region": "Bucure\u0219ti",
-          "c_country": "RO"
-        },
-        "imageId": "BWC_66fbce79205890162e5ebfa9",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/stagiunea-de-jazz-sala-mica-6927",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66fbce79205890162e5ebfa9",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66fbce79205890162e5ebfa9",
-            "name": "2. North Sea String Quartet - royalty free, please mention photo by Federico Castelli",
-            "altText": "2. North Sea String Quartet - royalty free, please mention photo by Federico Castelli",
-            "width": 4183,
-            "height": 2796,
-            "size": 979341,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66fbce79205890162e5ebfa9",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B84DBC_0901_01B84DBC-1-01B84DBC_790-01B84DBC-0-0",
-      "dtstamp": 1727791011442,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "793",
         "seq": 0,
         "tid": 1731430800000,
@@ -782,7 +703,7 @@
           "text": "Muzica pe \u00cen\u021belesul Tuturor - Povestea liedului"
         },
         "description": {
-          "text": "<p><strong>Povestea liedului</strong></p><p><strong>YOLANDA CONSTANTINESCU, LAURA CHERA, <br /></strong><strong>ALDA MACRI, SIMONA JIDVEANU </strong>- soprane</p><p><strong>ALINA BUZDUGAN, \u0218TEFANIA CHI\u021aULESCU, <br />GEANINA MUNTEANU, ALEXANDRINA STAN </strong>- mezzosoprane</p><p><strong>MARIUS NINE </strong>- tenor</p><p><strong>DAN MACAVEI </strong>- bariton</p><p>La pian<strong><br />TUDOR SCRIPCARIU<br />IERONIM BUGA</strong></p><p>Program</p><p><strong>Franz Schubert</strong><br />Ganymed, Du bist die Ruh, Der Lindenbaum, Litanei auf das Fest Allerseelen</p><p><strong>Robert Schumann</strong><br /><span>Seit ich ihn gesehen, Er, der Herrlichste von allen, Helft mir, ihr Schwestern</span></p><p><strong>Hugo</strong> <strong>Wolf</strong><br />Das verlassene M&auml;gdlein</p><p><strong>Gustav Mahler</strong><br />Ich bin der Welt abhanden gekommen</p><p><strong>Reynaldo Hahn<br /></strong>A Chloris </p><p><strong>C&eacute;cile Chaminade</strong><br />Sombrero</p><p><strong>Camille Saint-Sa&euml;ns<br /></strong>Tournoiement</p><p><strong>Erik Satie<br /></strong>Je te veux</p><p><strong>Francis Poulenc</strong><br />Les chemins de l'amour</p><p><strong>George Enescu</strong><br />Le Galop, Languir me fais, Si j'etais Dieu</p><p><strong>Mauriciu Vescan</strong> <br />Poate c\u0103 n-am iubi at&acirc;t</p><p><strong>Felicia Donceanu</strong><br />Apa vie </p><p><strong>Carmen Petra-Basacopol</strong><br />R\u0103u de frumuse\u021be, Psalm, Zorile-\u0219i m&acirc;n\u0103 cerbii de foc</p><p><strong>Serghei Rahmaninov</strong><br />&Icirc;n lini\u0219tea nop\u021bii tainice<br />Apele prim\u0103verii</p><p></p>"
+          "text": "<p><strong>Povestea liedului</strong></p><p><strong>YOLANDA CONSTANTINESCU, LAURA CHERA, <br /></strong><strong>ALDA MACRI, SIMONA JIDVEANU </strong>- soprane</p><p><strong>ALINA BUZDUGAN, \u0218TEFANIA CHI\u021aULESCU, <br />GEANINA MUNTEANU, ALEXANDRINA STAN </strong>- mezzosoprane</p><p><strong>MARIUS NINE </strong>- tenor</p><p><strong>DAN MACAVEI </strong>- bariton</p><p>La pian<strong><br />TUDOR SCRIPCARIU<br />IERONIM BUGA<br /></strong><strong>INNA ONCESCU</strong></p><p>Program</p><p><strong>Franz Schubert</strong><br />Ganymed, Du bist die Ruh, Der Lindenbaum, Litanei auf das Fest Allerseelen</p><p><strong>Robert Schumann</strong><br /><span>Seit ich ihn gesehen, Er, der Herrlichste von allen, Helft mir, ihr Schwestern</span></p><p><strong>Hugo</strong> <strong>Wolf</strong><br />Das verlassene M&auml;gdlein</p><p><strong>Gustav Mahler</strong><br />Ich bin der Welt abhanden gekommen</p><p><strong>Reynaldo Hahn<br /></strong>A Chloris</p><p><strong>C&eacute;cile Chaminade</strong><br />Sombrero</p><p><strong>Camille Saint-Sa&euml;ns<br /></strong>Tournoiement</p><p><strong>Erik Satie<br /></strong>Je te veux</p><p><strong>Francis Poulenc</strong><br />Les chemins de l'amour</p><p><strong>George Enescu</strong><br />Le Galop, Languir me fais, Si j'etais Dieu</p><p><strong>Mauriciu Vescan</strong> <br />Poate c\u0103 n-am iubi at&acirc;t</p><p><strong>Felicia Donceanu</strong><br />Apa vie</p><p><strong>Carmen Petra-Basacopol</strong><br />R\u0103u de frumuse\u021be, Psalm, Zorile-\u0219i m&acirc;n\u0103 cerbii de foc</p><p><strong>Serghei Rahmaninov</strong><br />&Icirc;n lini\u0219tea nop\u021bii tainice<br />Apele prim\u0103verii</p><p></p>"
         },
         "tagset": {
           "tags": {
@@ -814,7 +735,7 @@
         ]
       },
       "sorter": "999_01B88F5C_0901_01B88F5C-1-01B88FB6_812-01B88F5C-0-0",
-      "dtstamp": 1730805165768,
+      "dtstamp": 1731408018239,
       "status": {
         "name": "scheduled"
       },
@@ -849,7 +770,7 @@
           "text": "Recital cameral"
         },
         "description": {
-          "text": "<p><strong>VALENTIN \u0218ERBAN </strong>- vioar\u0103</p><p><strong>\u0218TEFAN CAZACU </strong>- violoncel</p><p><strong>IOAN-DRAGO\u0218 DIMITRIU </strong>- pian</p><p>Program</p><p><strong>Serghei Rahmaninov</strong><br />Trio elegiac nr. 1, &icirc;n sol minor</p><p><strong>Piotr Ilici Ceaikovski</strong><br />Trio &icirc;n la minor, op. 50</p><p><strong></strong></p>"
+          "text": "<p><strong>Trio ALPHA</strong></p><p><strong>VALENTIN \u0218ERBAN </strong>- vioar\u0103<br /><strong>\u0218TEFAN CAZACU </strong>- violoncel<br /><strong>IOAN-DRAGO\u0218 DIMITRIU </strong>- pian</p><p>Program</p><p><strong>Serghei Rahmaninov</strong><br />Trio elegiac nr. 1, &icirc;n sol minor</p><p><strong>Piotr Ilici Ceaikovski</strong><br />Trio &icirc;n la minor, op. 50</p><p><strong></strong></p>"
         },
         "tagset": {
           "tags": {
@@ -881,7 +802,7 @@
         ]
       },
       "sorter": "999_01B8913C_0901_01B8913C-1-01B89196_811-01B8913C-0-0",
-      "dtstamp": 1729888158860,
+      "dtstamp": 1731408051708,
       "status": {
         "name": "scheduled"
       },
@@ -2561,7 +2482,7 @@
           "text": "Concert simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>ROBERTO FOR&Eacute;S-VESES</strong></p><p>Solist <br /><strong>ALEXANDRE THARAUD </strong></p><div>Program</div><div></div><div><strong>Joseph Haydn</strong><br />Simfonia nr. 85, &icirc;n si bemol major, &ldquo;Regina&rdquo;</div><div></div><div><span><strong>Ludwig van Beethoven<br /></strong>Concertul nr. 3, &icirc;n do minor, pentru pian \u0219i orchestr\u0103, op. 37 </span></div><div><span></span></div><div><span><strong>Robert Schumann<br /></strong>Simfonia nr. 4, &icirc;n re minor, op. 120 </span></div>"
+          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>ROBERTO FOR&Eacute;S-VESES</strong></p><p>Solist <br /><strong>ALEXANDRE THARAUD </strong></p><div>Program</div><div></div><div><strong>Joseph Haydn</strong><br />Simfonia nr. 85, &icirc;n si bemol major, &ldquo;Regina&rdquo;</div><div></div><div><span><strong>Ludwig van Beethoven<br /></strong>Concertul nr. 3, &icirc;n do minor, pentru pian \u0219i orchestr\u0103, op. 37 </span></div><div><span></span></div><div><span><strong>Alin Chel\u0103rescu<br /></strong>Oblatio lucis - p.a.a.</span></div><div><span><strong></strong></span></div><div><span><strong>Robert Schumann<br /></strong>Simfonia nr. 4, &icirc;n re minor, op. 120 </span></div>"
         },
         "tagset": {
           "tags": {
@@ -2591,7 +2512,7 @@
         ]
       },
       "sorter": "999_01BA85DC_0901_01BA85DC-1-01BA8654_729-01BA85DC-0-0",
-      "dtstamp": 1722441842066,
+      "dtstamp": 1731411116258,
       "status": {
         "name": "scheduled"
       },
@@ -2626,7 +2547,7 @@
           "text": "Concert simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>ROBERTO FOR&Eacute;S-VESES</strong></p><p>Solist <br /><strong>ALEXANDRE THARAUD </strong></p><div>Program</div><div></div><div><strong>Joseph Haydn</strong><br />Simfonia nr. 85, &icirc;n si bemol major, &ldquo;Regina&rdquo;</div><div></div><div><span><strong>Ludwig van Beethoven<br /></strong>Concertul nr. 3, &icirc;n do minor, pentru pian \u0219i orchestr\u0103, op. 37 </span></div><div><span></span></div><div><span><strong>Robert Schumann<br /></strong>Simfonia nr. 4, &icirc;n re minor, op. 120 </span></div>"
+          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>ROBERTO FOR&Eacute;S-VESES</strong></p><p>Solist <br /><strong>ALEXANDRE THARAUD </strong></p><div>Program</div><div></div><div><strong>Joseph Haydn</strong><br />Simfonia nr. 85, &icirc;n si bemol major, &ldquo;Regina&rdquo;</div><div></div><div><span><strong>Ludwig van Beethoven<br /></strong>Concertul nr. 3, &icirc;n do minor, pentru pian \u0219i orchestr\u0103, op. 37 </span></div><div><span></span></div><div><span><strong>Alin Chel\u0103rescu<br /></strong>Oblatio lucis - p.a.a.</span></div><div><span><strong></strong></span></div><div><span><strong>Robert Schumann<br /></strong>Simfonia nr. 4, &icirc;n re minor, op. 120 </span></div>"
         },
         "tagset": {
           "tags": {
@@ -2656,7 +2577,7 @@
         ]
       },
       "sorter": "999_01BA8B7C_0901_01BA8B7C-1-01BA8BF4_730-01BA8B7C-0-0",
-      "dtstamp": 1722441861227,
+      "dtstamp": 1731411130649,
       "status": {
         "name": "scheduled"
       },
@@ -2886,7 +2807,7 @@
           "text": "Concert simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor<br /><strong>SAMY RACHID </strong></p><p>Solist <br /><strong>EDGAR MOREAU </strong></p><p>Program</p><p><strong>Alin Chel\u0103rescu<br /></strong>Oblatio Lucis - p.a.a.</p><p><strong>Edward Elgar<br /></strong>Concertul in mi minor pentru violoncel \u0219i orchestr\u0103, op. 85</p><p><strong>Piotr Ilici Ceaikovski<br /></strong>Simfonia nr. 6, &icirc;n si minor, &ldquo;Patetica&rdquo;, op. 74</p><p><strong> </strong></p><div></div>"
+          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor<br /><strong>SAMY RACHID </strong></p><p>Solist <br /><strong>EDGAR MOREAU </strong></p><p>Program</p><p><strong>Piotr Ilici Ceaikovski<br /></strong>Uvertura-fantezie Romeo \u0219i Julieta</p><p><strong>Edward Elgar<br /></strong>Concertul in mi minor pentru violoncel \u0219i orchestr\u0103, op. 85</p><p><strong>Piotr Ilici Ceaikovski<br /></strong>Simfonia nr. 6, &icirc;n si minor, &ldquo;Patetica&rdquo;, op. 74</p><p><strong> </strong></p><div></div>"
         },
         "tagset": {
           "tags": {
@@ -2916,7 +2837,7 @@
         ]
       },
       "sorter": "999_01BAD49C_0901_01BAD49C-1-01BAD514_733-01BAD49C-0-0",
-      "dtstamp": 1722442016868,
+      "dtstamp": 1731411035649,
       "status": {
         "name": "scheduled"
       },
@@ -2951,7 +2872,7 @@
           "text": "Concert simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor<br /><strong>SAMY RACHID </strong></p><p>Solist <br /><strong>EDGAR MOREAU </strong></p><p>Program</p><p><strong>Alin Chel\u0103rescu<br /></strong>Oblatio Lucis - p.a.a.</p><p><strong>Edward Elgar<br /></strong>Concertul in mi minor pentru violoncel \u0219i orchestr\u0103, op. 85</p><p><strong>Piotr Ilici Ceaikovski<br /></strong>Simfonia nr. 6, &icirc;n si minor, &ldquo;Patetica&rdquo;, op. 74</p><p><strong> </strong></p>"
+          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor<br /><strong>SAMY RACHID </strong></p><p>Solist <br /><strong>EDGAR MOREAU </strong></p><p>Program</p><p><strong>Piotr Ilici Ceaikovski<br /></strong>Uvertura-fantezie Romeo \u0219i Julieta</p><p><strong>Edward Elgar<br /></strong>Concertul in mi minor pentru violoncel \u0219i orchestr\u0103, op. 85</p><p><strong>Piotr Ilici Ceaikovski<br /></strong>Simfonia nr. 6, &icirc;n si minor, &ldquo;Patetica&rdquo;, op. 74</p><p><strong> </strong></p>"
         },
         "tagset": {
           "tags": {
@@ -2981,7 +2902,7 @@
         ]
       },
       "sorter": "999_01BADA3C_0901_01BADA3C-1-01BADAB4_734-01BADA3C-0-0",
-      "dtstamp": 1722442043509,
+      "dtstamp": 1731411062666,
       "status": {
         "name": "scheduled"
       },
