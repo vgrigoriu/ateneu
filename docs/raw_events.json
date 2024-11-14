@@ -3,140 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "793",
-        "seq": 0,
-        "tid": 1731430800000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1731430800000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1731436200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Stagiunea de mar\u0163i seara (Sala mic\u0103)"
-        },
-        "description": {
-          "text": "<div><strong>Ansamblul Apollo</strong></div><div></div><div><strong>Aron Cavassi</strong> - vioar\u0103</div><div><strong>Daniel Vots</strong> - viol\u0103</div><div><strong>David Soma</strong> - violoncel</div><div><strong>Andra M\u0103rgineanu</strong> - pian</div><div></div><div>Program</div><div></div><div><strong>Robert Schumann</strong><br />Cvartetul cu pian &icirc;n mi bemol major, op. 47</div><div></div><div><strong>Johannes Brahms</strong><br />Cvartetul cu pian nr. 1, &icirc;n sol minor, op. 25</div><div></div>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66fd1544205890162e5fa1db",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/stagiunea-de-marti-seara-sala-mica-6948",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66fd1544205890162e5fa1db",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66fd1544205890162e5fa1db",
-            "name": "IMAG4122 (1)",
-            "altText": "IMAG4122 (1)",
-            "width": 3000,
-            "height": 4000,
-            "size": 1135341,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66fd1544205890162e5fa1db",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B8535C_0901_01B8535C-1-01B853B6_793-01B8535C-0-0",
-      "dtstamp": 1728670467946,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "800",
-        "seq": 0,
-        "tid": 1731517200000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1731517200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1731524400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Recital de pian"
-        },
-        "description": {
-          "text": "<p><strong>Mo\u0219tenitorii Rom&acirc;niei muzicale</strong></p><p>- un proiect Radio Rom&acirc;nia Muzical \u0219i Rotary Club Pipera -</p><p><strong>ANDREI GOLOGAN</strong></p><p><em><strong>Muzica sferelor</strong></em></p><p>Program</p><p><strong>Komitas Vardapet</strong><br />Trei dansuri</p><p><strong>Aleksandr Scriabin<br /></strong>Poem, op. 32, nr. 1<br />Mazurc\u0103, op. 25, nr. 3</p><p><strong>George Enescu</strong><br />Pavana din Suita nr. 2, op. 10</p><p><strong>Johannes Brahms</strong><br />Sonata nr. 3, &icirc;n fa minor, op. 5</p><p></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66ffbcbe205890162e6171dc",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/recital-de-pian-6938",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66ffbcbe205890162e6171dc",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66ffbcbe205890162e6171dc",
-            "name": "Andrei Gologan",
-            "altText": "Andrei Gologan",
-            "width": 1500,
-            "height": 2000,
-            "size": 120651,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66ffbcbe205890162e6171dc",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B858FC_0901_01B858FC-1-01B85974_800-01B858FC-0-0",
-      "dtstamp": 1728053522977,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "703",
         "seq": 0,
         "tid": 1731603600000,
@@ -430,7 +296,7 @@
           "text": "Turneul Na\u0163ional Vioara lui Enescu XIII"
         },
         "description": {
-          "text": "<p><strong>GABRIEL CROITORU</strong></p><p><strong>SIMINA CROITORU</strong></p><p><strong>PAUL R\u0102DUCANU</strong></p><p><strong>MIRCEA DUMITRESCU</strong></p><p>Program</p><p><strong>G. Pugnani/ Fr. Kreisler</strong><br />Preludiu \u0219i Allegro</p><p><strong>E. Poldini/ Fr. Kreisler</strong><br />Poup&eacute;e valsante</p><p><strong>Fritz Kreisler<br /></strong>Liebesleid<br /><strong></strong></p><p><strong>Grigora\u015f Dinicu<br /></strong>Hora staccato</p><p><strong>Fritz Kreisler<br /></strong>Liebesfreud</p><p><strong>Grigora\u015f Dinicu<br /></strong>Hora m\u0103r\u021bi\u0219orului<br />Reverie<br />Cioc&acirc;rlia</p><p><strong>Charles Dancla<br /></strong>Ah! vous dirai-je, maman!</p><p><strong>G. Enescu/ E. Girtain</strong><br />Balad\u0103</p><p><strong>P. Sarasate/ G. Croitoru</strong><br />Navarra</p><p><strong>Fr. Kreisler/ G. Croitoru</strong><br />Capriciu vienez</p><p></p><p></p><p></p>"
+          "text": "<p><strong>GABRIEL CROITORU</strong></p><p><strong>SIMINA CROITORU</strong></p><p><strong>PAUL R\u0102DUCANU</strong></p><p><strong>MIRCEA DUMITRESCU</strong></p><p>La pian <strong>HORIA MIHAIL</strong></p><p>Program</p><p><strong>G. Pugnani/ Fr. Kreisler</strong><br />Preludiu \u0219i Allegro</p><p><strong>E. Poldini/ Fr. Kreisler</strong><br />Poup&eacute;e valsante</p><p><strong>Fritz Kreisler<br /></strong>Liebesleid<br /><strong></strong></p><p><strong>Grigora\u015f Dinicu<br /></strong>Hora staccato</p><p><strong>Fritz Kreisler<br /></strong>Liebesfreud</p><p><strong>Grigora\u015f Dinicu<br /></strong>Hora m\u0103r\u021bi\u0219orului<br />Reverie<br />Cioc&acirc;rlia</p><p><strong>Charles Dancla<br /></strong>Ah! vous dirai-je, maman!</p><p><strong>G. Enescu/ E. Girtain</strong><br />Balad\u0103</p><p><strong>P. Sarasate/ G. Croitoru</strong><br />Navarra</p><p><strong>Fr. Kreisler/ G. Croitoru</strong><br />Capriciu vienez</p><p></p><p></p><p></p>"
         },
         "tagset": {
           "tags": {
@@ -462,7 +328,7 @@
         ]
       },
       "sorter": "999_01B8751C_0901_01B8751C-1-01B87594_804-01B8751C-0-0",
-      "dtstamp": 1728483628624,
+      "dtstamp": 1731515396724,
       "status": {
         "name": "scheduled"
       },
@@ -569,7 +435,7 @@
           "text": "Concert vocal-simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>NABIL SHEHATA</strong></p><p>Solist <br /><strong>ELENA BASHKIROVA</strong></p><p>Program</p><p><strong>Livia Teodorescu-Cioc\u0103nea<br /></strong>Oratoriul &ldquo;C&acirc;mpuri de maci&rdquo; (selec\u0163iuni) - p.a.a.</p><p>Soli\u015fti<br /><strong>ANTONELA B&Acirc;RNAT</strong> - mezzosopran\u0103<br /><strong>GEORGE V&Icirc;RBAN</strong> - tenor<br /><strong>ADRIAN M\u0102RCAN</strong> - bariton</p><p><strong>Wolfgang Amadeus Mozart<br /></strong>Concertul pentru nr. 13, &icirc;n do major, pentru pian \u015fi orchestr\u0103, KV 415</p><p><strong>Ludwig van Beethoven<br /></strong>Simfonia nr. 7, &icirc;n la major, op. 92</p><p>Dirijorul corului<strong><br />IOSIF ION PRUNNER<br /></strong></p><p></p><p><strong> </strong></p>"
+          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>NABIL SHEHATA</strong></p><p>Solist <br /><strong>ELENA BASHKIROVA</strong></p><p>Program</p><p><strong>Livia Teodorescu-Cioc\u0103nea<br /></strong>Oratoriul &ldquo;C&acirc;mpuri de maci&rdquo; (selec\u0163iuni) - p.a.a.</p><p>Soli\u015fti<br /><strong>ANTONELA B&Acirc;RNAT</strong> - mezzosopran\u0103<br /><strong>GEORGE V&Icirc;RBAN</strong> - tenor<br /><strong>ADRIAN M\u0102RCAN</strong> - bariton</p><p><strong>Wolfgang Amadeus Mozart<br /></strong>Concertul nr. 13, &icirc;n do major, pentru pian \u015fi orchestr\u0103, KV 415</p><p><strong>Ludwig van Beethoven<br /></strong>Simfonia nr. 7, &icirc;n la major, op. 92</p><p>Dirijorul corului<strong><br />IOSIF ION PRUNNER<br /></strong></p><p></p><p><strong> </strong></p>"
         },
         "tagset": {
           "tags": {
@@ -601,7 +467,7 @@
         ]
       },
       "sorter": "999_01B885FC_0901_01B885FC-1-01B88674_704-01B885FC-0-0",
-      "dtstamp": 1727213555998,
+      "dtstamp": 1731525473614,
       "status": {
         "name": "scheduled"
       },
@@ -636,7 +502,7 @@
           "text": "Concert vocal-simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>NABIL SHEHATA</strong></p><p>Solist <br /><strong>ELENA BASHKIROVA</strong></p><p>Program</p><p><strong>Livia Teodorescu-Cioc\u0103nea<br /></strong>Oratoriul &ldquo;C&acirc;mpuri de maci&rdquo; (selec\u0163iuni) - p.a.a.</p><p>Soli\u015fti<br /><strong>ANTONELA B&Acirc;RNAT</strong> - mezzosopran\u0103<br /><strong>GEORGE V&Icirc;RBAN</strong> - tenor<br /><strong>ADRIAN M\u0102RCAN</strong> - bariton</p><p><strong>Wolfgang Amadeus Mozart<br /></strong>Concertul pentru nr. 13, &icirc;n do major, pentru pian \u015fi orchestr\u0103, KV 415</p><p><strong>Ludwig van Beethoven<br /></strong>Simfonia nr. 7, &icirc;n la major, op. 92</p><p>Dirijorul corului<strong><br />IOSIF ION PRUNNER<br /></strong></p><p></p><p><strong> </strong></p>"
+          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>NABIL SHEHATA</strong></p><p>Solist <br /><strong>ELENA BASHKIROVA</strong></p><p>Program</p><p><strong>Livia Teodorescu-Cioc\u0103nea<br /></strong>Oratoriul &ldquo;C&acirc;mpuri de maci&rdquo; (selec\u0163iuni) - p.a.a.</p><p>Soli\u015fti<br /><strong>ANTONELA B&Acirc;RNAT</strong> - mezzosopran\u0103<br /><strong>GEORGE V&Icirc;RBAN</strong> - tenor<br /><strong>ADRIAN M\u0102RCAN</strong> - bariton</p><p><strong>Wolfgang Amadeus Mozart<br /></strong>Concertul nr. 13, &icirc;n do major, pentru pian \u015fi orchestr\u0103, KV 415</p><p><strong>Ludwig van Beethoven<br /></strong>Simfonia nr. 7, &icirc;n la major, op. 92</p><p>Dirijorul corului<strong><br />IOSIF ION PRUNNER<br /></strong></p><p></p><p><strong> </strong></p>"
         },
         "tagset": {
           "tags": {
@@ -668,7 +534,7 @@
         ]
       },
       "sorter": "999_01B88B9C_0901_01B88B9C-1-01B88C14_705-01B88B9C-0-0",
-      "dtstamp": 1727213812862,
+      "dtstamp": 1731525497446,
       "status": {
         "name": "scheduled"
       },
@@ -837,7 +703,7 @@
           "text": "Concert vocal-simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>PAUL GOODWIN</strong></p><p>Solist <br /><strong>PETR LIMONOV</strong></p><p>Program</p><p><strong>Claude Debussy<br /></strong>Preludiu la dup\u0103 amiaza unui faun</p><p><strong>George Enescu<br /></strong>Vox Maris</p><p><strong>Ludwig van Beethoven<br /></strong>Concertul nr. 5, &icirc;n mi bemol major, pentru pian \u015fi orchestr\u0103, op. 73, &bdquo;Imperialul&rdquo;</p><p>Dirijorul corului<strong><br />IOSIF ION PRUNNER<br /></strong></p>"
+          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>PAUL GOODWIN</strong></p><p>Solist <br /><strong>PETR LIMONOV</strong></p><p>Program</p><p><strong>Ludwig van Beethoven<br /></strong>Uvertura Egmont, &icirc;n fa minor, op. 84<br />Concertul nr. 5, &icirc;n mi bemol major, pentru pian \u015fi orchestr\u0103, op. 73, &bdquo;Imperialul&rdquo;</p><p><strong>Claude Debussy<br /></strong>Preludiu la dup\u0103-amiaza unui faun</p><p><strong>George Enescu<br /></strong>Vox Maris</p><p>Dirijorul corului<strong><br />IOSIF ION PRUNNER<br /></strong></p>"
         },
         "tagset": {
           "tags": {
@@ -869,7 +735,7 @@
         ]
       },
       "sorter": "999_01B8AD5C_0901_01B8AD5C-1-01B8ADD4_707-01B8AD5C-0-0",
-      "dtstamp": 1727214060123,
+      "dtstamp": 1731495681644,
       "status": {
         "name": "scheduled"
       },
@@ -904,7 +770,7 @@
           "text": "Concert vocal-simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>PAUL GOODWIN</strong></p><p>Solist <br /><strong>PETR LIMONOV</strong></p><p>Program</p><p><strong>Claude Debussy<br /></strong>Preludiu la dup\u0103 amiaza unui faun</p><p><strong>George Enescu<br /></strong>Vox Maris</p><p><strong>Ludwig van Beethoven<br /></strong>Concertul nr. 5, &icirc;n mi bemol major, pentru pian \u015fi orchestr\u0103, op. 73, &bdquo;Imperialul&rdquo;</p><p>Dirijorul corului<strong><br />IOSIF ION PRUNNER<br /></strong></p>"
+          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>PAUL GOODWIN</strong></p><p>Solist <br /><strong>PETR LIMONOV</strong></p><p>Program</p><p><strong>Ludwig van Beethoven<br /></strong>Uvertura Egmont, &icirc;n fa minor, op. 84<br />Concertul nr. 5, &icirc;n mi bemol major, pentru pian \u015fi orchestr\u0103, op. 73, &bdquo;Imperialul&rdquo;</p><p><strong>Claude Debussy<br /></strong>Preludiu la dup\u0103-amiaza unui faun</p><p><strong>George Enescu<br /></strong>Vox Maris</p><p>Dirijorul corului<strong><br />IOSIF ION PRUNNER<br /></strong></p>"
         },
         "tagset": {
           "tags": {
@@ -936,7 +802,139 @@
         ]
       },
       "sorter": "999_01B8B2FC_0901_01B8B2FC-1-01B8B374_708-01B8B2FC-0-0",
-      "dtstamp": 1727214163225,
+      "dtstamp": 1731495713642,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "816",
+        "seq": 0,
+        "tid": 1733245200000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1733245200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1733252400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Stagiunea de mar\u0163i seara (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<p><strong>Recital vocal</strong><br /><strong>ANDREEA CARMEN MARIN</strong> - sopran\u0103<br /><strong>C\u0102T\u0102LINA BORDEANU</strong> - pian</p><p>Program</p><p><strong>Lili Boulanger </strong><br />Clairi&egrave;res dans le ciel</p><p><strong>Claude Debussy </strong><br />Quatre chansons de jeunesse </p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_67349d03f13c925dd9f7b3d4",
+        "attachments": [],
+        "noDetail": false,
+        "version": 2,
+        "imageIdNg": "67349d03f13c925dd9f7b3d4",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "67349d03f13c925dd9f7b3d4",
+            "name": "IMG_5541",
+            "altText": "IMG_5541",
+            "width": 1588,
+            "height": 2048,
+            "size": 265827,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_67349d03f13c925dd9f7b3d4",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B8C97C_0901_01B8C97C-1-01B8C9F4_816-01B8C97C-0-0",
+      "dtstamp": 1731501366224,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "813",
+        "seq": 0,
+        "tid": 1733331600000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1733331600000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1733338800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Turnee de poveste...pretutindeni"
+        },
+        "description": {
+          "text": "<p><strong>LEONTINA V\u0102DUVA</strong> &ndash; sopran\u0103</p><p><strong>TEODORA GHEORGHIU</strong> &ndash; sopran\u0103</p><p><b>RUXANDRA DONOSE </b>&ndash; mezzosopran\u0103</p><p><strong>SORIN COLIBAN</strong> &ndash; bas-bariton</p><p>La pian \u015fi \u0163ambal: <strong>SERGIU TUHU\u021aIU, DIANA IONESCU, C\u0102T\u0102LIN R\u0102DUCANU</strong></p><p><span>Program</span></p><p><span><strong>Ernesto De Curtis</strong> <br /></span><span>Non ti scordar di me </span></p><p><span><strong>Constantin Br\u0103iloiu</strong> <br /></span><span>Les Oiseaux </span></p><p><span><strong>Aurel Eliade</strong> <br /></span><span>Revedere</span></p><p><span><strong>Irving Berlin</strong> <br /></span><span>White Christmas</span><span> </span></p><p><span><strong>Rodgers &amp; Hammerstein</strong> - <br /></span><span>Carousel, You&rsquo;ll never walk alone</span><span></span></p><p><strong>&Eacute;ric Satie</strong> <br />La Diva de l&rsquo;Empire, Je te veux</p><p><strong>Francis Poulenc </strong><br />Les chemins de l&rsquo;amour, Voyage &agrave; Paris</p><p><strong>Vincent Scotto</strong> <br />J&rsquo;ai deux amours</p><p><strong>Hubert Giraud</strong> <br />Sous le ciel de Paris</p><p><strong>Vincenzo Bellini</strong> <br />Vaga Luna</p><p><strong>Gioacchino Rossini </strong><br />Canzonetta spagnuola</p><p><strong>Andrew Lloyd Webber</strong> <br />Memory</p><p><strong>Serge Lama / Alice Dona</strong> <br />Je suis malade</p><p><strong>Doina Badea</strong> <br />C&acirc;nd eram copii odat\u0103</p><p><strong>Florin Bogardo</strong> <br />Tu e\u0219ti prim\u0103vara mea</p><p><span><strong>Gioachino Rossini </strong><br /></span><span>La danza </span></p><p><span><strong>Fernando Obradors </strong><br /></span><span>El vito </span></p><p><strong>Kurt Weill </strong><br />Speak low</p><p><strong>Edith Piaf </strong><br />Mon Dieu &amp; <span>Hymne a l&rsquo;amour</span></p><p><strong>Henry M\u0103lineanu </strong><br />Nu se poate</p><p><strong>Maria T\u0103nase </strong><span><strong> </strong><br />Tulnicul, </span><span>Butelcu\u021ba mea, </span><span>Sanie cu zurg\u0103l\u0103i </span></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_67346d6d71d46c65667fe821",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://ove.ro/turnee-de-poveste-pretutindeni",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "67346d6d71d46c65667fe821",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "67346d6d71d46c65667fe821",
+            "name": "Afis 4 dec ATENEUL ROMAN Turnee de poveste pretutindeni final",
+            "altText": "Afis 4 dec ATENEUL ROMAN Turnee de poveste pretutindeni final",
+            "width": 1130,
+            "height": 1600,
+            "size": 173645,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_67346d6d71d46c65667fe821",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B8CF1C_0901_01B8CF1C-1-01B8CF94_813-01B8CF1C-0-0",
+      "dtstamp": 1731491203331,
       "status": {
         "name": "scheduled"
       },
@@ -1071,6 +1069,140 @@
       },
       "sorter": "999_01B8DA5C_0901_01B8DA5C-1-01B8DAD4_710-01B8DA5C-0-0",
       "dtstamp": 1727214419851,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "814",
+        "seq": 0,
+        "tid": 1733936400000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1733936400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1733941800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Concert coral de Cr\u0103ciun"
+        },
+        "description": {
+          "text": "<p><strong>Corul Filarmonicii George Enescu</strong></p><p>Dirijor<br /><strong>IOSIF ION PRUNNER</strong></p><p>Program</p><p><strong>Ioan D. Chirescu</strong><br />Bun\u0103 diminea\u021ba la Mo\u0219 Ajun</p><p><strong>Camille Saint-Sa&euml;ns</strong><br />Oratoriul de Cr\u0103ciun<br />Soli\u0219ti: <strong>Irina Ionescu, \u0218tefania Chi\u021bulescu, <br />Geanina Bra\u0219oveanu, Andrei Mihalcea, Dan Macavei<br /></strong>La org\u0103: <strong>Eduard Antal</strong><strong></strong></p><p><strong>Tiberiu Brediceanu</strong><br />Ziurel de zi, Triptic, Colindi\u021ba</p><p><strong>Paul Constantinescu</strong><br />Condacul Na\u0219terii Domnului, Hristos se na\u0219te</p><p>xxx<br />Christmas Spiritual</p><p><strong>Johann Sebastian Bach</strong><br />Jauchzet, frohlocket din Oratoriul de Cr\u0103ciun, BWV 248</p><p><strong>Georg Friedrich H&auml;ndel</strong><br />Halleluja din Oratoriul Messiah, HWV 56</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66ffb52d205890162e616f36",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://ove.ro/concert-coral-de-craciun-6960",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66ffb52d205890162e616f36",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66ffb52d205890162e616f36",
+            "name": "IMAG4119",
+            "altText": "IMAG4119",
+            "width": 4000,
+            "height": 3000,
+            "size": 1064818,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66ffb52d205890162e616f36",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B8F67C_0901_01B8F67C-1-01B8F6D6_814-01B8F67C-0-0",
+      "dtstamp": 1731527049144,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "815",
+        "seq": 0,
+        "tid": 1733936400000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1733936400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1733943600000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital de pian (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<p><strong>TUDOR SCRIPCARIU</strong></p><p>Program</p><p><strong>Modest Musorgski</strong><br />Tablouri dintr o expozi\u021bie</p><p><strong>Franz Schubert<br /></strong>Impromptus, op. 90</p><p><strong>Franz Liszt</strong><br />Rapsodia ungar\u0103 nr. 2, &icirc;n do major<br />Rapsodia ungar\u0103 nr. 12, &icirc;n do diez minor</p><p><strong>Fr&eacute;d&eacute;ric Chopin<br /></strong>Scherzo nr. 2, &icirc;n si bemol minor, op. 31</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66ffb7e4205890162e617006",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://ove.ro/recital-de-pian-sala-mica-6961",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66ffb7e4205890162e617006",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66ffb7e4205890162e617006",
+            "name": "IMAG4127",
+            "altText": "IMAG4127",
+            "width": 4000,
+            "height": 3000,
+            "size": 1199005,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66ffb7e4205890162e617006",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B8F67C_0901_01B8F67C-1-01B8F6F4_815-01B8F67C-0-0",
+      "dtstamp": 1731527243959,
       "status": {
         "name": "scheduled"
       },
