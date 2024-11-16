@@ -3,140 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "703",
-        "seq": 0,
-        "tid": 1731603600000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1731603600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1731610800000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>LEO HUSSAIN</strong></p><p>Solist <br /><strong>PETER DONOHOE</strong></p><p>Program</p><p><strong>Johannes Brahms<br /></strong>Concertul nr. 1, &icirc;n re minor, pentru pian \u0219i orchestr\u0103, op. 15</p><p><strong>Bedrich Smetana</strong><br />Patria mea (selec\u0163iuni)</p><p><strong> </strong></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5ad8117e3a71e7fc65d1",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/concert-simfonic-6903",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5ad8117e3a71e7fc65d1",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5ad8117e3a71e7fc65d1",
-            "name": "donohoe",
-            "altText": "donohoe",
-            "width": 238,
-            "height": 183,
-            "size": 4617,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5ad8117e3a71e7fc65d1",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B85E9C_0901_01B85E9C-1-01B85F14_703-01B85E9C-0-0",
-      "dtstamp": 1730979013055,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "706",
-        "seq": 0,
-        "tid": 1731690000000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1731690000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1731697200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor<br /><strong>LEO HUSSAIN</strong></p><p>Solist<br /><strong>PETER DONOHOE</strong></p><p>Program</p><p><strong>Johannes Brahms<br /></strong>Concertul nr. 1, &icirc;n re minor, pentru pian \u0219i orchestr\u0103, op. 15</p><p><strong>Bedrich Smetana</strong><br />Patria mea (selec\u0163iuni)</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5ad8117e3a71e7fc65d1",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/concert-simfonic-6904",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5ad8117e3a71e7fc65d1",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5ad8117e3a71e7fc65d1",
-            "name": "donohoe",
-            "altText": "donohoe",
-            "width": 238,
-            "height": 183,
-            "size": 4617,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5ad8117e3a71e7fc65d1",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B8643C_0901_01B8643C-1-01B864B4_706-01B8643C-0-0",
-      "dtstamp": 1730979026838,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "809",
         "seq": 0,
         "tid": 1731747600000,
@@ -435,7 +301,7 @@
           "text": "Concert vocal-simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>NABIL SHEHATA</strong></p><p>Solist <br /><strong>ELENA BASHKIROVA</strong></p><p>Program</p><p><strong>Livia Teodorescu-Cioc\u0103nea<br /></strong>Oratoriul &ldquo;C&acirc;mpuri de maci&rdquo; (selec\u0163iuni) - p.a.a.</p><p>Soli\u015fti<br /><strong>ANTONELA B&Acirc;RNAT</strong> - mezzosopran\u0103<br /><strong>GEORGE V&Icirc;RBAN</strong> - tenor<br /><strong>ADRIAN M\u0102RCAN</strong> - bariton</p><p><strong>Wolfgang Amadeus Mozart<br /></strong>Concertul nr. 13, &icirc;n do major, pentru pian \u015fi orchestr\u0103, KV 415</p><p><strong>Ludwig van Beethoven<br /></strong>Simfonia nr. 7, &icirc;n la major, op. 92</p><p>Dirijorul corului<strong><br />IOSIF ION PRUNNER<br /></strong></p><p></p><p><strong> </strong></p>"
+          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>NABIL SHEHATA</strong></p><p>Solist <br /><strong>ELENA BASHKIROVA</strong></p><p>Program</p><p><strong>Livia Teodorescu-Cioc\u0103nea<br /></strong>Oratoriul &ldquo;C&acirc;mpuri de maci&rdquo; (selec\u0163iuni) - p.a.a.</p><p>Soli\u015fti<br /><strong>ANTONELA BARNAT</strong> - mezzosopran\u0103<br /><strong>GEORGE V&Icirc;RBAN</strong> - tenor<br /><strong>ADRIAN M\u0102RCAN</strong> - bariton</p><p><strong>Wolfgang Amadeus Mozart<br /></strong>Concertul nr. 13, &icirc;n do major, pentru pian \u015fi orchestr\u0103, KV 415</p><p><strong>Ludwig van Beethoven<br /></strong>Simfonia nr. 7, &icirc;n la major, op. 92</p><p>Dirijorul corului<strong><br />IOSIF ION PRUNNER<br /></strong></p><p></p><p><strong> </strong></p>"
         },
         "tagset": {
           "tags": {
@@ -467,7 +333,7 @@
         ]
       },
       "sorter": "999_01B885FC_0901_01B885FC-1-01B88674_704-01B885FC-0-0",
-      "dtstamp": 1731525473614,
+      "dtstamp": 1731678876166,
       "status": {
         "name": "scheduled"
       },
@@ -502,7 +368,7 @@
           "text": "Concert vocal-simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>NABIL SHEHATA</strong></p><p>Solist <br /><strong>ELENA BASHKIROVA</strong></p><p>Program</p><p><strong>Livia Teodorescu-Cioc\u0103nea<br /></strong>Oratoriul &ldquo;C&acirc;mpuri de maci&rdquo; (selec\u0163iuni) - p.a.a.</p><p>Soli\u015fti<br /><strong>ANTONELA B&Acirc;RNAT</strong> - mezzosopran\u0103<br /><strong>GEORGE V&Icirc;RBAN</strong> - tenor<br /><strong>ADRIAN M\u0102RCAN</strong> - bariton</p><p><strong>Wolfgang Amadeus Mozart<br /></strong>Concertul nr. 13, &icirc;n do major, pentru pian \u015fi orchestr\u0103, KV 415</p><p><strong>Ludwig van Beethoven<br /></strong>Simfonia nr. 7, &icirc;n la major, op. 92</p><p>Dirijorul corului<strong><br />IOSIF ION PRUNNER<br /></strong></p><p></p><p><strong> </strong></p>"
+          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>NABIL SHEHATA</strong></p><p>Solist <br /><strong>ELENA BASHKIROVA</strong></p><p>Program</p><p><strong>Livia Teodorescu-Cioc\u0103nea<br /></strong>Oratoriul &ldquo;C&acirc;mpuri de maci&rdquo; (selec\u0163iuni) - p.a.a.</p><p>Soli\u015fti<br /><strong>ANTONELA BARNAT</strong> - mezzosopran\u0103<br /><strong>GEORGE V&Icirc;RBAN</strong> - tenor<br /><strong>ADRIAN M\u0102RCAN</strong> - bariton</p><p><strong>Wolfgang Amadeus Mozart<br /></strong>Concertul nr. 13, &icirc;n do major, pentru pian \u015fi orchestr\u0103, KV 415</p><p><strong>Ludwig van Beethoven<br /></strong>Simfonia nr. 7, &icirc;n la major, op. 92</p><p>Dirijorul corului<strong><br />IOSIF ION PRUNNER<br /></strong></p><p></p><p><strong> </strong></p>"
         },
         "tagset": {
           "tags": {
@@ -534,7 +400,7 @@
         ]
       },
       "sorter": "999_01B88B9C_0901_01B88B9C-1-01B88C14_705-01B88B9C-0-0",
-      "dtstamp": 1731525497446,
+      "dtstamp": 1731678887544,
       "status": {
         "name": "scheduled"
       },
@@ -837,7 +703,7 @@
           "text": "Stagiunea de mar\u0163i seara (Sala mic\u0103)"
         },
         "description": {
-          "text": "<p><strong>Recital vocal</strong><br /><strong>ANDREEA CARMEN MARIN</strong> - sopran\u0103<br /><strong>C\u0102T\u0102LINA BORDEANU</strong> - pian</p><p>Program</p><p><strong>Lili Boulanger </strong><br />Clairi&egrave;res dans le ciel</p><p><strong>Claude Debussy </strong><br />Quatre chansons de jeunesse </p>"
+          "text": "<p><strong>Recital vocal</strong><br /><strong>ANDREEA CARMEN MARIN</strong> - sopran\u0103<br /><strong>C\u0102T\u0102LINA BORDEANU</strong> - pian</p><p>Program</p><p><strong>Lili Boulanger </strong><br />Clairi&egrave;res dans le ciel</p><p><strong>Claude Debussy </strong><br />Quatre chansons de jeunesse</p>"
         },
         "tagset": {
           "tags": {
@@ -846,8 +712,10 @@
         },
         "imageId": "BWC_67349d03f13c925dd9f7b3d4",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://ove.ro/stagiunea-de-marti-seara-sala-mica-6962",
         "noDetail": false,
-        "version": 2,
+        "version": 1,
         "imageIdNg": "67349d03f13c925dd9f7b3d4",
         "imageSets": [
           {
@@ -867,7 +735,7 @@
         ]
       },
       "sorter": "999_01B8C97C_0901_01B8C97C-1-01B8C9F4_816-01B8C97C-0-0",
-      "dtstamp": 1731501366224,
+      "dtstamp": 1731580388640,
       "status": {
         "name": "scheduled"
       },
