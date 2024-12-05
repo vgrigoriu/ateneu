@@ -3,140 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "816",
-        "seq": 0,
-        "tid": 1733245200000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1733245200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1733252400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Stagiunea de mar\u0163i seara (Sala mic\u0103)"
-        },
-        "description": {
-          "text": "<p><strong>Recital vocal</strong><br /><strong>ANDREEA CARMEN MARIN</strong> - sopran\u0103<br /><strong>C\u0102T\u0102LINA BORDEANU</strong> - pian</p><p>Program</p><p><strong>Lili Boulanger </strong><br />Clairi&egrave;res dans le ciel</p><p><strong>Claude Debussy </strong><br />Quatre chansons de jeunesse</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_67349d03f13c925dd9f7b3d4",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/stagiunea-de-marti-seara-sala-mica-6962",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "67349d03f13c925dd9f7b3d4",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "67349d03f13c925dd9f7b3d4",
-            "name": "IMG_5541",
-            "altText": "IMG_5541",
-            "width": 1588,
-            "height": 2048,
-            "size": 265827,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_67349d03f13c925dd9f7b3d4",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B8C97C_0901_01B8C97C-1-01B8C9F4_816-01B8C97C-0-0",
-      "dtstamp": 1731580388640,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "813",
-        "seq": 0,
-        "tid": 1733331600000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1733331600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1733338800000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Turnee de poveste...pretutindeni"
-        },
-        "description": {
-          "text": "<p><strong>LEONTINA V\u0102DUVA</strong> &ndash; sopran\u0103</p><p><strong>TEODORA GHEORGHIU</strong> &ndash; sopran\u0103</p><p><b>RUXANDRA DONOSE </b>&ndash; mezzosopran\u0103</p><p><strong>SORIN COLIBAN</strong> &ndash; bas-bariton</p><p>La pian \u015fi \u0163ambal: <strong>SERGIU TUHU\u021aIU, DIANA IONESCU, C\u0102T\u0102LIN R\u0102DUCANU</strong></p><p><span>Program</span></p><p><span><strong>Ernesto De Curtis</strong> <br /></span><span>Non ti scordar di me </span></p><p><span><strong>Constantin Br\u0103iloiu</strong> <br /></span><span>Les Oiseaux </span></p><p><span><strong>Aurel Eliade</strong> <br /></span><span>Revedere</span></p><p><span><strong>Irving Berlin</strong> <br /></span><span>White Christmas</span><span> </span></p><p><span><strong>Rodgers &amp; Hammerstein</strong> - <br /></span><span>Carousel, You&rsquo;ll never walk alone</span><span></span></p><p><strong>&Eacute;ric Satie</strong> <br />La Diva de l&rsquo;Empire, Je te veux</p><p><strong>Francis Poulenc </strong><br />Les chemins de l&rsquo;amour, Voyage &agrave; Paris</p><p><strong>Vincent Scotto</strong> <br />J&rsquo;ai deux amours</p><p><strong>Hubert Giraud</strong> <br />Sous le ciel de Paris</p><p><strong>Vincenzo Bellini</strong> <br />Vaga Luna</p><p><strong>Gioacchino Rossini </strong><br />Canzonetta spagnuola</p><p><strong>Andrew Lloyd Webber</strong> <br />Memory</p><p><strong>Serge Lama / Alice Dona</strong> <br />Je suis malade</p><p><strong>Doina Badea</strong> <br />C&acirc;nd eram copii odat\u0103</p><p><strong>Florin Bogardo</strong> <br />Tu e\u0219ti prim\u0103vara mea</p><p><span><strong>Gioachino Rossini </strong><br /></span><span>La danza </span></p><p><span><strong>Fernando Obradors </strong><br /></span><span>El vito </span></p><p><strong>Kurt Weill </strong><br />Speak low</p><p><strong>Edith Piaf </strong><br />Mon Dieu &amp; <span>Hymne a l&rsquo;amour</span></p><p><strong>Henry M\u0103lineanu </strong><br />Nu se poate</p><p><strong>Maria T\u0103nase </strong><span><strong> </strong><br />Tulnicul, </span><span>Butelcu\u021ba mea, </span><span>Sanie cu zurg\u0103l\u0103i </span></p><p><strong>Dani Constantin<br /></strong><span>Ce bucurie ar fi! </span></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_67346d6d71d46c65667fe821",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/turnee-de-poveste-pretutindeni",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "67346d6d71d46c65667fe821",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "67346d6d71d46c65667fe821",
-            "name": "Afis 4 dec ATENEUL ROMAN Turnee de poveste pretutindeni final",
-            "altText": "Afis 4 dec ATENEUL ROMAN Turnee de poveste pretutindeni final",
-            "width": 1130,
-            "height": 1600,
-            "size": 173645,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_67346d6d71d46c65667fe821",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B8CF1C_0901_01B8CF1C-1-01B8CF94_813-01B8CF1C-0-0",
-      "dtstamp": 1732734441487,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "709",
         "seq": 0,
         "tid": 1733418000000,
@@ -2251,6 +2117,71 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
+        "uid": "825",
+        "seq": 0,
+        "tid": 1739898000000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1739898000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1739905200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital de pian"
+        },
+        "description": {
+          "text": "<p><strong>ANDREI VIERU</strong></p><p>Program</p><p><strong>Ludwig van Beethoven</strong><br />Varia\u021biuni pe o tem\u0103 de Diabelli, op. 120<br />Bagatele, op. 126</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_67504aa270f7e02f49bf7e40",
+        "attachments": [],
+        "noDetail": false,
+        "version": 2,
+        "imageIdNg": "67504aa270f7e02f49bf7e40",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "67504aa270f7e02f49bf7e40",
+            "name": "Vieru.jfif",
+            "altText": "Vieru.jfif",
+            "width": 270,
+            "height": 163,
+            "size": 10276,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_67504aa270f7e02f49bf7e40",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BA7A9C_0901_01BA7A9C-1-01BA7B14_825-01BA7A9C-0-0",
+      "dtstamp": 1733315272219,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
         "uid": "729",
         "seq": 0,
         "tid": 1740070800000,
@@ -3607,6 +3538,71 @@
       },
       "sorter": "999_01BBEDA0_0901_01BBEDA0-1-01BBEE18_748-01BBEDA0-0-0",
       "dtstamp": 1722442851119,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "824",
+        "seq": 0,
+        "tid": 1745683200000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1745683200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EEST",
+          "offset": 10800000
+        },
+        "end": {
+          "millis": 1745690400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EEST",
+          "offset": 10800000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital de pian"
+        },
+        "description": {
+          "text": "<p><strong>Recital de pian<br /></strong><strong>AIMO PAGIN</strong></p><p>Program</p><p><strong>Serghei Rahmaninov<br /></strong>Momente muzicale, op. 16</p><p><strong>Jean Sibelius<br /></strong>Vals trist</p><p><strong>Serghei Prokofiev<br /></strong>Sonata nr. 7, &icirc;n si bemol major, op. 83</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_674efdc870f7e02f49be6e7d",
+        "attachments": [],
+        "noDetail": false,
+        "version": 2,
+        "imageIdNg": "674efdc870f7e02f49be6e7d",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "674efdc870f7e02f49be6e7d",
+            "name": "AimoPagin.webp",
+            "altText": "AimoPagin.webp",
+            "width": 711,
+            "height": 642,
+            "size": 37664,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_674efdc870f7e02f49be6e7d",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BBF340_0901_01BBF340-1-01BBF3B8_824-01BBF340-0-0",
+      "dtstamp": 1733230032452,
       "status": {
         "name": "scheduled"
       },
