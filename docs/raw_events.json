@@ -3,609 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "822",
-        "seq": 0,
-        "tid": 1733760000000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1733760000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1733765400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Clasic e Fantasic - concert extraordinar"
-        },
-        "description": {
-          "text": "<div><strong>Jazz de S\u0103rb\u0103tori</strong></div><div></div><div><strong>Irina S&acirc;rbu Band<br />Puiu Pascu </strong>- pian<strong><br />Ciprian Parghel </strong>- contrabas<strong><br />Tudor Parghel </strong>- tobe<strong><br /></strong></div><div></div><div><strong>Bucharest Jazz Orchestra</strong> <br />Dirijor <strong>Simona Strungaru</strong><p><strong>Paolo Profeti</strong> - saxofon alto <br /><strong>Eugen Mamot</strong> - saxofon alto<br /><strong>Diana Suciu</strong> - saxofon tenor<br /><strong>Marcel Pascu</strong> - saxofon bariton<br /><strong>Sebastian Burneci</strong> - trompet\u0103/flugelhorn <br /><strong>Silviu Groaza</strong> - trompet\u0103/flugelhorn <br /><strong>Laurentiu Moise</strong> - trompet\u0103/flugelhorn <br /><strong>Ciprian Partenie</strong> - trombon tenor<br /><strong>Adrian Cojocaru</strong> - trombon tenor<br /><strong>Cristian L\u0103bu\u015f</strong> - trombon bas<br /><strong>Johnny Bica</strong> - pian <br /><strong>Alex Mike</strong> - contrabas<br /><strong>Andrei Paraschiv</strong> - tobe</p></div><div><div><strong>Ana Parghel-S&acirc;rbu </strong>- voce<strong><br /></strong></div><div><strong>Maya Sophie Burneci </strong>- voce<strong><br /></strong></div></div><div></div><div><strong>Colegiul Na\u021bional de Muzic\u0103 &quot;George Enescu&quot;</strong></div><div>Ansamblul vocal-instrumental al sec\u021biei jazz/muzic\u0103 u\u0219oar\u0103</div><div>Profesori &icirc;ndrum\u0103tori <strong>Dana Bartzer &amp; Dan Creimerman</strong></div><div></div><div></div><div>&Icirc;n program lucr\u0103ri de: <strong>A. Pa\u0219canu, F. Gruber, Jos&eacute; Feliciano, Jule Styne, Johnny Marks, James Lord Pierpont \u0219.a.</strong></div><div></div><div>Prezint\u0103 <strong>Irina S&acirc;rbu</strong><strong></strong></div>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66ffb52d205890162e616f36",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/clasic-e-fantasic-concert-extraordinar",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66ffb52d205890162e616f36",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66ffb52d205890162e616f36",
-            "name": "IMAG4119",
-            "altText": "IMAG4119",
-            "width": 4000,
-            "height": 3000,
-            "size": 1064818,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66ffb52d205890162e616f36",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B8EB00_0901_01B8EB00-1-01B8EB5A_822-01B8EB00-0-0",
-      "dtstamp": 1732538477075,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "817",
-        "seq": 0,
-        "tid": 1733850000000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1733850000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1733853600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Stagiunea de mar\u021bi seara (Sala mic\u0103)"
-        },
-        "description": {
-          "text": "<p>Recital de chitar\u0103</p><p><strong>OVIDIU PINTILIE</strong></p><p><strong>John Dowland</strong><br />Lachrimae Pavan</p><p><strong>Francisco T&aacute;rrega<br /></strong>Capriciu arab</p><p><strong>Agustin Barrios-Mangor&eacute;<br /></strong>Julia Florida</p><p><strong>Isaac Alb&eacute;niz</strong><br />Torre Bermeja</p><p><strong>Nikita Ko\u0219kin<br /></strong>Sonata nr. 2</p><p><strong>C\u0103t\u0103lin \u0218tef\u0103nescu-P\u0103tra\u0219cu</strong><br />Tarantella</p><p>Coproduc\u0103tor: Radio Rom&acirc;nia Muzical</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_673c6b6cc332fc36f2c6f47b",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/stagiunea-de-marti-seara-sala-mica-6965",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "673c6b6cc332fc36f2c6f47b",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "673c6b6cc332fc36f2c6f47b",
-            "name": "Pintilie.jfif",
-            "altText": "Pintilie.jfif",
-            "width": 260,
-            "height": 194,
-            "size": 6979,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_673c6b6cc332fc36f2c6f47b",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B8F0DC_0901_01B8F0DC-1-01B8F118_817-01B8F0DC-0-0",
-      "dtstamp": 1732030010522,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "814",
-        "seq": 0,
-        "tid": 1733936400000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1733936400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1733941800000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert coral de Cr\u0103ciun"
-        },
-        "description": {
-          "text": "<p><strong>Corul Filarmonicii George Enescu</strong></p><p>Dirijor<br /><strong>IOSIF ION PRUNNER</strong></p><p><strong>ANDREI LICARE\u021a </strong>- pian</p><p><strong>EDUARD ANTAL </strong>- org\u0103</p><p><strong>IOANA NICOLESCU </strong>- harp\u0103</p><p>Program</p><p><strong>Ioan D. Chirescu</strong><br />Bun\u0103 diminea\u021ba la Mo\u0219 Ajun</p><p><strong>Camille Saint-Sa&euml;ns</strong><br />Oratoriul de Cr\u0103ciun<br />Soli\u0219ti: <strong>Irina Ionescu, \u0218tefania Chi\u021bulescu, <br />Geanina Bra\u0219oveanu, Andrei Mihalcea, Dan Macavei<br /></strong><strong></strong></p><p><strong>Tiberiu Brediceanu</strong><br />Ziurel de zi, Triptic, Colindi\u021ba</p><p><strong>Paul Constantinescu</strong><br />Condacul Na\u0219terii Domnului, Hristos se na\u0219te</p><p>xxx<br />Christmas Spiritual</p><p><strong>Johann Sebastian Bach</strong><br />Jauchzet, frohlocket din Oratoriul de Cr\u0103ciun, BWV 248</p><p><strong>Georg Friedrich H&auml;ndel</strong><br />Halleluja din Oratoriul Messiah, HWV 56</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66ffb52d205890162e616f36",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/concert-coral-de-craciun-6960",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66ffb52d205890162e616f36",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66ffb52d205890162e616f36",
-            "name": "IMAG4119",
-            "altText": "IMAG4119",
-            "width": 4000,
-            "height": 3000,
-            "size": 1064818,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66ffb52d205890162e616f36",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B8F67C_0901_01B8F67C-1-01B8F6D6_814-01B8F67C-0-0",
-      "dtstamp": 1732885818892,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "815",
-        "seq": 0,
-        "tid": 1733936400000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1733936400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1733943600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Recital de pian (Sala mic\u0103)"
-        },
-        "description": {
-          "text": "<p><strong>TUDOR SCRIPCARIU</strong></p><p>Program</p><p><strong>Modest Musorgski</strong><br />Tablouri dintr o expozi\u021bie</p><p><strong>Franz Schubert<br /></strong>Impromptus, op. 90</p><p><strong>Franz Liszt</strong><br />Rapsodia ungar\u0103 nr. 2, &icirc;n do major<br />Rapsodia ungar\u0103 nr. 12, &icirc;n do diez minor</p><p><strong>Fr&eacute;d&eacute;ric Chopin<br /></strong>Scherzo nr. 2, &icirc;n si bemol minor, op. 31</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66ffb7e4205890162e617006",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/recital-de-pian-sala-mica-6961",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66ffb7e4205890162e617006",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66ffb7e4205890162e617006",
-            "name": "IMAG4127",
-            "altText": "IMAG4127",
-            "width": 4000,
-            "height": 3000,
-            "size": 1199005,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66ffb7e4205890162e617006",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B8F67C_0901_01B8F67C-1-01B8F6F4_815-01B8F67C-0-0",
-      "dtstamp": 1731527243959,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "711",
-        "seq": 0,
-        "tid": 1734022800000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1734022800000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1734030000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>LEO HUSSAIN</strong></p><p>Solist <br /><strong>ZLATOMIR FUNG</strong></p><p>Program</p><p><strong>Arvo P&auml;rt<br /></strong>Silouans Song</p><p><strong>Dmitri \u0218ostakovici</strong><br />Concertul nr. 1, &icirc;n mi bemol major, pentru violoncel \u0219i orchestr\u0103, op. 107</p><p><strong>Gustav Mahler</strong><br />Simfonia nr. 1, &icirc;n re major</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5cb5117e3a71e7fc67ed",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/concert-simfonic-6911",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5cb5117e3a71e7fc67ed",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5cb5117e3a71e7fc67ed",
-            "name": "fung",
-            "altText": "fung",
-            "width": 224,
-            "height": 225,
-            "size": 8343,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5cb5117e3a71e7fc67ed",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B8FC1C_0901_01B8FC1C-1-01B8FC94_711-01B8FC1C-0-0",
-      "dtstamp": 1727214619160,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "712",
-        "seq": 0,
-        "tid": 1734109200000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1734109200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1734116400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>LEO HUSSAIN</strong></p><p>Solist <br /><strong>ZLATOMIR FUNG</strong></p><p>Program</p><p><strong>Arvo P&auml;rt<br /></strong>Silouans Song</p><p><strong>Dmitri \u0218ostakovici</strong><br />Concertul nr. 1, &icirc;n mi bemol major, pentru violoncel \u0219i orchestr\u0103, op. 107</p><p><strong>Gustav Mahler</strong><br />Simfonia nr. 1, &icirc;n re major</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5cb5117e3a71e7fc67ed",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/concert-simfonic-6912",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5cb5117e3a71e7fc67ed",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5cb5117e3a71e7fc67ed",
-            "name": "fung",
-            "altText": "fung",
-            "width": 224,
-            "height": 225,
-            "size": 8343,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5cb5117e3a71e7fc67ed",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B901BC_0901_01B901BC-1-01B90234_712-01B901BC-0-0",
-      "dtstamp": 1727214703357,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "823",
-        "seq": 0,
-        "tid": 1734166800000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1734166800000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1734174000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert de Colinde"
-        },
-        "description": {
-          "text": "<p><strong>Concert de Colinde<br /></strong><span><em><strong>Din &Icirc;naltul Cer</strong></em><br /></span></p><p><strong>Corul SYMBOL-JEAN LUPU<br /></strong><span>Dirijoare: </span><strong>LUMINI\u0162A GU\u0162ANU<br /></strong>Invita\u021bi speciali:<br /><strong>NICO</strong><br /><strong>ANDREEA BUCUR</strong><br /><strong>CIPRIAN MARDARE</strong><br /><strong>MIRUNA VIDICAN</strong><br /><strong>ILINCA CHIRI\u021a\u0102</strong></p><p>Regia: <strong>C\u0102T\u0102LINA GU\u021aANU</strong></p><p>Program</p><p><strong>Constantin Dr\u0103gu\u0219in</strong> - La Betleem &icirc;n noapte</p><p><span><strong>Valentin Teodorian</strong> - Colindul clopotelor (</span><span>aranj. pentru cor pe voci egale de <strong>Lumini\u0163a Gu\u0163anu</strong>)</span></p><p><strong>Valentin Teodorian </strong>- Leg\u0103nelul lui Iisus</p><p><span><strong>Constantin Arvinte</strong> - Colind de pace (p.a.a.) </span>5</p><p><strong>Vasile Popovici</strong> - Velerim \u0219i Veler Doamne</p><p><span><strong>Petre \u0218tef\u0103nescu</strong> - La tulpina m\u0103rului (p.a.a.) </span></p><p><span><strong>Radu Paladi </strong>- Colind\u0103 de Anul Nou (aranj. pentru cor pe voci egale de <strong>Lumini\u0163a Gu\u0163anu</strong>)</span></p><p><strong>Virgiliu Popescu</strong> - La mul\u0163i ani, surori \u015fi fra\u0163i <span>(aranj. pentru cor pe voci egale de </span><strong>Lumini\u0163a Gu\u0163anu</strong>)</p><p><strong>Vasile Popovici</strong> - &Icirc;nchinarea p\u0103storilor</p><p><strong>Gelu Stratulat</strong> - C\u0103pri\u021ba</p><p><strong>Nicolae Lungu</strong> - M\u0103rire-ntru cele-nalte</p><p><strong>Marius Hristescu</strong> - Flori dalbe, flori de m\u0103r <span>(aranj. pentru cor pe voci egale de </span><strong>Lumini\u0163a Gu\u0163anu</strong>)</p><p><span><strong>Mykola Leontovich</strong> - Shchedrik (aranj. pentru cor pe voci egale de <strong>Lumini\u0163a Gu\u0163anu</strong>)</span></p><p><span><strong>Eugen Dan Dr\u0103goi</strong> - Din &icirc;naltul cer (p.a.a.) </span></p><p><strong>Dani Constantin</strong> - Ce bucurie ar fi</p><p><strong>Charles Adolphe Adam</strong> - No&euml;l <span>(aranj. pentru cor pe voci egale de </span><strong>Olgu\u0163a Lupu</strong>)</p><p><span><strong>Eugen Dan Dr\u0103goi</strong> - Minunat\u0103 (p.a.a.) </span></p><p><span><strong>Eugen Dan Dr\u0103goi</strong> - E zi de Cr\u0103ciun</span></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_674860b560bdc5116d897eb5",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/concert-de-colinde-6971",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "674860b560bdc5116d897eb5",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "674860b560bdc5116d897eb5",
-            "name": "christmastree.webp",
-            "altText": "christmastree.webp",
-            "width": 688,
-            "height": 931,
-            "size": 130048,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_674860b560bdc5116d897eb5",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B9057C_0901_01B9057C-1-01B905F4_823-01B9057C-0-0",
-      "dtstamp": 1732798488237,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "821",
-        "seq": 0,
-        "tid": 1734253200000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1734253200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1734258600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Muzica pe \u00cen\u021belesul Tuturor - Cr\u0103ciun Baroc"
-        },
-        "description": {
-          "text": "<p>Ansamblul baroc <strong><em>The Harmonious Blacksmith </em></strong></p><p>Ansamblul vocal<strong> <em>Voices of Athenaeum</em></strong></p><p>Comentariu<strong><br />MIHAI COJOCARU</strong></p><p>Program<strong></strong></p><p><strong>Johann Sebastian Bach<br /></strong>Uvertura din Suita nr. 1, &icirc;n re major, pentru orchestr\u0103, BWV 1066 <br /><em>Magnificat anima mea</em> din Magnificat &icirc;n re major pentru cor \u0219i orchestr\u0103, BWV 243</p><p><strong>Antonio Vivaldi<br /></strong>Concerto grosso &icirc;n sol minor pentru 2 viori \u0219i orchestr\u0103, op. 3, RV 578 <br /><em>A solis ortu</em> din Laudate pueri &icirc;n re major pentru sopran\u0103 \u0219i orchestr\u0103, RV 601</p><p><strong>Johann Sebastian Bach<br /></strong><em>Wachet auf ruft uns die Stimme </em> pentru cor \u0219i orchestr\u0103 <br /><em>Mein Freund ist mein </em>din Cantata 140 &icirc;n mi bemol major pentru sopran\u0103 \u0219i bas</p><p><strong>Antonio Vivaldi<br /></strong><em>Iarna </em>&icirc;n fa minor pentru vioar\u0103 \u0219i orchestr\u0103 din Anotimpurile, op. 8, RV 297</p><p><strong>Johann Sebastian Bach<br /></strong><em>Bist du bei mir </em>pentru bas \u0219i orchestr\u0103, BWV 508<br /><em></em></p><p><strong>Antonio Vivaldi<br /></strong>Gloria <em>Patri et Filio </em>din Laudate pueri &icirc;n la minor pentru sopran\u0103 \u0219i orchestr\u0103, RV 601</p><p><strong>Johann Sebastian Bach<br /></strong><em>Christen, &auml;tzet diesen Tag</em> &icirc;n do major pentru cor \u0219i orchestr\u0103 din Cantata BWV 63 </p><p>Soli <br /><strong>Irina Ionescu</strong> - sopran\u0103</p><p><strong>Cristina Vasilache</strong> - sopran\u0103</p><p><strong>R\u0103zvan Georgescu</strong> - bariton</p><p><strong>Mircea Ionescu</strong> - vioar\u0103</p><p><strong>Mihail Ghiga</strong> - vioar\u0103</p><p><strong>Eugen Bogdan Popa</strong> - violoncel</p><p><strong>Andrei Ni\u021bescu</strong> - violoncel</p><p><strong></strong></p><p><strong>Anamaria Biaciu-Popa</strong> - clavecin, org\u0103</p><p></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66f54a606e1e462de2e04a91",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/muzica-pe-intelesul-tuturor-craciun-baroc",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66f54a606e1e462de2e04a91",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66f54a606e1e462de2e04a91",
-            "name": "IMAG4104",
-            "altText": "IMAG4104",
-            "width": 4000,
-            "height": 3000,
-            "size": 1392269,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66f54a606e1e462de2e04a91",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B90B1C_0901_01B90B1C-1-01B90B76_821-01B90B1C-0-0",
-      "dtstamp": 1732887326128,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "819",
-        "seq": 0,
-        "tid": 1734282000000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1734282000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1734287400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert coral - Christmas Jazz"
-        },
-        "description": {
-          "text": "<p><strong>Corul Preludiu - Voicu En\u0103chescu</strong></p><p>Dirijor<br /><strong>ANDREI ST\u0102NCULESCU</strong><br />Aranjamente instrumentale<br /><strong>ALBERT TAJTI</strong></p><div><strong>Paolo Profeti</strong> - saxofon, flaut</div><div><strong>Albert Tajti</strong> - pian</div><div><strong>Cojanu Razvan</strong> - contrabas</div><div><strong>Iulian Nicolau</strong> - tobe</div><div></div><div>Program</div><p>It&rsquo;s beginning to look like Christmas - arr. Mark Hayes <br />I&rsquo;ll be home for Christmas - arr. Paul Langford <br />Have yourself a merry little Christmas - arr. Roger Emerson<br />Santa baby - arr. Jonathan Wikeley<br />White Christmas - arr. Molly Ijames <br />Blue Christmas - arr. Berty Rice<br />Santa Claus is coming to town - arr. John Leavitt <br />A Christmas blessing - arr. Lloyd Larson <br />Feliz Navidad - arr. Paul Langford<br />All I want for Christmas is you - arr. Mac Huff<br />Polar Express - arr. Audrey Snyder</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66fd1544205890162e5fa1db",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/concert-coral-christmas-jazz",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66fd1544205890162e5fa1db",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66fd1544205890162e5fa1db",
-            "name": "IMAG4122 (1)",
-            "altText": "IMAG4122 (1)",
-            "width": 3000,
-            "height": 4000,
-            "size": 1135341,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66fd1544205890162e5fa1db",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B90CFC_0901_01B90CFC-1-01B90D56_819-01B90CFC-0-0",
-      "dtstamp": 1732101279579,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "807",
         "seq": 0,
         "tid": 1734454800000,
@@ -975,6 +372,8 @@
         },
         "imageId": "BWC_66aa5da9117e3a71e7fc6aef",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-de-anul-nou-43gD64ne?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa5da9117e3a71e7fc6aef",
@@ -996,7 +395,7 @@
         ]
       },
       "sorter": "999_01B977DC_0901_01B977DC-1-01B97854_715-01B977DC-0-0",
-      "dtstamp": 1722441136373,
+      "dtstamp": 1733951474008,
       "status": {
         "name": "scheduled"
       },
@@ -1040,6 +439,8 @@
         },
         "imageId": "BWC_66aa5da9117e3a71e7fc6aef",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-de-anul-nou-5zwAKonB?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa5da9117e3a71e7fc6aef",
@@ -1061,7 +462,7 @@
         ]
       },
       "sorter": "999_01B97D7C_0901_01B97D7C-1-01B97DF4_716-01B97D7C-0-0",
-      "dtstamp": 1722441155474,
+      "dtstamp": 1733951519046,
       "status": {
         "name": "scheduled"
       },
@@ -1105,6 +506,8 @@
         },
         "imageId": "BWC_66aa5e14117e3a71e7fc6b5e",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-KnLv15zZ?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa5e14117e3a71e7fc6b5e",
@@ -1126,7 +529,7 @@
         ]
       },
       "sorter": "999_01B9999C_0901_01B9999C-1-01B99A14_717-01B9999C-0-0",
-      "dtstamp": 1726143583955,
+      "dtstamp": 1733951542089,
       "status": {
         "name": "scheduled"
       },
@@ -1170,6 +573,8 @@
         },
         "imageId": "BWC_66aa5e14117e3a71e7fc6b5e",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-G7dLZP7E?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa5e14117e3a71e7fc6b5e",
@@ -1191,7 +596,74 @@
         ]
       },
       "sorter": "999_01B99F3C_0901_01B99F3C-1-01B99FB4_718-01B99F3C-0-0",
-      "dtstamp": 1726143592029,
+      "dtstamp": 1733951567529,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "826",
+        "seq": 0,
+        "tid": 1736701200000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1736701200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1736706600000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Concert simfonic dedicat Anului Nou"
+        },
+        "description": {
+          "text": "<p><strong>Orchestra simfonic\u0103 a Filarmonicii &rdquo;Paul Constantinescu&rdquo; Ploie\u0219ti</strong></p><p>Dirijor<br /><strong>DIETER HOLZAPFEL</strong></p><p>Program</p><p><strong>Johann Strauss-fiul</strong></p><p>Uvertura Voievodul \u021biganilor<br />Tunete \u0219i fulgere - polc\u0103 rapid\u0103 , op. 324</p><p><strong>Franz Leh&aacute;r<br /></strong>Aur \u0219i argint - vals de concert, op. 79</p><p><strong>Johann Strauss-fiul</strong>\u2060<br />Polca vesel\u0103, op. 319</p><p><strong>Jacques Offenbach<br /></strong>Uvertura Orfeu &icirc;n infern</p><p><strong>Johann Strauss-fiul</strong><br />Uvertura Liliacul</p><p><strong>Franz Leh&aacute;r<br /></strong>Valsul Sirenele balului</p><p><strong>Johann Strauss-fiul</strong><br />Polca Tritsch Tratsch, op. 214<br />Valsul &icirc;mp\u0103ratului, op. 437</p><p><strong>Johann Strauss-tat\u0103l</strong><br />Galopul \u0219ampaniei, op. 8</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66fd1544205890162e5fa1db",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-dedicat-anului-nou-Qzv9Qb7k?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66fd1544205890162e5fa1db",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66fd1544205890162e5fa1db",
+            "name": "IMAG4122 (1)",
+            "altText": "IMAG4122 (1)",
+            "width": 3000,
+            "height": 4000,
+            "size": 1135341,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66fd1544205890162e5fa1db",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B9AA7C_0901_01B9AA7C-1-01B9AAD6_826-01B9AA7C-0-0",
+      "dtstamp": 1733951586617,
       "status": {
         "name": "scheduled"
       },
@@ -1235,6 +707,8 @@
         },
         "imageId": "BWC_66aa5e7b117e3a71e7fc6ba5",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-OnkZG13B?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa5e7b117e3a71e7fc6ba5",
@@ -1256,7 +730,7 @@
         ]
       },
       "sorter": "999_01B9C0FC_0901_01B9C0FC-1-01B9C174_719-01B9C0FC-0-0",
-      "dtstamp": 1722441346487,
+      "dtstamp": 1733951595050,
       "status": {
         "name": "scheduled"
       },
@@ -1300,6 +774,8 @@
         },
         "imageId": "BWC_66aa5e7b117e3a71e7fc6ba5",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-Kzx0Kezq?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa5e7b117e3a71e7fc6ba5",
@@ -1321,7 +797,7 @@
         ]
       },
       "sorter": "999_01B9C69C_0901_01B9C69C-1-01B9C714_720-01B9C69C-0-0",
-      "dtstamp": 1722441362681,
+      "dtstamp": 1733951602785,
       "status": {
         "name": "scheduled"
       },
@@ -1365,6 +841,8 @@
         },
         "imageId": "BWC_66aa5ecb117e3a71e7fc6c01",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-vocalsimfonic-dz0Djaz5?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa5ecb117e3a71e7fc6c01",
@@ -1386,7 +864,7 @@
         ]
       },
       "sorter": "999_01B9E85C_0901_01B9E85C-1-01B9E8D4_721-01B9E85C-0-0",
-      "dtstamp": 1722441425164,
+      "dtstamp": 1733951982630,
       "status": {
         "name": "scheduled"
       },
@@ -1430,6 +908,8 @@
         },
         "imageId": "BWC_66aa5ecb117e3a71e7fc6c01",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-vocalsimfonic-G38blY7j?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa5ecb117e3a71e7fc6c01",
@@ -1451,7 +931,7 @@
         ]
       },
       "sorter": "999_01B9EDFC_0901_01B9EDFC-1-01B9EE74_722-01B9EDFC-0-0",
-      "dtstamp": 1722441446414,
+      "dtstamp": 1733951993887,
       "status": {
         "name": "scheduled"
       },
@@ -1495,6 +975,8 @@
         },
         "imageId": "BWC_67127664e26a8f325c1d8972",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/recital-cameral-PzXXP2zJ?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "67127664e26a8f325c1d8972",
@@ -1516,7 +998,7 @@
         ]
       },
       "sorter": "999_01B9F93C_0901_01B9F93C-1-01B9F9B4_808-01B9F93C-0-0",
-      "dtstamp": 1729263261091,
+      "dtstamp": 1733952003614,
       "status": {
         "name": "scheduled"
       },
@@ -1560,6 +1042,8 @@
         },
         "imageId": "BWC_66aa5f2c117e3a71e7fc6c59",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-vocalsimfonic-434Pjk3g?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa5f2c117e3a71e7fc6c59",
@@ -1581,7 +1065,7 @@
         ]
       },
       "sorter": "999_01BA0FBC_0901_01BA0FBC-1-01BA1034_723-01BA0FBC-0-0",
-      "dtstamp": 1722441522434,
+      "dtstamp": 1733952011621,
       "status": {
         "name": "scheduled"
       },
@@ -1625,6 +1109,8 @@
         },
         "imageId": "BWC_66aa5f46117e3a71e7fc6c6a",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-vocalsimfonic-5zJXqRnQ?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa5f46117e3a71e7fc6c6a",
@@ -1646,7 +1132,7 @@
         ]
       },
       "sorter": "999_01BA155C_0901_01BA155C-1-01BA15D4_724-01BA155C-0-0",
-      "dtstamp": 1722441548166,
+      "dtstamp": 1733952019036,
       "status": {
         "name": "scheduled"
       },
@@ -1690,6 +1176,8 @@
         },
         "imageId": "BWC_66aa5fa6117e3a71e7fc6ce2",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-d3bo1Wne?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa5fa6117e3a71e7fc6ce2",
@@ -1711,7 +1199,7 @@
         ]
       },
       "sorter": "999_01BA371C_0901_01BA371C-1-01BA3794_725-01BA371C-0-0",
-      "dtstamp": 1722441644157,
+      "dtstamp": 1733952179372,
       "status": {
         "name": "scheduled"
       },
@@ -1755,6 +1243,8 @@
         },
         "imageId": "BWC_66aa5fa6117e3a71e7fc6ce2",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-d3MbOZnK?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa5fa6117e3a71e7fc6ce2",
@@ -1776,7 +1266,7 @@
         ]
       },
       "sorter": "999_01BA3CBC_0901_01BA3CBC-1-01BA3D34_726-01BA3CBC-0-0",
-      "dtstamp": 1722441664221,
+      "dtstamp": 1733954885161,
       "status": {
         "name": "scheduled"
       },
@@ -1820,6 +1310,8 @@
         },
         "imageId": "BWC_66aa5ffe117e3a71e7fc6d5f",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-vocalsimfonic-X3ZvVb3x?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa5ffe117e3a71e7fc6d5f",
@@ -1841,7 +1333,7 @@
         ]
       },
       "sorter": "999_01BA5E7C_0901_01BA5E7C-1-01BA5EF4_727-01BA5E7C-0-0",
-      "dtstamp": 1726748233721,
+      "dtstamp": 1733955378344,
       "status": {
         "name": "scheduled"
       },
@@ -1885,6 +1377,8 @@
         },
         "imageId": "BWC_66aa5ffe117e3a71e7fc6d5f",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-vocalsimfonic-x3G2mWz0?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa5ffe117e3a71e7fc6d5f",
@@ -1906,7 +1400,7 @@
         ]
       },
       "sorter": "999_01BA641C_0901_01BA641C-1-01BA6494_728-01BA641C-0-0",
-      "dtstamp": 1726748246598,
+      "dtstamp": 1734042361232,
       "status": {
         "name": "scheduled"
       },
@@ -1950,8 +1444,10 @@
         },
         "imageId": "BWC_67504aa270f7e02f49bf7e40",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/recital-de-pian-YnWmbqzp?language=ro",
         "noDetail": false,
-        "version": 2,
+        "version": 1,
         "imageIdNg": "67504aa270f7e02f49bf7e40",
         "imageSets": [
           {
@@ -1971,7 +1467,7 @@
         ]
       },
       "sorter": "999_01BA7A9C_0901_01BA7A9C-1-01BA7B14_825-01BA7A9C-0-0",
-      "dtstamp": 1733315272219,
+      "dtstamp": 1734043381451,
       "status": {
         "name": "scheduled"
       },
@@ -2015,6 +1511,8 @@
         },
         "imageId": "BWC_66aa606c117e3a71e7fc6da9",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-G38bGY7j?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa606c117e3a71e7fc6da9",
@@ -2036,7 +1534,7 @@
         ]
       },
       "sorter": "999_01BA85DC_0901_01BA85DC-1-01BA8654_729-01BA85DC-0-0",
-      "dtstamp": 1731411116258,
+      "dtstamp": 1734181609862,
       "status": {
         "name": "scheduled"
       },
@@ -2080,6 +1578,8 @@
         },
         "imageId": "BWC_66aa606c117e3a71e7fc6da9",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-5zJXrRnQ?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa606c117e3a71e7fc6da9",
@@ -2101,7 +1601,7 @@
         ]
       },
       "sorter": "999_01BA8B7C_0901_01BA8B7C-1-01BA8BF4_730-01BA8B7C-0-0",
-      "dtstamp": 1731411130649,
+      "dtstamp": 1734182313901,
       "status": {
         "name": "scheduled"
       },
@@ -2145,6 +1645,8 @@
         },
         "imageId": "BWC_66aa60be117e3a71e7fc6df4",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-8nQX2K3m?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa60be117e3a71e7fc6df4",
@@ -2166,7 +1668,7 @@
         ]
       },
       "sorter": "999_01BAAD3C_0901_01BAAD3C-1-01BAADB4_731-01BAAD3C-0-0",
-      "dtstamp": 1722442414562,
+      "dtstamp": 1734188962868,
       "status": {
         "name": "scheduled"
       },
@@ -2210,6 +1712,8 @@
         },
         "imageId": "BWC_66aa60be117e3a71e7fc6df4",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-87EW9K3P?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa60be117e3a71e7fc6df4",
@@ -2231,7 +1735,7 @@
         ]
       },
       "sorter": "999_01BAB2DC_0901_01BAB2DC-1-01BAB354_732-01BAB2DC-0-0",
-      "dtstamp": 1722442426723,
+      "dtstamp": 1734189538811,
       "status": {
         "name": "scheduled"
       },
@@ -2266,7 +1770,7 @@
           "text": "Recital de pian"
         },
         "description": {
-          "text": "<p><em><strong>Algo-Ritm</strong></em></p><p><strong>M\u0102D\u0102LINA PA\u015eOL</strong></p><p>Program</p><p><strong>Ludwig van Beethoven<br /></strong>Varia\u0163iunile &quot;Vienni Amore&quot;, &icirc;n re major, WoO 65 </p><p><strong>Serghei Rahmaninov<br /></strong>Varia\u0163iuni pe o tem\u0103 de Corelli, op. 42</p><p><strong>J.-Ph. Rameau/ M. Pa\u015fol<br /></strong>Les Sauvages, Les Boreades, L'Egyptienne</p><p><strong>Johannes Brahms<br /></strong>Pagin\u0103 de album &icirc;n la minor</p><p><strong>Franz Liszt<br /></strong>Roman\u021b\u0103 &icirc;n la minor</p><p><strong>Robert Schumann<br /></strong>Contrabandistul, op. 74</p><p><strong>Richard Wagner<br /></strong>Pagin\u0103 de album, WWV 94</p><p><strong>Claude Debussy<br /></strong>Vals romantic</p><p><strong>Fr&eacute;d&eacute;ric Chopin<br /></strong>Balada nr. 1, &icirc;n sol minor, op. 23</p>"
+          "text": "<p><em><strong>Algo-Ritm</strong></em></p><p><strong>M\u0102D\u0102LINA PA\u015eOL</strong></p><p>Program</p><p><strong>Ludwig van Beethoven<br /></strong>Varia\u0163iunile &quot;Vienni Amore&quot;, &icirc;n re major, WoO 65</p><p><strong>Serghei Rahmaninov<br /></strong>Varia\u0163iuni pe o tem\u0103 de Corelli, op. 42</p><p><strong>J.-Ph. Rameau/ M. Pa\u015fol<br /></strong>Les Sauvages, Les Boreades, L'Egyptienne</p><p><strong>Johannes Brahms<br /></strong>Pagin\u0103 de album &icirc;n la minor</p><p><strong>Franz Liszt<br /></strong>Roman\u021b\u0103 &icirc;n la minor</p><p><strong>Robert Schumann<br /></strong>Contrabandistul, op. 74</p><p><strong>Richard Wagner<br /></strong>Pagin\u0103 de album, WWV 94</p><p><strong>Claude Debussy<br /></strong>Vals romantic</p><p><strong>Fr&eacute;d&eacute;ric Chopin<br /></strong>Balada nr. 1, &icirc;n sol minor, op. 23</p>"
         },
         "tagset": {
           "tags": {
@@ -2275,8 +1779,10 @@
         },
         "imageId": "BWC_66fa9eb8205890162e5de587",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/recital-de-pian-03meNN3D?language=ro",
         "noDetail": false,
-        "version": 2,
+        "version": 1,
         "imageIdNg": "66fa9eb8205890162e5de587",
         "imageSets": [
           {
@@ -2296,7 +1802,7 @@
         ]
       },
       "sorter": "999_01BABE1C_0901_01BABE1C-1-01BABE94_789-01BABE1C-0-0",
-      "dtstamp": 1727700702413,
+      "dtstamp": 1734190444673,
       "status": {
         "name": "scheduled"
       },
@@ -2340,6 +1846,8 @@
         },
         "imageId": "BWC_66aa611b117e3a71e7fc6e54",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-B722Bm7V?language=ro'",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa611b117e3a71e7fc6e54",
@@ -2361,7 +1869,7 @@
         ]
       },
       "sorter": "999_01BAD49C_0901_01BAD49C-1-01BAD514_733-01BAD49C-0-0",
-      "dtstamp": 1731411035649,
+      "dtstamp": 1734191099514,
       "status": {
         "name": "scheduled"
       },
@@ -2405,6 +1913,8 @@
         },
         "imageId": "BWC_66aa611b117e3a71e7fc6e54",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-X7a8rpnN?language=ro'",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa611b117e3a71e7fc6e54",
@@ -2426,7 +1936,7 @@
         ]
       },
       "sorter": "999_01BADA3C_0901_01BADA3C-1-01BADAB4_734-01BADA3C-0-0",
-      "dtstamp": 1731411062666,
+      "dtstamp": 1734191392227,
       "status": {
         "name": "scheduled"
       },
@@ -2470,6 +1980,8 @@
         },
         "imageId": "BWC_66aa6181117e3a71e7fc6e78",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-vocalsimfonic-l7PPW17y?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa6181117e3a71e7fc6e78",
@@ -2491,7 +2003,7 @@
         ]
       },
       "sorter": "999_01BAFBFC_0901_01BAFBFC-1-01BAFC74_735-01BAFBFC-0-0",
-      "dtstamp": 1722442120142,
+      "dtstamp": 1734192253661,
       "status": {
         "name": "scheduled"
       },
@@ -2535,6 +2047,8 @@
         },
         "imageId": "BWC_66aa6181117e3a71e7fc6e78",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-vocalsimfonic-PzXXM2zJ?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa6181117e3a71e7fc6e78",
@@ -2556,7 +2070,7 @@
         ]
       },
       "sorter": "999_01BB019C_0901_01BB019C-1-01BB0214_736-01BB019C-0-0",
-      "dtstamp": 1722442135508,
+      "dtstamp": 1734192432625,
       "status": {
         "name": "scheduled"
       },
@@ -2600,6 +2114,8 @@
         },
         "imageId": "BWC_66aa61ca117e3a71e7fc6ea8",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-e7Vavkn4?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa61ca117e3a71e7fc6ea8",
@@ -2621,7 +2137,7 @@
         ]
       },
       "sorter": "999_01BB235C_0901_01BB235C-1-01BB23D4_737-01BB235C-0-0",
-      "dtstamp": 1722442192468,
+      "dtstamp": 1734193193435,
       "status": {
         "name": "scheduled"
       },
@@ -2665,6 +2181,8 @@
         },
         "imageId": "BWC_66aa61ca117e3a71e7fc6ea8",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-Qzv95b7k?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa61ca117e3a71e7fc6ea8",
@@ -2686,7 +2204,7 @@
         ]
       },
       "sorter": "999_01BB28FC_0901_01BB28FC-1-01BB2974_738-01BB28FC-0-0",
-      "dtstamp": 1722442203593,
+      "dtstamp": 1734193502368,
       "status": {
         "name": "scheduled"
       },
@@ -2730,6 +2248,8 @@
         },
         "imageId": "BWC_66aa6219117e3a71e7fc6ed5",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-d3bo6Wne?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa6219117e3a71e7fc6ed5",
@@ -2751,7 +2271,7 @@
         ]
       },
       "sorter": "999_01BB4ABC_0901_01BB4ABC-1-01BB4B34_739-01BB4ABC-0-0",
-      "dtstamp": 1722442272598,
+      "dtstamp": 1734194255324,
       "status": {
         "name": "scheduled"
       },
@@ -2795,6 +2315,8 @@
         },
         "imageId": "BWC_66aa6219117e3a71e7fc6ed5",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-d3MbAZnK?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa6219117e3a71e7fc6ed5",
@@ -2816,7 +2338,7 @@
         ]
       },
       "sorter": "999_01BB505C_0901_01BB505C-1-01BB50D4_740-01BB505C-0-0",
-      "dtstamp": 1722442285721,
+      "dtstamp": 1734194409071,
       "status": {
         "name": "scheduled"
       },
@@ -2860,6 +2382,8 @@
         },
         "imageId": "BWC_66aa6267117e3a71e7fc6fc3",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-m7eDoEnx?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa6267117e3a71e7fc6fc3",
@@ -2881,7 +2405,7 @@
         ]
       },
       "sorter": "999_01BB71E0_0901_01BB71E0-1-01BB7258_741-01BB71E0-0-0",
-      "dtstamp": 1722442348899,
+      "dtstamp": 1734195569385,
       "status": {
         "name": "scheduled"
       },
@@ -2925,6 +2449,8 @@
         },
         "imageId": "BWC_66aa6267117e3a71e7fc6fc3",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-6zqQY0zl?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa6267117e3a71e7fc6fc3",
@@ -2946,7 +2472,7 @@
         ]
       },
       "sorter": "999_01BB7780_0901_01BB7780-1-01BB77F8_742-01BB7780-0-0",
-      "dtstamp": 1722442364802,
+      "dtstamp": 1734196157982,
       "status": {
         "name": "scheduled"
       },
@@ -2990,6 +2516,8 @@
         },
         "imageId": "BWC_66aa6386117e3a71e7fc715a",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-vocalsimfonic-4392Wknv?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa6386117e3a71e7fc715a",
@@ -3011,7 +2539,7 @@
         ]
       },
       "sorter": "999_01BB9940_0901_01BB9940-1-01BB99B8_743-01BB9940-0-0",
-      "dtstamp": 1722442636413,
+      "dtstamp": 1734196668985,
       "status": {
         "name": "scheduled"
       },
@@ -3055,6 +2583,8 @@
         },
         "imageId": "BWC_66aa6386117e3a71e7fc715a",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-vocalsimfonic-B722Bb7V?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa6386117e3a71e7fc715a",
@@ -3076,7 +2606,7 @@
         ]
       },
       "sorter": "999_01BB9EE0_0901_01BB9EE0-1-01BB9F58_744-01BB9EE0-0-0",
-      "dtstamp": 1722442650151,
+      "dtstamp": 1734196865758,
       "status": {
         "name": "scheduled"
       },
@@ -3120,6 +2650,8 @@
         },
         "imageId": "BWC_66aa63d6117e3a71e7fc719a",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-vocalsimfonic-l7PPWd7y?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa63d6117e3a71e7fc719a",
@@ -3141,7 +2673,7 @@
         ]
       },
       "sorter": "999_01BBBB00_0901_01BBBB00-1-01BBBB78_745-01BBBB00-0-0",
-      "dtstamp": 1722442717008,
+      "dtstamp": 1734197869256,
       "status": {
         "name": "scheduled"
       },
@@ -3185,6 +2717,8 @@
         },
         "imageId": "BWC_66aa63d6117e3a71e7fc719a",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-vocalsimfonic-PzXXMAzJ?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa63d6117e3a71e7fc719a",
@@ -3206,7 +2740,7 @@
         ]
       },
       "sorter": "999_01BBC0A0_0901_01BBC0A0-1-01BBC118_746-01BBC0A0-0-0",
-      "dtstamp": 1722442728421,
+      "dtstamp": 1734198050051,
       "status": {
         "name": "scheduled"
       },
@@ -3250,6 +2784,8 @@
         },
         "imageId": "BWC_66aa644f117e3a71e7fc7215",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-e7Vavdn4?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa644f117e3a71e7fc7215",
@@ -3271,7 +2807,7 @@
         ]
       },
       "sorter": "999_01BBE800_0901_01BBE800-1-01BBE878_747-01BBE800-0-0",
-      "dtstamp": 1722442837047,
+      "dtstamp": 1734198695641,
       "status": {
         "name": "scheduled"
       },
@@ -3315,6 +2851,8 @@
         },
         "imageId": "BWC_66aa644f117e3a71e7fc7215",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-Qzv95P7k?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa644f117e3a71e7fc7215",
@@ -3336,7 +2874,7 @@
         ]
       },
       "sorter": "999_01BBEDA0_0901_01BBEDA0-1-01BBEE18_748-01BBEDA0-0-0",
-      "dtstamp": 1722442851119,
+      "dtstamp": 1734198898845,
       "status": {
         "name": "scheduled"
       },
@@ -3380,8 +2918,10 @@
         },
         "imageId": "BWC_674efdc870f7e02f49be6e7d",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/recital-de-pian-d3bo6ane?language=ro",
         "noDetail": false,
-        "version": 2,
+        "version": 1,
         "imageIdNg": "674efdc870f7e02f49be6e7d",
         "imageSets": [
           {
@@ -3401,7 +2941,7 @@
         ]
       },
       "sorter": "999_01BBF340_0901_01BBF340-1-01BBF3B8_824-01BBF340-0-0",
-      "dtstamp": 1733230032452,
+      "dtstamp": 1734199601663,
       "status": {
         "name": "scheduled"
       },
@@ -3575,6 +3115,8 @@
         },
         "imageId": "BWC_66aa64d4117e3a71e7fc7264",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-d3MbA5nK?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa64d4117e3a71e7fc7264",
@@ -3596,7 +3138,7 @@
         ]
       },
       "sorter": "999_01BC36C0_0901_01BC36C0-1-01BC3738_751-01BC36C0-0-0",
-      "dtstamp": 1722442969844,
+      "dtstamp": 1734201666102,
       "status": {
         "name": "scheduled"
       },
@@ -3640,6 +3182,8 @@
         },
         "imageId": "BWC_66aa64d4117e3a71e7fc7264",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-imfonic-03DkDXzg?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa64d4117e3a71e7fc7264",
@@ -3661,7 +3205,7 @@
         ]
       },
       "sorter": "999_01BC3C60_0901_01BC3C60-1-01BC3CD8_752-01BC3C60-0-0",
-      "dtstamp": 1722442982647,
+      "dtstamp": 1734201984731,
       "status": {
         "name": "scheduled"
       },
@@ -3705,6 +3249,8 @@
         },
         "imageId": "BWC_66aa6510117e3a71e7fc7297",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-m7eDNlnx?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa6510117e3a71e7fc7297",
@@ -3726,7 +3272,7 @@
         ]
       },
       "sorter": "999_01BC5E20_0901_01BC5E20-1-01BC5E98_753-01BC5E20-0-0",
-      "dtstamp": 1722443029834,
+      "dtstamp": 1734202321741,
       "status": {
         "name": "scheduled"
       },
@@ -3770,6 +3316,8 @@
         },
         "imageId": "BWC_66aa6510117e3a71e7fc7297",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-imfonic-6zqQ8pzl?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa6510117e3a71e7fc7297",
@@ -3791,7 +3339,7 @@
         ]
       },
       "sorter": "999_01BC63C0_0901_01BC63C0-1-01BC6438_754-01BC63C0-0-0",
-      "dtstamp": 1722443041710,
+      "dtstamp": 1734202442570,
       "status": {
         "name": "scheduled"
       },
@@ -3835,6 +3383,8 @@
         },
         "imageId": "BWC_66aa655d117e3a71e7fc7335",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-bn1lOy3B?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa655d117e3a71e7fc7335",
@@ -3856,7 +3406,7 @@
         ]
       },
       "sorter": "999_01BC8580_0901_01BC8580-1-01BC85F8_755-01BC8580-0-0",
-      "dtstamp": 1722443107003,
+      "dtstamp": 1734210630814,
       "status": {
         "name": "scheduled"
       },
@@ -3900,6 +3450,8 @@
         },
         "imageId": "BWC_66aa655d117e3a71e7fc7335",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-imfonic-r3OaAb7w?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa655d117e3a71e7fc7335",
@@ -3921,7 +3473,7 @@
         ]
       },
       "sorter": "999_01BC8B20_0901_01BC8B20-1-01BC8B98_756-01BC8B20-0-0",
-      "dtstamp": 1722443120160,
+      "dtstamp": 1734210744795,
       "status": {
         "name": "scheduled"
       },
@@ -3965,6 +3517,8 @@
         },
         "imageId": "BWC_66aa65a5117e3a71e7fc7349",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-X3ZvQp3x?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa65a5117e3a71e7fc7349",
@@ -3986,7 +3540,7 @@
         ]
       },
       "sorter": "999_01BCACE0_0901_01BCACE0-1-01BCAD58_757-01BCACE0-0-0",
-      "dtstamp": 1722443180434,
+      "dtstamp": 1734211256508,
       "status": {
         "name": "scheduled"
       },
@@ -4030,6 +3584,8 @@
         },
         "imageId": "BWC_66aa65a5117e3a71e7fc7349",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-PnBlblzX?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa65a5117e3a71e7fc7349",
@@ -4051,7 +3607,7 @@
         ]
       },
       "sorter": "999_01BCB280_0901_01BCB280-1-01BCB2F8_758-01BCB280-0-0",
-      "dtstamp": 1722443193037,
+      "dtstamp": 1734211430702,
       "status": {
         "name": "scheduled"
       },
@@ -4095,6 +3651,8 @@
         },
         "imageId": "BWC_66aa65e2117e3a71e7fc7368",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-w7r9gMnV?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa65e2117e3a71e7fc7368",
@@ -4116,7 +3674,7 @@
         ]
       },
       "sorter": "999_01BCD440_0901_01BCD440-1-01BCD4B8_759-01BCD440-0-0",
-      "dtstamp": 1722443241501,
+      "dtstamp": 1734211717516,
       "status": {
         "name": "scheduled"
       },
@@ -4160,6 +3718,8 @@
         },
         "imageId": "BWC_66aa65e2117e3a71e7fc7368",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-imfonic-jz6VpQzw?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa65e2117e3a71e7fc7368",
@@ -4181,7 +3741,7 @@
         ]
       },
       "sorter": "999_01BCD9E0_0901_01BCD9E0-1-01BCDA58_760-01BCD9E0-0-0",
-      "dtstamp": 1722443254577,
+      "dtstamp": 1734211835642,
       "status": {
         "name": "scheduled"
       },
@@ -4225,6 +3785,8 @@
         },
         "imageId": "BWC_66aa6621117e3a71e7fc739b",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-N7pmg1zo?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa6621117e3a71e7fc739b",
@@ -4246,7 +3808,7 @@
         ]
       },
       "sorter": "999_01BCFBA0_0901_01BCFBA0-1-01BCFC18_761-01BCFBA0-0-0",
-      "dtstamp": 1722443302382,
+      "dtstamp": 1734212058978,
       "status": {
         "name": "scheduled"
       },
@@ -4290,6 +3852,8 @@
         },
         "imageId": "BWC_66aa6621117e3a71e7fc739b",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-imfonic-W3AWv17L?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa6621117e3a71e7fc739b",
@@ -4311,7 +3875,7 @@
         ]
       },
       "sorter": "999_01BD0140_0901_01BD0140-1-01BD01B8_762-01BD0140-0-0",
-      "dtstamp": 1722443316335,
+      "dtstamp": 1734212311645,
       "status": {
         "name": "scheduled"
       },
@@ -4355,6 +3919,8 @@
         },
         "imageId": "BWC_66aa6659117e3a71e7fc73ea",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-9zo9grny?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa6659117e3a71e7fc73ea",
@@ -4376,7 +3942,7 @@
         ]
       },
       "sorter": "999_01BD2300_0901_01BD2300-1-01BD2378_763-01BD2300-0-0",
-      "dtstamp": 1722443358844,
+      "dtstamp": 1734212520288,
       "status": {
         "name": "scheduled"
       },
@@ -4420,6 +3986,8 @@
         },
         "imageId": "BWC_66aa6659117e3a71e7fc73ea",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-imfonic-x3G29xz0?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa6659117e3a71e7fc73ea",
@@ -4441,7 +4009,7 @@
         ]
       },
       "sorter": "999_01BD28A0_0901_01BD28A0-1-01BD2918_764-01BD28A0-0-0",
-      "dtstamp": 1722443371365,
+      "dtstamp": 1734212659364,
       "status": {
         "name": "scheduled"
       },
@@ -4485,6 +4053,8 @@
         },
         "imageId": "BWC_66aa6692117e3a71e7fc7414",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/nchiderera-stagiunii-simfonice-20242025-YnWmN0zp?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa6692117e3a71e7fc7414",
@@ -4506,7 +4076,7 @@
         ]
       },
       "sorter": "999_01BD4A60_0901_01BD4A60-1-01BD4AD8_765-01BD4A60-0-0",
-      "dtstamp": 1726145793060,
+      "dtstamp": 1734212940946,
       "status": {
         "name": "scheduled"
       },
@@ -4550,6 +4120,8 @@
         },
         "imageId": "BWC_66aa6692117e3a71e7fc7414",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/nchiderea-stagiunii-simfonice-20242025-jnRVWmnA?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa6692117e3a71e7fc7414",
@@ -4571,7 +4143,7 @@
         ]
       },
       "sorter": "999_01BD5000_0901_01BD5000-1-01BD5078_766-01BD5000-0-0",
-      "dtstamp": 1726145858259,
+      "dtstamp": 1734213079665,
       "status": {
         "name": "scheduled"
       },
