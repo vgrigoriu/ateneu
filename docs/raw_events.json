@@ -3,140 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "713",
-        "seq": 0,
-        "tid": 1734627600000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1734627600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1734634800000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>JOS&Eacute; LUIS GOMEZ</strong></p><p>Solist\u0103 <br /><strong>DANA CIOC&Acirc;RLIE</strong></p><p>Program</p><p><strong>Antonin Dvorak<br /></strong>Dans slav, op. 46, nr. 3 <br />Dans slav, op. 46, nr. 8</p><p><strong>Paul Constantinescu<br /></strong>Concertul pentru pian \u0219i orchestr\u0103</p><p><strong>Piotr Ilici Ceaikovski<br /></strong>Suita Lacul Lebedelor ( selec\u021biuni )</p><p><strong>Piotr Ilici Ceaikovski<br /></strong>Suita Sp\u0103rg\u0103torul de nuci</p><p><strong></strong></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5d04117e3a71e7fc6966",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/concert-simfonic-6913",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5d04117e3a71e7fc6966",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5d04117e3a71e7fc6966",
-            "name": "gomez",
-            "altText": "gomez",
-            "width": 210,
-            "height": 240,
-            "size": 7846,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5d04117e3a71e7fc6966",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B9237C_0901_01B9237C-1-01B923F4_713-01B9237C-0-0",
-      "dtstamp": 1727215007425,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "714",
-        "seq": 0,
-        "tid": 1734714000000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1734714000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1734721200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>JOS&Eacute; LUIS GOMEZ</strong></p><p>Solist\u0103 <br /><strong>DANA CIOC&Acirc;RLIE</strong></p><p>Program</p><p><strong>Antonin Dvorak<br /></strong>Dans slav, op. 46, nr. 3 <br />Dans slav, op. 46, nr. 8</p><p><strong>Paul Constantinescu<br /></strong>Concertul pentru pian \u0219i orchestr\u0103</p><p><strong>Piotr Ilici Ceaikovski<br /></strong>Suita Lacul Lebedelor ( selec\u021biuni )</p><p><strong>Piotr Ilici Ceaikovski<br /></strong>Suita Sp\u0103rg\u0103torul de nuci</p><p><strong></strong></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5d04117e3a71e7fc6966",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/concert-simfonic-6914",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5d04117e3a71e7fc6966",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5d04117e3a71e7fc6966",
-            "name": "gomez",
-            "altText": "gomez",
-            "width": 210,
-            "height": 240,
-            "size": 7846,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5d04117e3a71e7fc6966",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B9291C_0901_01B9291C-1-01B92994_714-01B9291C-0-0",
-      "dtstamp": 1727215102441,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "786",
         "seq": 0,
         "tid": 1734800400000,
@@ -229,7 +95,7 @@
           "text": "Concert de Anul Nou"
         },
         "description": {
-          "text": "<p><em><strong>Un altfel de vals</strong></em></p><p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>TIBERIU SOARE</strong></p><p>Solist\u0103 <br /><strong>VERONICA ANU\u015eCA</strong></p><p>&Icirc;n program, lucr\u0103ri de: G. Enescu, A. Dvorak, P. I. Ceaikovski, J. Brahms, <br />A. Haciaturian, Ch. Gounod, J. Strauss</p><p></p>"
+          "text": "<p><strong><em>Concert de Anul Nou</em></strong></p><p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <strong>TIBERIU SOARE</strong></p><p>Solist\u0103 <strong>VERONICA ANU\u0218CA</strong></p><p>Program</p><p><strong>Johann Strauss fiul</strong> - Uvertura opere<em>tei Liliacul</em><br /><strong>Charles Gounod</strong> - Valsul Julietei <em>Je veux vivre</em> din opera <em>Romeo \u0219i Julieta</em><br /><strong>Georges Bizet</strong> - Mar\u0219ul Toreadorului din <em>Carmen, Suita nr. 1</em><br /><strong>Ger&oacute;nimo Jim&eacute;nez</strong> - Interludiu din <em>La Boda de Luis Alonso</em><br /><strong>Franz Leh&aacute;r</strong> - <em>Meine lippen sie k&uuml;ssen so hei&szlig;</em> din opereta <em>Giuditta</em><br /><strong>Johannes Brahms</strong> - Dans ungar nr. 5<br /><strong>Eugen Doga</strong> - Valsul Gramofon<br /><strong>Georges Bizet</strong> - <em>Farandole</em> din <em>Suita nr. 2, L&rsquo;Arlesienne</em><br /><strong>George Grigoriu</strong> - Aria <em>Muzica</em> din opereta <em>Valurile Dun\u0103rii</em><br /><strong>Johann Strauss fiul</strong> - Valsul <em>Dun\u0103rea Albastr\u0103</em><br /><strong>Johann Strauss fiul</strong> - Tritsch-Tratsch Polka<br /><strong>Eugen Doga</strong> - Valsul <em>Ginga\u0219a \u0219i tandra mea fiar\u0103</em><br /><strong>Josef Strauss</strong> - Feuerfest Polka fran&ccedil;aise<br />Solo percu\u021bie: <strong>Constantin Bogdan</strong><br /><strong>Josef Strauss</strong> - Ohne Sorgen!, Polka schnell<br /><strong>Johann Strauss fiul</strong> - <em>Cs&aacute;rd&aacute;s</em>, aria Rosalindei din opereta <em>Liliacul</em><br /><strong>George Enescu</strong> - Rapsodia rom&acirc;n\u0103 nr. 1, &icirc;n la major, op. 11</p><p></p>"
         },
         "tagset": {
           "tags": {
@@ -261,7 +127,7 @@
         ]
       },
       "sorter": "999_01B977DC_0901_01B977DC-1-01B97854_715-01B977DC-0-0",
-      "dtstamp": 1733951474008,
+      "dtstamp": 1734606763016,
       "status": {
         "name": "scheduled"
       },
@@ -296,7 +162,7 @@
           "text": "Concert de Anul Nou"
         },
         "description": {
-          "text": "<p><em><strong>Un altfel de vals</strong></em></p><p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>TIBERIU SOARE</strong></p><p>Solist\u0103 <br /><strong>VERONICA ANU\u015eCA</strong></p><p>&Icirc;n program, lucr\u0103ri de: G. Enescu, A. Dvorak, P. I. Ceaikovski, J. Brahms, <br />A. Haciaturian, Ch. Gounod, J. Strauss</p><p></p>"
+          "text": "<p><strong><em>Concert de Anul Nou</em></strong></p><p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <strong>TIBERIU SOARE</strong></p><p>Solist\u0103 <strong>VERONICA ANU\u0218CA</strong></p><p>Program</p><p><strong>Johann Strauss fiul</strong> - Uvertura opere<em>tei Liliacul</em><br /><strong>Charles Gounod</strong> - Valsul Julietei <em>Je veux vivre</em> din opera <em>Romeo \u0219i Julieta</em><br /><strong>Georges Bizet</strong> - Mar\u0219ul Toreadorului din <em>Carmen, Suita nr. 1</em><br /><strong>Ger&oacute;nimo Jim&eacute;nez</strong> - Interludiu din <em>La Boda de Luis Alonso</em><br /><strong>Franz Leh&aacute;r</strong> - <em>Meine lippen sie k&uuml;ssen so hei&szlig;</em> din opereta <em>Giuditta</em><br /><strong>Johannes Brahms</strong> - Dans ungar nr. 5<br /><strong>Eugen Doga</strong> - Valsul Gramofon<br /><strong>Georges Bizet</strong> - <em>Farandole</em> din <em>Suita nr. 2, L&rsquo;Arlesienne</em><br /><strong>George Grigoriu</strong> - Aria <em>Muzica</em> din opereta <em>Valurile Dun\u0103rii</em><br /><strong>Johann Strauss fiul</strong> - Valsul <em>Dun\u0103rea Albastr\u0103</em><br /><strong>Johann Strauss fiul</strong> - Tritsch-Tratsch Polka<br /><strong>Eugen Doga</strong> - Valsul <em>Ginga\u0219a \u0219i tandra mea fiar\u0103</em><br /><strong>Josef Strauss</strong> - Feuerfest Polka fran&ccedil;aise<br />Solo percu\u021bie: <strong>Constantin Bogdan</strong><br /><strong>Josef Strauss</strong> - Ohne Sorgen!, Polka schnell<br /><strong>Johann Strauss fiul</strong> - <em>Cs&aacute;rd&aacute;s</em>, aria Rosalindei din opereta <em>Liliacul</em><br /><strong>George Enescu</strong> - Rapsodia rom&acirc;n\u0103 nr. 1, &icirc;n la major, op. 11</p><p></p>"
         },
         "tagset": {
           "tags": {
@@ -328,7 +194,7 @@
         ]
       },
       "sorter": "999_01B97D7C_0901_01B97D7C-1-01B97DF4_716-01B97D7C-0-0",
-      "dtstamp": 1733951519046,
+      "dtstamp": 1734606744420,
       "status": {
         "name": "scheduled"
       },
@@ -1846,8 +1712,10 @@
         },
         "imageId": "BWC_676165668ed0d3054a015c64",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/recital-de-pian-Z3N2pP3N?language=ro",
         "noDetail": false,
-        "version": 2,
+        "version": 1,
         "imageIdNg": "676165668ed0d3054a015c64",
         "imageSets": [
           {
@@ -1867,7 +1735,7 @@
         ]
       },
       "sorter": "999_01BAE57C_0901_01BAE57C-1-01BAE5D6_827-01BAE57C-0-0",
-      "dtstamp": 1734436206424,
+      "dtstamp": 1734541499784,
       "status": {
         "name": "scheduled"
       },
@@ -2045,8 +1913,10 @@
         },
         "imageId": "BWC_6712644fe26a8f325c1d7392",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/recital-de-orga-ezleEZ3P?language=ro",
         "noDetail": false,
-        "version": 2,
+        "version": 1,
         "imageIdNg": "6712644fe26a8f325c1d7392",
         "imageSets": [
           {
@@ -2066,7 +1936,7 @@
         ]
       },
       "sorter": "999_01BB1DBC_0901_01BB1DBC-1-01BB1E16_828-01BB1DBC-0-0",
-      "dtstamp": 1734436616134,
+      "dtstamp": 1734542281025,
       "status": {
         "name": "scheduled"
       },
@@ -2335,6 +2205,73 @@
       },
       "sorter": "999_01BB505C_0901_01BB505C-1-01BB50D4_740-01BB505C-0-0",
       "dtstamp": 1734194409071,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "829",
+        "seq": 0,
+        "tid": 1743350400000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1743350400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EEST",
+          "offset": 10800000
+        },
+        "end": {
+          "millis": 1743355800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EEST",
+          "offset": 10800000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital cameral"
+        },
+        "description": {
+          "text": "<p><strong>CONCERT IN MEMORIAM Prof. VALERIU ROGACEV</strong><br /><br /><strong>TRIO PETRE</strong></p><p><strong>LUMINITZA PETRE</strong> - vioar\u0103<br /><strong>ADRIAN VASILE</strong> - viol\u0103<br /><strong>HORA\u021aIU LUDU\u0218AN</strong> - violoncel</p><p>Invitat <br /><strong>VALENTIN \u0218ERBAN</strong> - vioar\u0103</p><p>Program</p><p><strong>Tomaso Albinoni</strong><br />Adagio (arr. Trio )</p><p><strong>Johann Sebastian Bach</strong><br />Sonata nr. 3, &icirc;n sol minor, BWV 1029 - Vivace (arr. Trio)</p><p><strong>Luigi Boccherini<br /></strong>Duo &icirc;n si bemol major - Allegro</p><p><strong>Ludwig van Beethoven<br /></strong>Trio nr. 1, &icirc;n sol major, op. 9 - Presto</p><p><strong>Carl Stamitz<br /></strong>Duo &icirc;n re major - Rondo</p><p><strong>Piotr Ilici Ceaikovski<br /></strong>Lacul lebedelor - Tem\u0103 din actul II (duo arr.)</p><p><strong>Modest Musorgski<br /></strong>Hopak (duo arr.)</p><p><strong>B&eacute;la Bart&oacute;k<br /></strong>Dans din Valahia pentru 2 viori</p><p><strong>Serghei Prokofiev<br /></strong>&ldquo;Montagues and Capulets&rdquo;(arr.duo)</p><p><strong>Aram Haciaturian<br /></strong>Dansul s\u0103biilor (arr.duo)</p><p><strong>Ernst von Dohn&aacute;nyi<br /></strong>Serenad\u0103 &icirc;n do major pentru Trio - Allegro Vivace</p><p><strong>Astor Piazzolla<br /></strong>Libertango (arr. Trio)</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_6762c244b1730a442f5eb896",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/recital-cameral-87EWmY3P?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "6762c244b1730a442f5eb896",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "6762c244b1730a442f5eb896",
+            "name": "Rogacev.jfif",
+            "altText": "Rogacev.jfif",
+            "width": 211,
+            "height": 168,
+            "size": 3665,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_6762c244b1730a442f5eb896",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BB5B60_0901_01BB5B60-1-01BB5BBA_829-01BB5B60-0-0",
+      "dtstamp": 1734594712474,
       "status": {
         "name": "scheduled"
       },
@@ -2981,6 +2918,8 @@
         },
         "imageId": "BWC_66a744cb4da645429191876d",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-l7PPod7y?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66a744cb4da645429191876d",
@@ -3002,7 +2941,7 @@
         ]
       },
       "sorter": "999_01BC0420_0901_01BC0420-1-01BC0498_749-01BC0420-0-0",
-      "dtstamp": 1728464984014,
+      "dtstamp": 1734646576390,
       "status": {
         "name": "scheduled"
       },
@@ -3046,6 +2985,8 @@
         },
         "imageId": "BWC_66a744cb4da645429191876d",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-PzXXNAzJ?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66a744cb4da645429191876d",
@@ -3067,7 +3008,7 @@
         ]
       },
       "sorter": "999_01BC09C0_0901_01BC09C0-1-01BC0A38_750-01BC09C0-0-0",
-      "dtstamp": 1728465009042,
+      "dtstamp": 1734647251202,
       "status": {
         "name": "scheduled"
       },
