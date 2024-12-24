@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Calendar</title>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            border: solid black;
+            border-width: 1px 0;
+            padding: 5px;
+        }
+
+        th {
+            background-color: #f0f0f0;
+            text-align: left;
+        }
+
+        td {
+            vertical-align: top;
+        }
+
+        /* each column should be exactly 8rem wide */
+        .event-cell {
+            /*max-width: 8rem;
+            min-width: 8rem;*/
+        }
+    </style>
+</head>
+
+<body>
+    <div id="calendar"></div>
+    <script type="text/javascript">
+        const MONDAY = 1
+        function firstMondayOfOrBefore(year, month) {
+            // Create a new date object for the first day of the month
+            let d = new Date(year, month, 1);
+            // Get the day of the week for the first day of the month
+            while (d.getDay() != MONDAY) {
+                d.setDate(d.getDate() - 1);
+            }
+            return d;
+        }
+
+        let events = {
+            "2024-12-03": [
+                {
+                    "name": "Recital cameral",
+                }
+            ],
+            "2024-12-05": [
+                {
+                    "name": "Concert vocal-simfonic",
+                }
+            ],
+            "2024-12-06": [
+                {
+                    "name": "Concert vocal-simfonic",
+                }
+            ],
+        }
+
+        let year = 2024;
+        let month = 11;
+        let start = firstMondayOfOrBefore(year, month);
+        // This works even if month is December.
+        let end = new Date(year, month + 1, 1);
+
+        let container = document.getElementById('calendar');
+        let table = document.createElement('table');
+        container.appendChild(table);
+        // Add header row with day names
+        let header = document.createElement('tr');
+        table.appendChild(header);
+        for (let day of ['Lu', 'Ma', 'Mi', 'Jo', 'Vi', 'Sa', 'Du']) {
+            let cell = document.createElement('th');
+            cell.textContent = day;
+            header.appendChild(cell);
+        }
+        for (let d = start; d < end; d.setDate(d.getDate() + 1)) {
+            if (d.getDay() == MONDAY) {
+                let row = document.createElement('tr');
+                table.appendChild(row);
+            }
+            let cell = document.createElement('td');
+            if (d.getMonth() == month) {
+                // Only show the day if it's in the same month.
+                cell.textContent = d.getDate();
+                // format local date as YYYY-MM-DD
+                let key = d.toLocaleDateString('en-CA');
+                if (key in events) {
+                    for (let event of events[key]) {
+                        let div = document.createElement('div');
+                        div.textContent = event.name;
+                        cell.appendChild(div);
+                    }
+                    cell.classList.add('event-cell');
+                }
+            }
+            table.lastChild.appendChild(cell);
+        }
+    </script>
+</body>
