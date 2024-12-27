@@ -3,73 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "786",
-        "seq": 0,
-        "tid": 1734800400000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1734800400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1734805800000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Recital de muzic\u0103 baroc\u0103 (Sala mic\u0103)"
-        },
-        "description": {
-          "text": "<p><span><strong>MIRCEA GRIGORE LAZ\u0102R</strong> - vioar\u0103</span></p><p><span><strong>CIPRIANA SM\u0102R\u0102NDESCU</strong> - clavecin </span></p><p>Invitat: <strong>Andrea Riderelli </strong><br /><span></span></p><p>Program</p><p><span><strong>Johann Sebastian Bach</strong><br /></span><span>Sonata nr. 3, &icirc;</span>n mi major, pentru vioar\u0103 \u015fi clavecin obligat, BWV 1016</p><p><span><strong>Jean-Henri d'Anglebert</strong><br /></span><span>Preludiu &icirc;n sol major</span></p><p><span><strong>Joseph-Nicolas-Pancrace Royer</strong><br /></span><span>Le Vertigo, L&rsquo;Aimable</span></p><p><strong>Carl Philipp Emanuel Bach<br /></strong>Sonata &icirc;n sol minor pentru vioar\u0103 \u015fi clavecin obligat, BWV 1020</p><p><strong>Jean-Philippe Rameau</strong><br />Les Sauvages &icirc;n sol minor<br />Menuet 1-2-1<br />Tambourin &icirc;n sol</p><p>Recital organizat &icirc;n colaborare cu Institutul Cultural Rom&acirc;n</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66f54a606e1e462de2e04a91",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://ove.ro/stagiunea-de-marti-seara-sala-mica-6919",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66f54a606e1e462de2e04a91",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66f54a606e1e462de2e04a91",
-            "name": "IMAG4104",
-            "altText": "IMAG4104",
-            "width": 4000,
-            "height": 3000,
-            "size": 1392269,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66f54a606e1e462de2e04a91",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B92EBC_0901_01B92EBC-1-01B92F16_786-01B92EBC-0-0",
-      "dtstamp": 1732009948292,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "715",
         "seq": 0,
         "tid": 1735923600000,
@@ -396,6 +329,73 @@
       },
       "sorter": "999_01B9AA7C_0901_01B9AA7C-1-01B9AAD6_826-01B9AA7C-0-0",
       "dtstamp": 1733951586617,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "830",
+        "seq": 0,
+        "tid": 1736874000000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1736874000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1736881200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Gala Premiilor MUSICRIT - edi\u021bia a III-a"
+        },
+        "description": {
+          "text": "<p>Eveniment organizat &icirc;n parteneriat cu<strong> Filarmonica George Enescu</strong>,<strong><br />Centrul Na\u021bional de Art\u0103 &rdquo;Tinerimea Rom&acirc;n\u0103&rdquo; </strong>\u0219i<strong> Artexim</strong></p><p>&Icirc;\u0219i d\u0103 concursul <strong>Orchestra Rom&acirc;n\u0103 de</strong> <strong>Tineret</strong>, dirijat\u0103 de<strong> CRISTIAN MANDEAL</strong></p><p>Amfitrioni: <strong>Lumini\u021ba Arvunescu</strong><strong> - </strong>Pre\u0219edintele Uniunii Criticilor, Redactorilor \u0219i Realizatorilor Muzicali din Rom&acirc;nia \u0219i <strong>Marius Constantinescu</strong> &ndash; jurnalist TVR</p><p>Program</p><p><strong>Piotr Ilici Ceaikovski <br /></strong>Suita de balet &rdquo;Lacul lebedelor&rdquo;, op. 20 (selec\u021biuni)<strong> </strong></p><p><strong>George </strong><strong>Enescu<br /></strong>Monologul lui Oedip <em>O&ugrave; suis je</em>? din actul al II-lea al operei <em>Oedip</em> <br />Solist: <strong>IONU\u021a PASCU</strong></p><p><strong>Camille </strong><strong>Saint</strong><strong>-Sa&euml;ns</strong><strong><br /></strong>Introducere \u0219i Rondo Capriccioso &icirc;n la minor pentru vioar\u0103 \u0219i orchestr\u0103, op. 28 Solist\u0103: <strong>MARIA MARICA</strong></p><p><strong>Giuseppe </strong><strong>Verdi<br /></strong>Recitativul \u0219i Aria lui Renato <em>Alzati! Eri tu che macchiavi quell'anima</em> din <br />actul al III-lea al operei <em>Bal mascat<br /></em>Solist: <strong>MIHAI DAMIAN </strong></p><p><strong>Georg </strong><strong>Friedrich H&auml;ndel</strong><strong><br /></strong><em>Intrarea Reginei Sheba</em> din Oratoriul <em>Solomon<br /></em>Ansamblul <strong>FLAUT POWER</strong> condus de <strong>Ion Bogdan \u0218tef\u0103nescu</strong></p><p><strong>Giacomo Puccini<br /></strong>Aria lui Cio-Cio-San <em>Un bel di vedremo </em>din actul al II-lea <br />al operei <em>Madama Butterfly<br /></em>Solist\u0103: <strong>EGYED APOLLONIA</strong></p><p><strong>Mihail </strong><strong>Glinka<br /></strong>Uvertura <em>Ruslan \u0219i Ludmila</em></p><p><strong>Mihail </strong><strong>Andricu<br /></strong>Cvartet de coarde, op.14<strong> - </strong>Partea I: Allegro (quasi vivo)<strong> <br /></strong><strong>Romanian String Quartett </strong>(<strong>Maria Marica</strong> &ndash; vioar\u0103, <strong>Alexandru Marin</strong> &ndash; vioar\u0103, <strong>Cristian Andri\u0219</strong> &ndash; viol\u0103, <strong>Radu Sinaci</strong> &ndash; violoncel)</p><p><strong>Paul Richter<br /></strong>Sonata &icirc;n re minor pentru org\u0103 &ndash; Final. Vivace<br />Solist: <strong>STEFFEN SCHLANDT</strong> <strong> </strong></p><p><strong>Giacomo </strong><strong>Puccini<br /></strong>Aria Fideliei <em>Addio, addio mio dolce amor </em>din actul al III-lea<br />al operei <em>Edgar</em> <br />Solist\u0103: <strong>ANITA HARTIG</strong></p><p><strong>Jean Sibelius<br /></strong><em>Alla Marcia </em>din Suita &rdquo;Karelia&rdquo;, op. 11</p><p><strong>Edward </strong><strong>Elgar<br /></strong><em>Nimrod </em>din Varia\u021biunile &rdquo;Enigma&rdquo;, op. 36</p><p><strong> </strong></p><p><strong> </strong></p><p><strong> </strong></p><p><strong> </strong></p><p><strong> </strong></p><p></p><p></p><p><strong> </strong></p><p></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66fbf0c5205890162e5ed261",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/gala-premiilor-musicrit-editia-a-iiia-9zo9drny?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66fbf0c5205890162e5ed261",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66fbf0c5205890162e5ed261",
+            "name": "IMAG4096 (1)",
+            "altText": "IMAG4096 (1)",
+            "width": 4000,
+            "height": 3000,
+            "size": 1470175,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66fbf0c5205890162e5ed261",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B9B5BC_0901_01B9B5BC-1-01B9B634_830-01B9B5BC-0-0",
+      "dtstamp": 1735051061298,
       "status": {
         "name": "scheduled"
       },
