@@ -3,207 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "717",
-        "seq": 0,
-        "tid": 1736442000000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1736442000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1736449200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>LIONEL BRINGUIER</strong></p><p>Solist\u0103<br /><strong>SAYAKA SHOJI </strong></p><p>Program</p><p><strong>Johannes Brahms</strong><br />Concertul &icirc;n re major pentru vioar\u0103 \u0219i orchestr\u0103, op. 77</p><p><strong>Claude Debussy</strong><br />Marea</p><p><strong>Maurice Ravel</strong><br />Valsul</p><p></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5e14117e3a71e7fc6b5e",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-KnLv15zZ?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5e14117e3a71e7fc6b5e",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5e14117e3a71e7fc6b5e",
-            "name": "shoji",
-            "altText": "shoji",
-            "width": 197,
-            "height": 213,
-            "size": 5349,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5e14117e3a71e7fc6b5e",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B9999C_0901_01B9999C-1-01B99A14_717-01B9999C-0-0",
-      "dtstamp": 1733951542089,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "718",
-        "seq": 0,
-        "tid": 1736528400000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1736528400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1736535600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>LIONEL BRINGUIER</strong></p><p>Solist\u0103<br /><strong>SAYAKA SHOJI </strong></p><p>Program</p><p><strong>Johannes Brahms</strong><br />Concertul &icirc;n re major pentru vioar\u0103 \u0219i orchestr\u0103, op. 77</p><p><strong>Claude Debussy</strong><br />Marea</p><p><strong>Maurice Ravel</strong><br />Valsul</p><p></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5e14117e3a71e7fc6b5e",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-G7dLZP7E?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5e14117e3a71e7fc6b5e",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5e14117e3a71e7fc6b5e",
-            "name": "shoji",
-            "altText": "shoji",
-            "width": 197,
-            "height": 213,
-            "size": 5349,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5e14117e3a71e7fc6b5e",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B99F3C_0901_01B99F3C-1-01B99FB4_718-01B99F3C-0-0",
-      "dtstamp": 1733951567529,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "826",
-        "seq": 0,
-        "tid": 1736701200000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1736701200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1736706600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert simfonic dedicat Anului Nou"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra simfonic\u0103 a Filarmonicii &rdquo;Paul Constantinescu&rdquo; Ploie\u0219ti</strong></p><p>Dirijor<br /><strong>DIETER HOLZAPFEL</strong></p><p>Program</p><p><strong>Johann Strauss-fiul</strong></p><p>Uvertura Voievodul \u021biganilor<br />Tunete \u0219i fulgere - polc\u0103 rapid\u0103 , op. 324</p><p><strong>Franz Leh&aacute;r<br /></strong>Aur \u0219i argint - vals de concert, op. 79</p><p><strong>Johann Strauss-fiul</strong>\u2060<br />Polca vesel\u0103, op. 319</p><p><strong>Jacques Offenbach<br /></strong>Uvertura Orfeu &icirc;n infern</p><p><strong>Johann Strauss-fiul</strong><br />Uvertura Liliacul</p><p><strong>Franz Leh&aacute;r<br /></strong>Valsul Sirenele balului</p><p><strong>Johann Strauss-fiul</strong><br />Polca Tritsch Tratsch, op. 214<br />Valsul &icirc;mp\u0103ratului, op. 437</p><p><strong>Johann Strauss-tat\u0103l</strong><br />Galopul \u0219ampaniei, op. 8</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66fd1544205890162e5fa1db",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-dedicat-anului-nou-Qzv9Qb7k?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66fd1544205890162e5fa1db",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66fd1544205890162e5fa1db",
-            "name": "IMAG4122 (1)",
-            "altText": "IMAG4122 (1)",
-            "width": 3000,
-            "height": 4000,
-            "size": 1135341,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66fd1544205890162e5fa1db",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B9AA7C_0901_01B9AA7C-1-01B9AAD6_826-01B9AA7C-0-0",
-      "dtstamp": 1733951586617,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "830",
         "seq": 0,
         "tid": 1736874000000,
@@ -372,6 +171,8 @@
         },
         "imageId": "BWC_677e8828c1c9522556cc9ad8",
         "attachments": [],
+        "customButtonText": "Rezerva invitatie",
+        "customButtonLink": "https://oveit.com/hub/event/ziua-culturii-nationale-tur-ghidat-al-ateneului-j3YVajnv?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "677e8828c1c9522556cc9ad8",
@@ -393,7 +194,7 @@
         ]
       },
       "sorter": "999_01B9BAA8_0901_01B9BAA8-1-01B9BAC6_839-01B9BAA8-0-0",
-      "dtstamp": 1736347241303,
+      "dtstamp": 1736417376484,
       "status": {
         "name": "scheduled"
       },
@@ -416,7 +217,7 @@
           "offset": 7200000
         },
         "end": {
-          "millis": 1736959500000,
+          "millis": 1736960400000,
           "tzid": "Europe/Bucharest",
           "ltz": "EET",
           "offset": 7200000
@@ -437,6 +238,8 @@
         },
         "imageId": "BWC_677e8828c1c9522556cc9ad8",
         "attachments": [],
+        "customButtonText": "Rezerva invitatie",
+        "customButtonLink": "https://oveit.com/hub/event/ziua-culturii-nationale-recital-dz0DEGz5?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "677e8828c1c9522556cc9ad8",
@@ -457,8 +260,8 @@
           }
         ]
       },
-      "sorter": "999_01B9BB20_0901_01B9BB20-1-01B9BB4D_840-01B9BB20-0-0",
-      "dtstamp": 1736347198781,
+      "sorter": "999_01B9BB20_0901_01B9BB20-1-01B9BB5C_840-01B9BB20-0-0",
+      "dtstamp": 1736753057264,
       "status": {
         "name": "scheduled"
       },
@@ -937,6 +740,73 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
+        "uid": "841",
+        "seq": 0,
+        "tid": 1737903600000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1737903600000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1737909000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Salonul baroc (Salonul oficial)"
+        },
+        "description": {
+          "text": "<p><strong>Recital de clavecin</strong></p><p>- Inaugurarea clavecinului Neupert/ Hemsch al Filarmonicii &bdquo;George Enescu&rdquo; -</p><p><strong>RALUCA ENEA</strong></p><p>Program</p><p><strong>Johann Sebastian Bach <br /></strong>Preludiu &icirc;n do major din Clavecinul bine temperat I, BWV 846 <br /><em>Allemande - Courante</em> din Suita francez\u0103 nr. 5, &icirc;n sol major, BWV 816</p><p><strong>Domenico Scarlatti <br /></strong>Sonata &icirc;n re minor, K. 1 <br />Sonata &icirc;n re minor, K. 9</p><p><strong>Georg Friedrich H&auml;ndel <br /></strong><em>Andante &ndash; Allegro &ndash; Sarabande &ndash; Gigue &ndash; Passacaille </em>din Suita nr. 7 &icirc;n sol minor, HWV 432</p><p><strong>Fran&ccedil;ois Couperin </strong></p><p>Din Treizi&egrave;me Ordre: <em>Les Lis naissans - Les Roseaux </em></p><p>Din Quatorzi&egrave;me Ordre: <em>Le Rossignol - en - amour - Double du Rossignol - Le Rossignol Vainqueur </em></p><p>Din <em>L'Art de toucher le Clavecin</em>: <em>Pr&eacute;lude 8 </em>(Edition Breitkopf, Anna Linde)</p><p><strong>Jean - Philippe Rameau </strong></p><p>Din Pi&egrave;ces de Clavecin: <em>Pr&eacute;lude </em></p><p>Din Pi&egrave;ces de Clavecin, din Suita &icirc;n mi minor: <em>Allemande - Courante - Le Rappel des Oiseaux - Rigaudon I - Rigaudon II et Double - Musette en Rondeau. </em>Tendrement<em> - Tambourin </em></p><p>Din Nouvelles Suites Pi&egrave;ces de Clavecin, din Suita &icirc;n sol major: <em>Les Tricotets. </em>Rondeau - <em>L</em><em>'</em><em>indiff&eacute;rente </em></p><p>Din &rdquo;Les Indes Galantes &ndash; Ballet reduit &agrave; quatre grands concerts&rdquo;: <em>Air pour les esclaves africains </em></p><p>Din Nouvelles Suites de Pi&egrave;ces de clavecin: <em>Les Sauvages </em></p><p><strong>Antoine Forqueray/ Jean Baptiste Antoine Forqueray <br /></strong>Din colec\u021bia Pi&egrave;ces de viole compos&eacute;es par Mr. Forqueray le P&egrave;re. Mises en Pi&egrave;ces de Clavecin, din Suita nr. 2:<br /><em>La Mandoline &ndash; La du Brei&uuml;il &ndash;</em> <em>La Buisson. Chaconne</em></p><p></p><p></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_677fa137c1c9522556cd7a53",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/salonul-baroc-salonul-oficial-434PED3g?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "677fa137c1c9522556cd7a53",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "677fa137c1c9522556cd7a53",
+            "name": "clavecin.jfif",
+            "altText": "clavecin.jfif",
+            "width": 227,
+            "height": 188,
+            "size": 7394,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_677fa137c1c9522556cd7a53",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01B9F8C4_0901_01B9F8C4-1-01B9F91E_841-01B9F8C4-0-0",
+      "dtstamp": 1736421827746,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
         "uid": "808",
         "seq": 0,
         "tid": 1737910800000,
@@ -1272,6 +1142,73 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
+        "uid": "842",
+        "seq": 0,
+        "tid": 1738774800000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1738774800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1738780200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Metamorfoze - Recital vocal (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<p><strong>METAMORFOZE </strong></p><p><strong>Recital vocal<br /></strong><strong>CLAUDIA CODREANU</strong> - mezzosopran\u0103<br /><strong>INNA ONCESCU</strong> - pian</p><p>Program</p><p><strong>George Enescu</strong><br /><em>Aux damoiselles paresseuses...</em> din ciclul <em>7 C&acirc;ntece pe versuri de Cl&eacute;ment Marot</em></p><p><strong>Felicia Donceanu<br /></strong>Salve Regina</p><p><strong>Johann Sebastian Bach<br /></strong><em>Bereite dich, Zion, mit z&auml;rtlichen Trieben</em> din <em>Weihnachts-Oratorium</em></p><p><strong>Wolfgang Amadeus Mozart<br /></strong><em>Voi che sapete</em> din <em>Le nozze di Figaro</em></p><p><strong>George Cavadia<br /></strong>Umbra</p><p><strong>Johannes Brahms<br /></strong>Von ewiger Liebe</p><p><strong>Ciprian Porumbescu<br /></strong>Eu te iubeam</p><p><strong>Modest Musorgski<br /></strong>Gopak</p><p><strong>George Enescu<br /></strong><em>Frauenberuf</em> din ciclul <em>14 C&acirc;ntece pe versuri de Carmen Sylva</em></p><p><strong>George Bizet<br /></strong>Habanera din <em>Carmen</em></p><p><strong>Francis Poulenc<br /></strong>Les chemins de l'amour</p><p><strong>Jos&eacute; Serrano<br /></strong><em>Que te importa que no venga</em> din <em>Los Claveles</em></p><p><strong>Frederick Loewe<br /></strong><em>I Could Have Danced All Night</em> din <em>My Fair Lady</em></p><p><strong>Aaron Copland<br /></strong>Ching-a-Ring Chaw</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_67810387c1c9522556ce5f16",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/metamorfoze-recital-vocal-sala-mica-bn1ldd3B?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "67810387c1c9522556ce5f16",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "67810387c1c9522556ce5f16",
+            "name": "Claudia-Codreanu",
+            "altText": "Claudia-Codreanu",
+            "width": 394,
+            "height": 364,
+            "size": 20038,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_67810387c1c9522556ce5f16",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BA317C_0901_01BA317C-1-01BA31D6_842-01BA317C-0-0",
+      "dtstamp": 1736578784578,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
         "uid": "725",
         "seq": 0,
         "tid": 1738861200000,
@@ -1406,6 +1343,73 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
+        "uid": "846",
+        "seq": 0,
+        "tid": 1739034000000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1739034000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1739039400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Concert aniversar"
+        },
+        "description": {
+          "text": "<p><strong>Orchestra Na\u021bional\u0103 &ldquo;Contrabassissimo&rdquo; </strong></p><p>- concert dedicat profesorului \u0218tefan Thomasz, cu ocazia implinirii v&acirc;rstei de 80 de ani -</p><p>Dirijor <br /><strong>Daisuke Soga</strong></p><p>Solisti<br /><strong>Botond Kostyak, Octavian Maxim, Vlad Ra\u021biu, El\u0151d Mok&aacute;n-Noe</strong></p><p>La pian <br /><strong>C\u0103t\u0103lina Bordeanu </strong></p><p>Prezentarea <br /><strong>Anca Andriescu</strong></p><p>Program</p><p><strong>Joseph Haydn<br /></strong>Divertisment &icirc;n re major (aranjament: Gregor Piatigorsky) </p><p><strong>Giovanni Bottesini<br /></strong>Passione amorosa pentru cvartet de contraba\u0219i \u0219i pian </p><p><strong>Victor Savca<br /></strong>Hommage a Stefan Thomasz pentru cvartet de contraba\u0219i </p><p><strong>Marc-Antoine Charpentier<br /></strong>Pr&eacute;lude 1, Pr&eacute;lude 2. Gigue Englez, Gigue Francez din  &quot;Concert pour quatre parties de violes&quot;, H 545 (aranjament: Stefan Thomasz)</p><p><strong>Johann Sebastian Bach</strong> <br />Aria din Suita nr. 3, &icirc;n re major, BWV 1068 (aranjament: Stefan Thomasz)</p><p><strong>Antonio Vivaldi<br /></strong>Concert pentru 2 contraba\u0219i dup\u0103 Concert RV 522, op. 8, nr. 3 <br />&quot;L'estro Armonico&quot; (aranjament: Daisuke Soga)</p><p><strong>Felix Mendelssohn<br /></strong>Andante din Simfonia nr. 5 (aranjament: Stefan Thomasz)<br />C&acirc;ntec f\u0103r\u0103 cuvinte, caietul nr. 4, nr. 20 (aranjament: Daisuke Soga) </p><p><strong>Astor Piazzolla<br /></strong>Oblivion (aranjament: Daisuke Soga)<br />Libertango (aranjament: Daisuke Soga)</p><p><strong>Daisuke Soga </strong><br />C&acirc;ntece populare rom&acirc;ne\u015fti dup\u0103 culegerea lui Bela Bart&ograve;k</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66f54a606e1e462de2e04a91",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/inapoi-concert-aniversar-r3OakJ7w?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66f54a606e1e462de2e04a91",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66f54a606e1e462de2e04a91",
+            "name": "IMAG4104",
+            "altText": "IMAG4104",
+            "width": 4000,
+            "height": 3000,
+            "size": 1392269,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66f54a606e1e462de2e04a91",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BA425C_0901_01BA425C-1-01BA42B6_846-01BA425C-0-0",
+      "dtstamp": 1736623447321,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
         "uid": "727",
         "seq": 0,
         "tid": 1739466000000,
@@ -1531,6 +1535,73 @@
       },
       "sorter": "999_01BA641C_0901_01BA641C-1-01BA6494_728-01BA641C-0-0",
       "dtstamp": 1734042361232,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "843",
+        "seq": 0,
+        "tid": 1739725200000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1739725200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1739730600000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital cameral"
+        },
+        "description": {
+          "text": "<p><strong>Johannes Brahms - Integrala muzicii de camer\u0103 cu pian III</strong></p><p><strong>EMIL VI\u0218ENESCU</strong> - clarinet<br /><strong>GABRIEL R\u0102ILEANU</strong> - corn<br /><strong>MIRCEA LAZ\u0102R - </strong>vioar\u0103<br /><strong>ANDREI LICARE\u021a</strong> - pian</p><p>Program</p><p>Sonata nr. 2, &icirc;n mi bemol major, pentru pian \u0219i clarinet, op. 120, nr. 2<br />Sonata nr. 2, &icirc;n la major, pentru pian \u0219i vioar\u0103, op. 100 <br />Trio &icirc;n mi bemol major pentru vioar\u0103, corn \u0219i pian, op. 40</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66aa5fa6117e3a71e7fc6ce2",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/recital-cameral-X3ZvkZ3x?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66aa5fa6117e3a71e7fc6ce2",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66aa5fa6117e3a71e7fc6ce2",
+            "name": "brahms 3",
+            "altText": "brahms 3",
+            "width": 224,
+            "height": 224,
+            "size": 6683,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66aa5fa6117e3a71e7fc6ce2",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BA6F5C_0901_01BA6F5C-1-01BA6FB6_843-01BA6F5C-0-0",
+      "dtstamp": 1736579558834,
       "status": {
         "name": "scheduled"
       },
@@ -1808,6 +1879,73 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
+        "uid": "847",
+        "seq": 0,
+        "tid": 1740330000000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1740330000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1740337200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital cameral"
+        },
+        "description": {
+          "text": "<p><strong>Radu Dunca</strong> - vioar\u0103</p><div><div><strong>Gabriel G&icirc;\u021ban</strong> - pian<br /><br />Program<br /><br /><strong>Johannes Brahms</strong><br />Sonata nr. 1, &icirc;n sol major, pentru pian \u0219i vioar\u0103, op. 78</div><div>Sonata nr. 2, &icirc;n la major, pentru pian \u0219i vioar\u0103 , op. 100</div><div>Sonata nr. 3, &icirc;n re minor, pentru pian \u0219i vioar\u0103, op. 108</div></div><div></div><p></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66ffb7e4205890162e617006",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/recital-cameral-copy-5zwAMPnB?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66ffb7e4205890162e617006",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66ffb7e4205890162e617006",
+            "name": "IMAG4127",
+            "altText": "IMAG4127",
+            "width": 4000,
+            "height": 3000,
+            "size": 1199005,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66ffb7e4205890162e617006",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BA96BC_0901_01BA96BC-1-01BA9734_847-01BA96BC-0-0",
+      "dtstamp": 1736633234617,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
         "uid": "838",
         "seq": 0,
         "tid": 1740589200000,
@@ -1833,39 +1971,39 @@
           "text": "Poveste de iubire"
         },
         "description": {
-          "text": "<p><strong>Poveste de iubire</strong></p><p><strong>Ansamblul Musica Viva</strong><br /><strong>ANDREEA BUTNARU</strong> - pian<br /><strong>ADRIAN FLORESCU</strong> - vioar\u0103<br /><strong>FLORIN MITREA</strong> - violoncel<br /><strong>FERNANDO MIHALACHE</strong> - acordeon<br /><strong>CIPRIAN MELENT</strong>E - clarinet</p><p>Program</p><p><strong>Astor Piazzolla </strong><br />Istoria Tango-ului</p><p><strong>George Gershwin </strong><br />Rhapsody in Blue</p><p><strong>Nikolai Rimski-Korsakov </strong><br />\u015eeherezada</p>"
+          "text": "<p><tkfmedia data-tkf-mediatype=\"image\" data-tkf-id=\"67810408c1c9522556ce5f2a\" data-tkf-style=\"align:left;width:256px\" data-tkf-featured=\"true\"></tkfmedia></p><p><strong>Poveste de iubire</strong></p><p><strong>Ansamblul Musica Viva</strong><br /><strong>ANDREEA BUTNARU</strong> - pian<br /><strong>ADRIAN FLORESCU</strong> - vioar\u0103<br /><strong>FLORIN MITREA</strong> - violoncel<br /><strong>FERNANDO MIHALACHE</strong> - acordeon<br /><strong>CIPRIAN MELENT</strong>E - clarinet</p><p></p><p>Program</p><p><strong>Astor Piazzolla </strong><br />Istoria Tango-ului</p><p><strong>George Gershwin </strong><br />Rhapsody in Blue</p><p><strong>Nikolai Rimski-Korsakov </strong><br />\u015eeherezada</p>"
         },
         "tagset": {
           "tags": {
             "default": []
           }
         },
-        "imageId": "BWC_66a744174da645429191872b",
+        "imageId": "BWC_67810408c1c9522556ce5f2a",
         "attachments": [],
         "customButtonText": "Cumpara bilet",
         "customButtonLink": "https://oveit.com/hub/event/poveste-de-iubire-o3jxp472?language=ro",
         "noDetail": false,
         "version": 1,
-        "imageIdNg": "66a744174da645429191872b",
+        "imageIdNg": "67810408c1c9522556ce5f2a",
         "imageSets": [
           {
             "ownerId": "5ddd0580df82fe18b2f6af6e",
             "ownerType": "user",
-            "id": "66a744174da645429191872b",
-            "name": "IMAG4096 (1)",
-            "altText": "IMAG4096 (1)",
-            "width": 4000,
-            "height": 3000,
-            "size": 1470175,
+            "id": "67810408c1c9522556ce5f2a",
+            "name": "pixeleap_1692376699132.JPEG",
+            "altText": "pixeleap_1692376699132.JPEG",
+            "width": 1600,
+            "height": 1600,
+            "size": 251915,
             "masterFormat": "jpg",
             "variantFormat": "jpg",
-            "oldId": "BWC_66a744174da645429191872b",
+            "oldId": "BWC_67810408c1c9522556ce5f2a",
             "tags": []
           }
         ]
       },
       "sorter": "999_01BAA79C_0901_01BAA79C-1-01BAA814_838-01BAA79C-0-0",
-      "dtstamp": 1736368458043,
+      "dtstamp": 1736508435822,
       "status": {
         "name": "scheduled"
       },
@@ -2034,7 +2172,7 @@
           "text": "Recital de pian"
         },
         "description": {
-          "text": "<p><em><strong>Algo-Ritm</strong></em></p><p><strong>M\u0102D\u0102LINA PA\u015eOL</strong></p><p>Program</p><p><strong>Ludwig van Beethoven<br /></strong>Varia\u0163iunile &quot;Vienni Amore&quot;, &icirc;n re major, WoO 65</p><p><strong>Serghei Rahmaninov<br /></strong>Varia\u0163iuni pe o tem\u0103 de Corelli, op. 42</p><p><strong>J.-Ph. Rameau/ M. Pa\u015fol<br /></strong>Les Sauvages, Les Boreades, L'Egyptienne</p><p><strong>Johannes Brahms<br /></strong>Pagin\u0103 de album &icirc;n la minor</p><p><strong>Franz Liszt<br /></strong>Roman\u021b\u0103 &icirc;n la minor</p><p><strong>Robert Schumann<br /></strong>Contrabandistul, op. 74</p><p><strong>Richard Wagner<br /></strong>Pagin\u0103 de album, WWV 94</p><p><strong>Claude Debussy<br /></strong>Vals romantic</p><p><strong>Fr&eacute;d&eacute;ric Chopin<br /></strong>Balada nr. 1, &icirc;n sol minor, op. 23</p>"
+          "text": "<p><em><strong>Algo-Ritm</strong></em></p><p><strong>M\u0102D\u0102LINA PA\u015eOL</strong></p><p>Program</p><p><strong>Fr&eacute;d&eacute;ric Chopin<br /></strong>Balada nr. 1, &icirc;n sol minor, op. 23</p><p><strong>Maurice Ravel</strong></p><p>Miroirs</p><p><strong>Robert Schumann<br /></strong>Kreisleriana, op. 16<strong></strong></p><p><strong>Franz Liszt/ M\u0103d\u0103lina Pa\u0219ol<br /></strong>Rapsodia nr. 2</p><p></p><p></p><p></p>"
         },
         "tagset": {
           "tags": {
@@ -2066,7 +2204,7 @@
         ]
       },
       "sorter": "999_01BABE1C_0901_01BABE1C-1-01BABE94_789-01BABE1C-0-0",
-      "dtstamp": 1734190444673,
+      "dtstamp": 1736534863686,
       "status": {
         "name": "scheduled"
       },
@@ -2268,6 +2406,73 @@
       },
       "sorter": "999_01BAE57C_0901_01BAE57C-1-01BAE5D6_827-01BAE57C-0-0",
       "dtstamp": 1734541499784,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "845",
+        "seq": 0,
+        "tid": 1741712400000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1741712400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1741717800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital aniversar Trio \u201cMozaic\u201d - 30 ani"
+        },
+        "description": {
+          "text": "<div><strong><em>Invita\u021bie la castel</em></strong></div><div></div><div><strong>Oana Sp&acirc;nu - Vi\u0219enescu</strong> - vioar\u0103, viol\u0103</div><div><strong><span>Emil</span> Vi\u0219enescu</strong> - clarinet, taragot</div><div><strong>Diana Sp&acirc;nu - D\u0103nil\u0103</strong>-pian</div><div></div><div>Invita\u021bi:</div><div><strong>Anca Sigart\u0103u </strong>- actri\u021b\u0103</div><div><strong>Lucian Gabriel D\u0103nil\u0103</strong> - vioar\u0103</div><div><strong>Fernando Mihalache</strong> - acordeon</div><div><strong>S\u0103ndel Sm\u0103r\u0103ndescu</strong> - contrabas</div><div></div><div>Program</div><div></div><div><strong>Francis Poulenc<br /></strong>&ldquo;Invita\u021bie la castel&rdquo; pentru vioar\u0103, clarinet \u0219i pian</div><div></div><div><strong>Vladimir Cosma<br /></strong>Vals pentru clarinet, viol\u0103 \u0219i pian</div><div></div><div><strong>Astor Piazzolla</strong> <br />Cinci tangouri pentru vioar\u0103, clarinet, acordeon, contrabas \u0219i pian</div><div></div><div><strong>Dmitri \u0218ostakovici<br /></strong>Cinci piese pentru dou\u0103 viori \u0219i pian</div><div></div><div><strong>Sabin P\u0103utza<br /></strong>Divertisment nr. 3 pentru clarinet, viol\u0103 \u0219i pian</div><div></div><div><strong>Tradi\u021bional<br /></strong>Suit\u0103 folcloric\u0103 rom&acirc;neasc\u0103 pentru clarinet/ taragot, vioar\u0103, viol\u0103, contrabas \u0219i pian</div>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_67812965c1c9522556ce7198",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/recital-aniversar-trio-mozaic-30-ani-PnBldmzX?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "67812965c1c9522556ce7198",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "67812965c1c9522556ce7198",
+            "name": "trio mozaic",
+            "altText": "trio mozaic",
+            "width": 1080,
+            "height": 680,
+            "size": 95962,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_67812965c1c9522556ce7198",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BAF0BC_0901_01BAF0BC-1-01BAF116_845-01BAF0BC-0-0",
+      "dtstamp": 1736579974324,
       "status": {
         "name": "scheduled"
       },
@@ -4077,6 +4282,73 @@
       },
       "sorter": "999_01BCB280_0901_01BCB280-1-01BCB2F8_758-01BCB280-0-0",
       "dtstamp": 1734211430702,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "844",
+        "seq": 0,
+        "tid": 1748678400000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1748678400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EEST",
+          "offset": 10800000
+        },
+        "end": {
+          "millis": 1748683800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EEST",
+          "offset": 10800000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital cameral"
+        },
+        "description": {
+          "text": "<p><strong><em>&Aacute; la recherche du temps perdu</em></strong></p><p><strong>Cvintetul &rdquo;George Enescu&rdquo;</strong></p><p><strong>Ion Bogdan \u0218tef\u0103nescu</strong></p><p><strong>Adrian Petrescu</strong></p><p><strong>Emil Vi\u0219enescu</strong></p><p><strong>Lauren\u021biu Darie</strong></p><p><strong>Ioan Luca</strong></p><p><strong>&amp;</strong></p><p><strong>Andrei Licare\u021b</strong></p><p>Program</p><p><strong>Louise Farrenc</strong><br />Sextetul &icirc;n do minor pentru cvintet de sufl\u0103tori \u0219i pian, op. 40</p><p><strong>Vincent d&rsquo;Indy</strong><br />Saraband\u0103 \u0219i Menuet pentru cvintet de sufl\u0103tori \u0219i pian, op. 72</p><p><strong>Francis Poulenc</strong><br />Sextet pentru pian \u0219i cvintet de sufl\u0103tori, op.100</p><p></p><p></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66ffb52d205890162e616f36",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/recital-cameral-KnLvJyzZ?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66ffb52d205890162e616f36",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66ffb52d205890162e616f36",
+            "name": "IMAG4119",
+            "altText": "IMAG4119",
+            "width": 4000,
+            "height": 3000,
+            "size": 1064818,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66ffb52d205890162e616f36",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BCB640_0901_01BCB640-1-01BCB69A_844-01BCB640-0-0",
+      "dtstamp": 1736633470859,
       "status": {
         "name": "scheduled"
       },
