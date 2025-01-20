@@ -3,140 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "720",
-        "seq": 0,
-        "tid": 1737133200000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1737133200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1737140400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>JULIAN RACHLIN</strong></p><p>Solist\u0103 <br /><strong>EVA GEVORGYAN</strong></p><p>Program</p><p><strong>Piotr Ilici Ceaikovski</strong><br />Poloneza din opera Evgheni Oneghin</p><p><strong>Edvard Grieg</strong><br />Concertul &icirc;n la minor pentru pian \u0219i orchestr\u0103, op. 16</p><p><strong>Dmitri \u0218ostakovici</strong><br />Simfonia nr. 5, &icirc;n re minor, op. 47</p><p></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5e7b117e3a71e7fc6ba5",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-Kzx0Kezq?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5e7b117e3a71e7fc6ba5",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5e7b117e3a71e7fc6ba5",
-            "name": "rachlin",
-            "altText": "rachlin",
-            "width": 147,
-            "height": 138,
-            "size": 4377,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5e7b117e3a71e7fc6ba5",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B9C69C_0901_01B9C69C-1-01B9C714_720-01B9C69C-0-0",
-      "dtstamp": 1733951602785,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "833",
-        "seq": 0,
-        "tid": 1737277200000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1737277200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1737282600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Muzica pe \u00cen\u021belesul Tuturor"
-        },
-        "description": {
-          "text": "<p><em><strong>Povestea violoncelului</strong></em></p><p><strong>M\u0102D\u0102LINA FARA, </strong><strong>EUGEN BOGDAN POPA, HORA\u021aIU LUDU\u0218AN, <br />CONSTANTIN BORODIN, ALEXANDRU DU\u021aULESCU</strong></p><p>La pian - <strong>ANAMARIA BIACIU-POPA</strong></p><p>Comentariu<strong><br />MIHAI COJOCARU</strong></p><p>Program</p><p>Violoncel solo:</p><p><strong>Johann Sebastian Bach<br /></strong>Preludiu din Suita nr. 1, &icirc;n sol major, BWV 1007<br />Sarband\u0103 \u0219i Bourr&eacute;e din Suita nr. 3, &icirc;n do major, BWV 1009</p><p>Violoncel \u0219i pian:</p><p><strong>Joseph Haydn/ Igor Piatigorski<br /></strong>Divertisment &icirc;n re major, partea II \u0219i III</p><p><strong>Anton&iacute;n Dvor&aacute;k</strong><br />C&acirc;ntec &icirc;nv\u0103\u021bat de la mama, op. 55, nr. 4</p><p><strong>Camille Saint-Sa&euml;ns</strong><br />Leb\u0103da</p><p><strong>Paul Constantinescu<br /></strong>C&acirc;ntec vechi</p><p><strong>Constantin Dimitrescu</strong><br />Dans \u021b\u0103r\u0103nesc</p><p>Dou\u0103 violoncele:</p><p><strong>Jean-Baptiste Barri&egrave;re</strong><br />Sonata &icirc;n sol major, partea I \u0219i III</p><p><strong>Luigi Boccherini</strong><br />Sonata &icirc;n la major, G13, partea I</p><p>Ansamblu de violoncele:</p><p><strong>Tomaso Albinoni</strong><br />Adagio</p><p><strong>Astor Piazzolla</strong><br />Libertango</p><p>Muzic\u0103 de film: Pira\u021bii din Caraibe, Misiune imposibil\u0103</p><p></p><p></p><p></p><p><strong></strong></p><p></p><p><strong><br /><br /></strong></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66ffb52d205890162e616f36",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/muzica-pe-ntelesul-tuturor-9zo9Egny?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66ffb52d205890162e616f36",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66ffb52d205890162e616f36",
-            "name": "IMAG4119",
-            "altText": "IMAG4119",
-            "width": 4000,
-            "height": 3000,
-            "size": 1064818,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66ffb52d205890162e616f36",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B9CFFC_0901_01B9CFFC-1-01B9D056_833-01B9CFFC-0-0",
-      "dtstamp": 1736343010617,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "832",
         "seq": 0,
         "tid": 1737478800000,
@@ -2473,6 +2339,71 @@
       },
       "sorter": "999_01BAF0BC_0901_01BAF0BC-1-01BAF116_845-01BAF0BC-0-0",
       "dtstamp": 1736579974324,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "853",
+        "seq": 0,
+        "tid": 1741798800000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1741798800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1741806000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital cameral"
+        },
+        "description": {
+          "text": "<p><strong>Trio ALPHA</strong></p><p><strong>VALENTIN \u0218ERBAN </strong>- vioar\u0103</p><p><strong>\u0218TEFAN CAZACU </strong>- violoncel</p><p><strong>IOAN-DRAGO\u0218 DIMITRIU </strong>- pian</p><p>Program</p><p><strong>Johannes Brahms</strong><br />Trio cu pian nr. 1, &icirc;n si major, op. 8</p><p><strong>Antonin Dvorak</strong><br />Trio cu pian nr. 4, &icirc;n mi minor, op. 90, <em>Dumky</em></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66fd2477205890162e5fa51a",
+        "attachments": [],
+        "noDetail": false,
+        "version": 2,
+        "imageIdNg": "66fd2477205890162e5fa51a",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66fd2477205890162e5fa51a",
+            "name": "IMAG4105 (1)",
+            "altText": "IMAG4105 (1)",
+            "width": 4000,
+            "height": 3000,
+            "size": 1341799,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66fd2477205890162e5fa51a",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BAF65C_0901_01BAF65C-1-01BAF6D4_853-01BAF65C-0-0",
+      "dtstamp": 1737112272907,
       "status": {
         "name": "scheduled"
       },
