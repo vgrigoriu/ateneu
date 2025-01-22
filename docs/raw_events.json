@@ -3,73 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "832",
-        "seq": 0,
-        "tid": 1737478800000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1737478800000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1737482400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Stagiunea de mar\u021bi seara (Sala mic\u0103)"
-        },
-        "description": {
-          "text": "<p><strong>Recital cameral</strong></p><p><strong>TEODORA BOLOCA</strong> - viol\u0103<br /><strong>MARIUS BOLDEA</strong> - pian</p><p>Program<br /><strong>Max Bruch</strong><br />Roman\u0163\u0103 &icirc;n fa major, op. 85</p><p><strong>Ernest Bloch<br /></strong>Suita ebraic\u0103</p><p><strong>Johannes Brahms<br /></strong>Sonata nr. 1, &icirc;n fa minor, op. 120 nr. 1</p><p><strong>Frank Bridge</strong><br />Dou\u0103 piese pentru viol\u0103 \u0219i pian</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66fd1544205890162e5fa1db",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/stagiunea-de-marti-seara-sala-mica-X3ZvW43x?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66fd1544205890162e5fa1db",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66fd1544205890162e5fa1db",
-            "name": "IMAG4122 (1)",
-            "altText": "IMAG4122 (1)",
-            "width": 3000,
-            "height": 4000,
-            "size": 1135341,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66fd1544205890162e5fa1db",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B9DD1C_0901_01B9DD1C-1-01B9DD58_832-01B9DD1C-0-0",
-      "dtstamp": 1737023529533,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "721",
         "seq": 0,
         "tid": 1737651600000,
@@ -1234,7 +1167,7 @@
           "text": "Concert vocal-simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor<br /><strong>YAN PASCAL TORTELIER</strong></p><p>Soli\u015fti<br /><strong>HYE-YOUN LEE</strong> - sopran\u0103</p><p><strong>JUDIT KUTASI</strong> &ndash; mezzosopran\u0103</p><p><strong>IOAN HOTEA</strong> &ndash; tenor</p><p><strong>ROBERTO SCANDIUZZI</strong> - bas</p><p>Program</p><p><strong>Giuseppe Verdi</strong><br />Recviem</p><p>Dirijorul corului<br /><strong>IOSIF ION PRUNNER</strong></p>"
+          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor<br /><strong>YAN PASCAL TORTELIER</strong></p><p>Soli\u015fti<br /><strong>HYE-YOUN LEE</strong> - sopran\u0103</p><p><strong>JUDIT KUTASI</strong> &ndash; mezzosopran\u0103</p><p><strong>IOAN HOTEA</strong> &ndash; tenor</p><p><strong>NICOLAS TEST&Eacute;</strong> - bas</p><p>Program</p><p><strong>Giuseppe Verdi</strong><br />Recviem</p><p>Dirijorul corului<br /><strong>IOSIF ION PRUNNER</strong></p>"
         },
         "tagset": {
           "tags": {
@@ -1266,7 +1199,7 @@
         ]
       },
       "sorter": "999_01BA5E7C_0901_01BA5E7C-1-01BA5EF4_727-01BA5E7C-0-0",
-      "dtstamp": 1733955378344,
+      "dtstamp": 1737531037538,
       "status": {
         "name": "scheduled"
       },
@@ -1301,7 +1234,7 @@
           "text": "Concert vocal-simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor<br /><strong>YAN PASCAL TORTELIER</strong></p><p>Soli\u015fti<br /><strong>HYE-YOUN LEE</strong> - sopran\u0103</p><p><strong>JUDIT KUTASI</strong> &ndash; mezzosopran\u0103</p><p><strong>IOAN HOTEA</strong> &ndash; tenor</p><p><strong>ROBERTO SCANDIUZZI</strong> - bas</p><p>Program</p><p><strong>Giuseppe Verdi</strong><br />Recviem</p><p>Dirijorul corului<br /><strong>IOSIF ION PRUNNER</strong></p>"
+          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor<br /><strong>YAN PASCAL TORTELIER</strong></p><p>Soli\u015fti<br /><strong>HYE-YOUN LEE</strong> - sopran\u0103</p><p><strong>JUDIT KUTASI</strong> &ndash; mezzosopran\u0103</p><p><strong>IOAN HOTEA</strong> &ndash; tenor</p><p><strong>NICOLAS TEST&Eacute;</strong> - bas</p><p>Program</p><p><strong>Giuseppe Verdi</strong><br />Recviem</p><p>Dirijorul corului<br /><strong>IOSIF ION PRUNNER</strong></p>"
         },
         "tagset": {
           "tags": {
@@ -1333,7 +1266,74 @@
         ]
       },
       "sorter": "999_01BA641C_0901_01BA641C-1-01BA6494_728-01BA641C-0-0",
-      "dtstamp": 1734042361232,
+      "dtstamp": 1737531069765,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "857",
+        "seq": 0,
+        "tid": 1739638800000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1739638800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1739644200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital cameral (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<div><strong>Carina Boldea </strong> - flaut</div><div></div><div><strong>Marius Boldea </strong>- pian</div><div></div><div>Program</div><div></div><div><div><strong>Francis Poulenc<br /></strong>Sonata pentru flaut \u0219i pian</div><div></div><div><div><strong>Claude Debussy<br /></strong>Syrinx</div><div><span> </span></div></div><div><strong>Carl Reinecke<br /></strong>Sonata pentru flaut \u0219i pian (Undine)</div><div></div><div><strong>Katherine Hoover<br /></strong>Kokopeli</div><div></div><div><strong>Sigismund Todu\u021b\u0103<br /></strong>Sonata pentru flaut \u0219i pian</div></div>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66fd1544205890162e5fa1db",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/recital-cameral-sala-mica-G38bKB7j?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66fd1544205890162e5fa1db",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66fd1544205890162e5fa1db",
+            "name": "IMAG4122 (1)",
+            "altText": "IMAG4122 (1)",
+            "width": 3000,
+            "height": 4000,
+            "size": 1135341,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66fd1544205890162e5fa1db",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BA69BC_0901_01BA69BC-1-01BA6A16_857-01BA69BC-0-0",
+      "dtstamp": 1737480857527,
       "status": {
         "name": "scheduled"
       },
@@ -1544,6 +1544,73 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
+        "uid": "859",
+        "seq": 0,
+        "tid": 1739898000000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1739898000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1739905200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Stagiunea de mar\u0163i seara (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<p><strong>Recital de pian </strong></p><p><strong>XIAOWEN SHANG </strong></p><p>Program</p><p><strong>Fran&ccedil;ois Couperin<br /></strong>Suita Quartorzi&egrave;me Ordre, &icirc;n re major, din Troisi&egrave;me Livre de Pi&egrave;ces de Clavecin</p><p><strong>Oliver Messiaen / Peter Hill</strong> <br />La Fauvette Passerinette</p><p><strong>Maurice Ravel</strong> <br />Le Tombeau de Couperin</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_678f9fcc17f2920873d6ef9b",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/stagiunea-de-marti-seara-sala-mica-G7dLbQ7E?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "678f9fcc17f2920873d6ef9b",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "678f9fcc17f2920873d6ef9b",
+            "name": "IMGL6019 2",
+            "altText": "IMGL6019 2",
+            "width": 1764,
+            "height": 2048,
+            "size": 198499,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_678f9fcc17f2920873d6ef9b",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BA7A9C_0901_01BA7A9C-1-01BA7B14_859-01BA7A9C-0-0",
+      "dtstamp": 1737480365168,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
         "uid": "729",
         "seq": 0,
         "tid": 1740070800000,
@@ -1736,6 +1803,78 @@
       },
       "sorter": "999_01BA96BC_0901_01BA96BC-1-01BA9734_847-01BA96BC-0-0",
       "dtstamp": 1736633234617,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "858",
+        "seq": 0,
+        "tid": 1740502800000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1740502800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1740510000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Stagiunea de mar\u0163i seara (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<p><strong>Recital de harp\u0103<br /></strong><strong>DARIA BATSCHI<br /></strong>Invitat: <strong>VIKTOR HARTOBANU</strong></p><p>Program</p><p><strong>George Enescu<br /></strong>Allegro de concert</p><p><strong>Bedrich Smetana<br /></strong>Vltava (transcr. de Hans Trnecek)</p><p><strong>Domenico Scarlatti<br /></strong>Sonata &icirc;n fa minor, K. 466<br />Sonata &icirc;n la major, K. 209</p><p><strong>Viktor Hartobanu<br /></strong>Kaua'i '\u014c'\u014d Aspects of a lost voice</p><p><strong>Mikhail Glinka<br /></strong>The Lark</p><p><strong>Gabriel Faur&eacute;<br /></strong>Impromptu</p><p><strong>Ekaterina Walter-K&uuml;hne<br /></strong>Fantezia pe o tem\u0103 din opera Evgheni Oneghin</p><p><strong>C&eacute;sar Franck<br /></strong>Pr&eacute;lude, fugue et variation (transcr. pentru dou\u0103 harpe de Fabrice Pierre)</p><p></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_678f9a9417f2920873d6ed0c",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/stagiunea-de-marti-seara-sala-mica-Kzx0jWzq?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "678f9a9417f2920873d6ed0c",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "678f9a9417f2920873d6ed0c",
+            "name": "image0",
+            "altText": "image0",
+            "width": 3652,
+            "height": 5475,
+            "size": 1349594,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_678f9a9417f2920873d6ed0c",
+            "copyright": {
+              "creator": "DAN CHISOCEANU",
+              "copyright": "SPOTLIHT MEDIA",
+              "source": "IPTC"
+            },
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BAA1FC_0901_01BAA1FC-1-01BAA274_858-01BAA1FC-0-0",
+      "dtstamp": 1737480606549,
       "status": {
         "name": "scheduled"
       },
@@ -2004,6 +2143,73 @@
       },
       "sorter": "999_01BABE1C_0901_01BABE1C-1-01BABE94_789-01BABE1C-0-0",
       "dtstamp": 1736534863686,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "854",
+        "seq": 0,
+        "tid": 1741107600000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1741107600000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1741113000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Concert cameral"
+        },
+        "description": {
+          "text": "<p><strong>Ansamblul Volosi</strong></p><p><span>Muzic\u0103 rock, punk, jazz, muzic\u0103 de film \u0219i ambiental\u0103, interpretat\u0103 la instrumente de coarde</span></p><p><span></span></p><p><span>Concert organizat &icirc;n onoarea actualei pre\u0219edin\u021bii poloneze a Consiliului Uniunii Europene, concertul celebreaz\u0103 Ziua Solidarit\u0103\u021bii Polono-Rom&acirc;ne &icirc;n cadrul Sezonului Cultural POLONIA-ROM&Acirc;NIA 2024-2025.</span></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_678f6af217f2920873d6dcd8",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-cameral-dz0DrKz5?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "678f6af217f2920873d6dcd8",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "678f6af217f2920873d6dcd8",
+            "name": "image003",
+            "altText": "image003",
+            "width": 460,
+            "height": 250,
+            "size": 24685,
+            "masterFormat": "png",
+            "variantFormat": "png",
+            "oldId": "BWC_678f6af217f2920873d6dcd8",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BAC95C_0901_01BAC95C-1-01BAC9B6_854-01BAC95C-0-0",
+      "dtstamp": 1737479792328,
       "status": {
         "name": "scheduled"
       },
@@ -2739,6 +2945,140 @@
       },
       "sorter": "999_01BB28FC_0901_01BB28FC-1-01BB2974_738-01BB28FC-0-0",
       "dtstamp": 1734193502368,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "856",
+        "seq": 0,
+        "tid": 1742749200000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1742749200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1742754600000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital cameral"
+        },
+        "description": {
+          "text": "<div><strong><span>Remus</span> Azoi\u021bei</strong> - vioar\u0103</div><div></div><div><strong>Mihai Ungureanu</strong> - pian</div><div></div><div>Program</div><div></div><div><strong>Ludwig</strong> <b>van Beethoven<br /></b>Sonata nr. 5, &icirc;n fa major, op. 24, &quot;Sonata Prim\u0103verii&quot;</div><div><b> </b></div><div><b>Pablo Sarasate<br /></b>Fantezia &quot;Carmen&quot;</div><div><b> </b></div><div><b>C&eacute;sar Franck<br /></b>Sonata &icirc;n la major</div><div></div><div></div>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66fd2477205890162e5fa51a",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/recital-cameral-434Poy3g?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66fd2477205890162e5fa51a",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66fd2477205890162e5fa51a",
+            "name": "IMAG4105 (1)",
+            "altText": "IMAG4105 (1)",
+            "width": 4000,
+            "height": 3000,
+            "size": 1341799,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66fd2477205890162e5fa51a",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BB343C_0901_01BB343C-1-01BB3496_856-01BB343C-0-0",
+      "dtstamp": 1737479962989,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "855",
+        "seq": 0,
+        "tid": 1742922000000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1742922000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1742927400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Concert cameral"
+        },
+        "description": {
+          "text": "<p><em><strong>Trio Brio</strong></em></p><p><strong>Ion Bogdan \u0218tef\u0103nescu </strong>- flaut</p><p><strong>Mircea Marian </strong> - violoncel</p><p><strong>Clementina Ristea-Ciucu </strong>- pian</p><p>Program</p><p><strong>Astor Piazzolla<br /></strong>Verano Porte&ntilde;o</p><p><strong>Friedrich Kuhlau<br /></strong>Trio &icirc;n sol major, op. 119</p><p><strong>Astor Piazzolla<br /></strong>Oto&ntilde;o Porte&ntilde;o</p><p><strong>Felix Mendelssohn<br /></strong>Trio &icirc;n re minor</p><p><strong>Astor Piazzolla<br /></strong>Invierno Porte&ntilde;o</p><p><strong>Maurice Ravel<br /></strong>Mama mea, g&acirc;sca</p><p><strong>Astor Piazzolla<br /></strong>Primavera Porte&ntilde;a</p><p></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66fbf0c5205890162e5ed261",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-cameral-43gDepne?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66fbf0c5205890162e5ed261",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66fbf0c5205890162e5ed261",
+            "name": "IMAG4096 (1)",
+            "altText": "IMAG4096 (1)",
+            "width": 4000,
+            "height": 3000,
+            "size": 1470175,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66fbf0c5205890162e5ed261",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BB3F7C_0901_01BB3F7C-1-01BB3FD6_855-01BB3F7C-0-0",
+      "dtstamp": 1737480113019,
       "status": {
         "name": "scheduled"
       },
