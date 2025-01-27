@@ -3,341 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "721",
-        "seq": 0,
-        "tid": 1737651600000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1737651600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1737658800000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert vocal-simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>ANDREI BOREIKO</strong></p><p>Solist <br /><strong>ALEXANDER GAVRYLYUK</strong></p><p>Program</p><p><strong>Serghei Prokofiev<br /></strong>Concertul nr. 3, &icirc;n do major, pentru pian \u0219i orchestr\u0103, op. 26</p><p><strong>Dmitri \u0218ostakovici</strong><br />Simfonia nr. 13, &icirc;n si bemol minor, &bdquo; Babi Yar&rdquo;, op. 113</p><p>Solist <br /><strong>TARAS SHTONDA</strong> &ndash; bas</p><p>Dirijorul corului<strong><br />IOSIF ION PRUNNER</strong></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5ecb117e3a71e7fc6c01",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/concert-vocalsimfonic-dz0Djaz5?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5ecb117e3a71e7fc6c01",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5ecb117e3a71e7fc6c01",
-            "name": "boreiko",
-            "altText": "boreiko",
-            "width": 188,
-            "height": 185,
-            "size": 5915,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5ecb117e3a71e7fc6c01",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B9E85C_0901_01B9E85C-1-01B9E8D4_721-01B9E85C-0-0",
-      "dtstamp": 1733951982630,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "722",
-        "seq": 0,
-        "tid": 1737738000000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1737738000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1737745200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert vocal-simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>ANDREI BOREIKO</strong></p><p>Solist <br /><strong>ALEXANDER GAVRYLYUK</strong></p><p>Program</p><p><strong>Serghei Prokofiev<br /></strong>Concertul nr. 3, &icirc;n do major, pentru pian \u0219i orchestr\u0103, op. 26</p><p><strong>Dmitri \u0218ostakovici</strong><br />Simfonia nr. 13, &icirc;n si bemol minor, &bdquo; Babi Yar&rdquo;, op. 113</p><p>Solist <br /><strong>TARAS SHTONDA</strong> &ndash; bas</p><p>Dirijorul corului<strong><br />IOSIF ION PRUNNER</strong></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5ecb117e3a71e7fc6c01",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/concert-vocalsimfonic-G38blY7j?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5ecb117e3a71e7fc6c01",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5ecb117e3a71e7fc6c01",
-            "name": "boreiko",
-            "altText": "boreiko",
-            "width": 188,
-            "height": 185,
-            "size": 5915,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5ecb117e3a71e7fc6c01",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B9EDFC_0901_01B9EDFC-1-01B9EE74_722-01B9EDFC-0-0",
-      "dtstamp": 1733951993887,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "836",
-        "seq": 0,
-        "tid": 1737795600000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1737795600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1737801000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Clasic e fantastic. Cum s\u0103 \u00een\u0163elegem muzica"
-        },
-        "description": {
-          "text": "<p><strong><em>Clasic e fantastic. Cum s\u0103 &icirc;n\u0163elegem muzica</em></strong></p><p><strong><em>V&acirc;rstele flautului</em></strong></p><p><strong>ION BOGDAN \u015eTEF\u0102NESCU</strong> - flaut<br /><strong>CEZAR CAZANOI</strong> - fluier, caval, nai<br /><strong>CLEMENTINA RISTEA-CIUCU</strong> - pian<br />Invita\u0163i<br /><strong>IRINA S&Acirc;RBU</strong> - voce<br /><strong>ANATOL CAZANOI</strong> - \u021bambal<br /><strong>TEODOR CAZANOI</strong> - vioar\u0103</p><p>Program<br /><strong>Johann Sebastian Bach</strong> - Badinerie<br /><strong>Marin Marais</strong> - Le Basque<br /><strong>Antonio Vivlaldi</strong> - Adagio din Concertul &rdquo;Iarna&rdquo;<br /><strong>Georg Friedrich H&auml;ndel</strong> - Intrarea reginei din Sheba<br /><strong>\u2060Dimitrie Cantemir</strong> - Pe\u0219rev<br /><strong>Wolfgang Amadeus Mozart</strong> - Rondo alla Turca<br /><strong>Ludwig van Beethoven</strong> - Mar\u0219 turcesc<br /><strong>Georges Bizet</strong> - Uvertura &rdquo;Carmen&rdquo;<br /><strong>Pablo de Sarasate</strong> - Romanza andaluza<br /><strong>Carol Miculi</strong> - Arii na\u021bionale rom&acirc;ne\u0219ti (Subt o culme de cetate, Arcanul)<br /><strong>\u2060Boris Dubosarschi</strong> - B\u0103tuta<br /><strong>\u2060Grigoras Dinicu</strong> - Hora staccato<br /><strong>Dan Dediu</strong> - Hor\u0103 din Moldova <br /><strong>Tiberiu Brediceanu</strong> - Bucovina<br /><strong>* * *</strong> - Muzic\u0103 tradi\u021bional\u0103 rom&acirc;neasc\u0103 - Hor\u0103 din caval, Cioc&acirc;rlia</p><p>Prezinta <strong>IRINA S&Acirc;RBU</strong></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_677e59e3c1c9522556cc7d6e",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/clasic-e-fantastic-cum-sa-intelegem-muzica-r3OapN7w",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "677e59e3c1c9522556cc7d6e",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "677e59e3c1c9522556cc7d6e",
-            "name": "329a087e2e95dd71ecae7643e9565477_high.webp",
-            "altText": "329a087e2e95dd71ecae7643e9565477_high.webp",
-            "width": 688,
-            "height": 1024,
-            "size": 586171,
-            "masterFormat": "png",
-            "variantFormat": "jpg",
-            "oldId": "BWC_677e59e3c1c9522556cc7d6e",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B9F1BC_0901_01B9F1BC-1-01B9F216_836-01B9F1BC-0-0",
-      "dtstamp": 1736344628205,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "841",
-        "seq": 0,
-        "tid": 1737903600000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1737903600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1737909000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Salonul baroc (Salonul oficial)"
-        },
-        "description": {
-          "text": "<p><strong>Recital de clavecin</strong></p><p>- Inaugurarea clavecinului Neupert/ Hemsch al Filarmonicii &bdquo;George Enescu&rdquo; -</p><p><strong>RALUCA ENEA</strong></p><p>Program</p><p><strong>Johann Sebastian Bach <br /></strong>Preludiu &icirc;n do major din Clavecinul bine temperat I, BWV 846 <br /><em>Allemande - Courante</em> din Suita francez\u0103 nr. 5, &icirc;n sol major, BWV 816</p><p><strong>Domenico Scarlatti <br /></strong>Sonata &icirc;n re minor, K. 1 <br />Sonata &icirc;n re minor, K. 9</p><p><strong>Georg Friedrich H&auml;ndel <br /></strong><em>Andante &ndash; Allegro &ndash; Sarabande &ndash; Gigue &ndash; Passacaille </em>din Suita nr. 7 &icirc;n sol minor, HWV 432</p><p><strong>Fran&ccedil;ois Couperin </strong></p><p>Din Treizi&egrave;me Ordre: <em>Les Lis naissans - Les Roseaux </em></p><p>Din Quatorzi&egrave;me Ordre: <em>Le Rossignol - en - amour - Double du Rossignol - Le Rossignol Vainqueur </em></p><p>Din <em>L'Art de toucher le Clavecin</em>: <em>Pr&eacute;lude 8 </em>(Edition Breitkopf, Anna Linde)</p><p><strong>Jean - Philippe Rameau </strong></p><p>Din Pi&egrave;ces de Clavecin: <em>Pr&eacute;lude </em></p><p>Din Pi&egrave;ces de Clavecin, din Suita &icirc;n mi minor: <em>Allemande - Courante - Le Rappel des Oiseaux - Rigaudon I - Rigaudon II et Double - Musette en Rondeau. </em>Tendrement<em> - Tambourin </em></p><p>Din Nouvelles Suites Pi&egrave;ces de Clavecin, din Suita &icirc;n sol major: <em>Les Tricotets. </em>Rondeau - <em>L</em><em>'</em><em>indiff&eacute;rente </em></p><p>Din &rdquo;Les Indes Galantes &ndash; Ballet reduit &agrave; quatre grands concerts&rdquo;: <em>Air pour les esclaves africains </em></p><p>Din Nouvelles Suites de Pi&egrave;ces de clavecin: <em>Les Sauvages </em></p><p><strong>Antoine Forqueray/ Jean Baptiste Antoine Forqueray <br /></strong>Din colec\u021bia Pi&egrave;ces de viole compos&eacute;es par Mr. Forqueray le P&egrave;re. Mises en Pi&egrave;ces de Clavecin, din Suita nr. 2:<br /><em>La Mandoline &ndash; La du Brei&uuml;il &ndash;</em> <em>La Buisson. Chaconne</em></p><p></p><p></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_677fa137c1c9522556cd7a53",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/salonul-baroc-salonul-oficial-434PED3g?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "677fa137c1c9522556cd7a53",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "677fa137c1c9522556cd7a53",
-            "name": "clavecin.jfif",
-            "altText": "clavecin.jfif",
-            "width": 227,
-            "height": 188,
-            "size": 7394,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_677fa137c1c9522556cd7a53",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B9F8C4_0901_01B9F8C4-1-01B9F91E_841-01B9F8C4-0-0",
-      "dtstamp": 1736421827746,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "808",
-        "seq": 0,
-        "tid": 1737910800000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1737910800000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1737918000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Recital cameral"
-        },
-        "description": {
-          "text": "<p><strong>Cvartetul &quot;Pas de Quatre&quot;<br />MIRCEA LAZ\u0102R</strong> - vioar\u0103<br /><strong>LUCIAN MORARU</strong> - viol\u0103<br /><strong>BOGDAN POSTOLACHE</strong> - violoncel<br /><strong>NICOLAE DUMITRU</strong> - pian</p><p>Program</p><p><strong>Ludwig van Beethoven<br /></strong>Cvartetul cu pian &icirc;n mi bemol major, op. 16</p><p><strong>Robert Schumann<br /></strong>Cvartetul cu pian &icirc;n mi bemol major, op. 47</p><p><strong>Johannes Brahms<br /></strong>Cvartetul cu pian &icirc;n sol minor, op. 25</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_67127664e26a8f325c1d8972",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/recital-cameral-PzXXP2zJ?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "67127664e26a8f325c1d8972",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "67127664e26a8f325c1d8972",
-            "name": "Poster_A3_Concerto_2025-01",
-            "altText": "Poster_A3_Concerto_2025-01",
-            "width": 1126,
-            "height": 1024,
-            "size": 134713,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_67127664e26a8f325c1d8972",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B9F93C_0901_01B9F93C-1-01B9F9B4_808-01B9F93C-0-0",
-      "dtstamp": 1733952003614,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "837",
         "seq": 0,
         "tid": 1737997200000,
@@ -628,10 +293,10 @@
       },
       "content": {
         "summary": {
-          "text": "Bella voce, bella musica"
+          "text": "LEONTINA V\u0102DUVA, C\u0102T\u0102LIN R\u0102DUCANU"
         },
         "description": {
-          "text": "<p><strong>LEONTINA V\u0102DUVA </strong>- sopran\u0103</p><p><strong>C\u0102T\u0102LIN R\u0102DUCANU </strong>- pian, \u021bambal</p><p>Program</p><p><strong>Gioachino Rossini<br /></strong>La danza</p><p><strong>Fernando Obradors</strong><br />El vito</p><p><strong>Giuseppe Verdi<br /></strong>Stornello</p><p><strong>Kurt Weill</strong><br />Speak low<br />Stay Well</p><p><strong>Joseph Kosma<br /></strong>Et puis apr&egrave;s&hellip;</p><p><strong>Edith Piaf<br /></strong>Padam, Padam<br />Mon Dieu<br />Non, je ne regrette rien<br />Milord<br />La foule<br />Hymne &agrave; l&rsquo;amour</p><p><strong>Henry M\u0103lineanu<br /></strong>Nu se poate</p><p><strong>Maria T\u0103nase<br /></strong>C&acirc;ntec de leag\u0103n<br />Cine iube\u0219te \u015fi las\u0103<br />Tulnicu<br />Butelcu\u0163a mea<br />Sanie cu zurg\u0103l\u0103i</p><p></p>"
+          "text": "<p><b>Bella Voce, Bella Musica</b></p><p>Program</p><p><strong>Gioachino Rossini<br /></strong>La danza</p><p><strong>Fernando Obradors</strong><br />El vito</p><p><strong>Giuseppe Verdi<br /></strong>Stornello</p><p><strong>Kurt Weill</strong><br />Speak low<br />Stay Well</p><p><strong>Joseph Kosma<br /></strong>Et puis apr&egrave;s&hellip;</p><p><strong>Edith Piaf<br /></strong>Padam, Padam<br />Mon Dieu<br />Non, je ne regrette rien<br />Milord<br />La foule<br />Hymne &agrave; l&rsquo;amour</p><p><strong>Henry M\u0103lineanu<br /></strong>Nu se poate</p><p><strong>Maria T\u0103nase<br /></strong>C&acirc;ntec de leag\u0103n<br />Cine iube\u0219te \u015fi las\u0103<br />Tulnicu<br />Butelcu\u0163a mea<br />Sanie cu zurg\u0103l\u0103i</p><p></p>"
         },
         "tagset": {
           "tags": {
@@ -641,7 +306,7 @@
         "imageId": "BWC_677e4f5bc1c9522556cc7800",
         "attachments": [],
         "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/bella-voce-bella-musica-03DkmQzg",
+        "customButtonLink": "https://oveit.com/hub/event/leontina-vaduva-catalin-raducanu-03DkmQzg?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "677e4f5bc1c9522556cc7800",
@@ -663,7 +328,7 @@
         ]
       },
       "sorter": "999_01BA263C_0901_01BA263C-1-01BA2696_834-01BA263C-0-0",
-      "dtstamp": 1736342256361,
+      "dtstamp": 1737545980765,
       "status": {
         "name": "scheduled"
       },
@@ -1432,10 +1097,10 @@
       },
       "content": {
         "summary": {
-          "text": "Melodie, Dor, Magie"
+          "text": "RUXANDRA DONOSE, SERGIU TUHU\u021aIU"
         },
         "description": {
-          "text": "<p><strong>RUXANDRA DONOSE </strong>- mezzosopran\u0103</p><p><strong>SERGIU TUHU\u021aIU </strong>- pian</p><p>Program</p><p><strong>Georg Friedrich H&auml;ndel<br /></strong>Lascia ch'io pianga</p><p><strong>Franz Schubert<br /></strong>St&auml;ndchen</p><p><strong>Tiberiu Brediceanu<br /></strong>Bade, pentru ochii t\u0103i</p><p><strong>Gabriel Faur&eacute;<br /></strong>Apr&egrave;s un r&ecirc;ve</p><p><strong>Gioachino Rossini<br /></strong>Canzonetta spagnuola</p><p><strong>Vincenzo Bellini<br /></strong>Vaga Luna</p><p><strong>Doina Badea<br /></strong>C&acirc;nd eram copii odat\u0103</p><p><strong>Victor Herbert<br /></strong>Art Is Calling for Me</p><p><strong>Jean-Jacques Goldman/ C&eacute;line Dion<br /></strong>S'il suffisait d'aimer</p><p><strong>Serge Lama/ Alice Dona<br /></strong>Je suis malade</p><p><strong>Andrew Lloyd Webber<br /></strong>Memory</p><p><strong>Georges Bizet<br /></strong>Habanera</p><p><strong>Florin Bogardo<br /></strong>Tu e\u0219ti prim\u0103vara mea</p>"
+          "text": "<p><strong>Melodie, Dor, Magie</strong></p><p>Program</p><p><strong>Georg Friedrich H&auml;ndel<br /></strong>Lascia ch'io pianga</p><p><strong>Franz Schubert<br /></strong>St&auml;ndchen</p><p><strong>Tiberiu Brediceanu<br /></strong>Bade, pentru ochii t\u0103i</p><p><strong>Gabriel Faur&eacute;<br /></strong>Les Berceaux</p><p><strong>Gioachino Rossini<br /></strong>Canzonetta spagnuola</p><p><strong>Vincenzo Bellini<br /></strong>Vaga Luna</p><p><strong>Doina Badea<br /></strong>C&acirc;nd eram copii odat\u0103</p><p><strong>Victor Herbert<br /></strong>Art Is Calling for Me</p><p><strong>Jean-Jacques Goldman/ C&eacute;line Dion<br /></strong>S'il suffisait d'aimer</p><p><strong>Serge Lama/ Alice Dona<br /></strong>Je suis malade</p><p><strong>Andrew Lloyd Webber<br /></strong>Memory</p><p><strong>Georges Bizet<br /></strong>Habanera</p><p><strong>Florin Bogardo<br /></strong>Tu e\u0219ti prim\u0103vara mea</p>"
         },
         "tagset": {
           "tags": {
@@ -1445,7 +1110,7 @@
         "imageId": "BWC_677e5141c1c9522556cc78c9",
         "attachments": [],
         "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/melodie-dor-magie-m7eDO8nx",
+        "customButtonLink": "https://oveit.com/hub/event/ruxandra-donose-si-sergiu-tuhutiu-m7eDO8nx?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "677e5141c1c9522556cc78c9",
@@ -1467,7 +1132,7 @@
         ]
       },
       "sorter": "999_01BA74FC_0901_01BA74FC-1-01BA7556_835-01BA74FC-0-0",
-      "dtstamp": 1736342647064,
+      "dtstamp": 1737976065623,
       "status": {
         "name": "scheduled"
       },
@@ -1502,7 +1167,7 @@
           "text": "Recital de pian"
         },
         "description": {
-          "text": "<p><strong>ANDREI VIERU</strong></p><p>Program</p><p><strong>Wolfgang Amadeus Mozart</strong> <br />Adagio &icirc;n si minor, KV 540</p><p><strong>Ludwig van Beethoven</strong><br />Varia\u021biuni pe o tem\u0103 de Diabelli, op. 120<br />Bagatele, op. 126</p><p></p><p>Dup\u0103 recital, pianistul va acorda o sesiune de autografe</p>"
+          "text": "<p><strong>ANDREI VIERU</strong></p><p>Program</p><p><strong>Wolfgang Amadeus Mozart</strong> <br />Adagio &icirc;n si minor, KV 540</p><p><strong>Ludwig van Beethoven</strong><br />Varia\u021biuni pe o tem\u0103 de Diabelli, op. 120</p><p><em>&Icirc;n colaborare cu UCIMR</em></p><p><em>Dup\u0103 recital, pianistul va acorda o sesiune de autografe.</em></p><p></p>"
         },
         "tagset": {
           "tags": {
@@ -1534,7 +1199,7 @@
         ]
       },
       "sorter": "999_01BA7A9C_0901_01BA7A9C-1-01BA7B14_825-01BA7A9C-0-0",
-      "dtstamp": 1737034151871,
+      "dtstamp": 1737627938451,
       "status": {
         "name": "scheduled"
       },
@@ -2588,8 +2253,10 @@
         },
         "imageId": "BWC_66fd2477205890162e5fa51a",
         "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/recital-cameral-X3ZvYx3x?language=ro",
         "noDetail": false,
-        "version": 2,
+        "version": 1,
         "imageIdNg": "66fd2477205890162e5fa51a",
         "imageSets": [
           {
@@ -2609,7 +2276,7 @@
         ]
       },
       "sorter": "999_01BAF65C_0901_01BAF65C-1-01BAF6D4_853-01BAF65C-0-0",
-      "dtstamp": 1737112272907,
+      "dtstamp": 1737568224989,
       "status": {
         "name": "scheduled"
       },
@@ -4128,7 +3795,7 @@
         "imageId": "BWC_66aa64d4117e3a71e7fc7264",
         "attachments": [],
         "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/concert-imfonic-03DkDXzg?language=ro",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-03DkDXzg?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa64d4117e3a71e7fc7264",
@@ -4150,7 +3817,7 @@
         ]
       },
       "sorter": "999_01BC3C60_0901_01BC3C60-1-01BC3CD8_752-01BC3C60-0-0",
-      "dtstamp": 1734201984731,
+      "dtstamp": 1737548215214,
       "status": {
         "name": "scheduled"
       },
@@ -4262,7 +3929,7 @@
         "imageId": "BWC_66aa6510117e3a71e7fc7297",
         "attachments": [],
         "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/concert-imfonic-6zqQ8pzl?language=ro",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-6zqQ8pzl?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa6510117e3a71e7fc7297",
@@ -4284,7 +3951,7 @@
         ]
       },
       "sorter": "999_01BC63C0_0901_01BC63C0-1-01BC6438_754-01BC63C0-0-0",
-      "dtstamp": 1734202442570,
+      "dtstamp": 1737548270217,
       "status": {
         "name": "scheduled"
       },
@@ -4396,7 +4063,7 @@
         "imageId": "BWC_66aa655d117e3a71e7fc7335",
         "attachments": [],
         "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/concert-imfonic-r3OaAb7w?language=ro",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-r3OaAb7w?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa655d117e3a71e7fc7335",
@@ -4418,7 +4085,7 @@
         ]
       },
       "sorter": "999_01BC8B20_0901_01BC8B20-1-01BC8B98_756-01BC8B20-0-0",
-      "dtstamp": 1734210744795,
+      "dtstamp": 1737548106864,
       "status": {
         "name": "scheduled"
       },
@@ -4731,7 +4398,7 @@
         "imageId": "BWC_66aa65e2117e3a71e7fc7368",
         "attachments": [],
         "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/concert-imfonic-jz6VpQzw?language=ro",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-jz6VpQzw?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa65e2117e3a71e7fc7368",
@@ -4753,7 +4420,7 @@
         ]
       },
       "sorter": "999_01BCD9E0_0901_01BCD9E0-1-01BCDA58_760-01BCD9E0-0-0",
-      "dtstamp": 1734211835642,
+      "dtstamp": 1737548346206,
       "status": {
         "name": "scheduled"
       },
@@ -4865,7 +4532,7 @@
         "imageId": "BWC_66aa6621117e3a71e7fc739b",
         "attachments": [],
         "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/concert-imfonic-W3AWv17L?language=ro",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-W3AWv17L",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa6621117e3a71e7fc739b",
@@ -4887,7 +4554,7 @@
         ]
       },
       "sorter": "999_01BD0140_0901_01BD0140-1-01BD01B8_762-01BD0140-0-0",
-      "dtstamp": 1734212311645,
+      "dtstamp": 1737906512164,
       "status": {
         "name": "scheduled"
       },
@@ -4999,7 +4666,7 @@
         "imageId": "BWC_66aa6659117e3a71e7fc73ea",
         "attachments": [],
         "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/concert-imfonic-x3G29xz0?language=ro",
+        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-x3G29xz0?language=ro",
         "noDetail": false,
         "version": 1,
         "imageIdNg": "66aa6659117e3a71e7fc73ea",
@@ -5021,7 +4688,7 @@
         ]
       },
       "sorter": "999_01BD28A0_0901_01BD28A0-1-01BD2918_764-01BD28A0-0-0",
-      "dtstamp": 1734212659364,
+      "dtstamp": 1737906603047,
       "status": {
         "name": "scheduled"
       },
