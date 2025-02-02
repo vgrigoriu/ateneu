@@ -3,274 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "837",
-        "seq": 0,
-        "tid": 1737997200000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1737997200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1738004400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Stagiunea de jazz (Sala mic\u0103)"
-        },
-        "description": {
-          "text": "<p><tkfmedia data-tkf-mediatype=\"image\" data-tkf-id=\"677e5e6fc1c9522556cc7faf\" data-tkf-style=\"align:left;width:295px;height:190px\" data-tkf-featured=\"true\"></tkfmedia></p><p><strong>R\u0103zvan Florescu Quartet </strong><br /><strong>Andrei Petrache</strong> - pian<br /><strong>Mike Alex</strong> - contrabas<br /><strong>Philip Goron</strong> - tobe<br /><strong>R\u0103zvan Florescu</strong> - vibrafon<br />&Icirc;n program, compozi\u0163ii de R\u0103zvan Florescu de pe viitorul album al cvartetului, Sketches</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_677e5e6fc1c9522556cc7faf",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/stagiunea-de-jazz-sala-mica-6zqQ5Ezl",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "677e5e6fc1c9522556cc7faf",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "677e5e6fc1c9522556cc7faf",
-            "name": "cap sus 2.JPG",
-            "altText": "cap sus 2.JPG",
-            "width": 2048,
-            "height": 1319,
-            "size": 202160,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_677e5e6fc1c9522556cc7faf",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01B9FEDC_0901_01B9FEDC-1-01B9FF54_837-01B9FEDC-0-0",
-      "dtstamp": 1736343172992,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "850",
-        "seq": 0,
-        "tid": 1738083600000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1738083600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1738089000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Stagiunea de mar\u0163i seara (Sala mic\u0103)"
-        },
-        "description": {
-          "text": "<p><strong>Recital de pian</strong><br /><strong>INYA CUTOVA</strong></p><p>Program</p><p><strong>Ludwig van Beethoven</strong><br />Sonata nr. 21, &icirc;n do major, op. 53, &quot;Waldstein&quot;</p><p><strong>Fr&eacute;d&eacute;ric Chopin</strong><br />Sonata nr. 2, &icirc;n si bemol minor, op. 35</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_67880a8417f2920873d2d909",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/stagiunea-de-marti-seara-sala-mica-G38bNR7j?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "67880a8417f2920873d2d909",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "67880a8417f2920873d2d909",
-            "name": "inya cutova",
-            "altText": "inya cutova",
-            "width": 1796,
-            "height": 1831,
-            "size": 219775,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_67880a8417f2920873d2d909",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01BA047C_0901_01BA047C-1-01BA04D6_850-01BA047C-0-0",
-      "dtstamp": 1736973290093,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "723",
-        "seq": 0,
-        "tid": 1738256400000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1738256400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1738263600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert vocal-simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>ALEXANDRE BLOCH</strong></p><p>Solist <br /><strong>VALENTIN R\u0102DU\u021aIU</strong></p><p>Program</p><p><strong>Anatol Vieru</strong><br />Psalm</p><p><strong>Ernest Bloch</strong><br />Schelomo</p><p><strong>Leonard Bernstein</strong><br />Simfonia nr. 3, &bdquo; Kaddish&rdquo;</p><p>Solist\u0103 <br /><strong>ANA MARIA LABIN</strong></p><p>Naratoare <br /><strong>ANA ULARU</strong></p><p>Dirijorul corului<br /><strong>IOSIF ION PRUNNER</strong></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5f2c117e3a71e7fc6c59",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/concert-vocalsimfonic-434Pjk3g?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5f2c117e3a71e7fc6c59",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5f2c117e3a71e7fc6c59",
-            "name": "bernstein",
-            "altText": "bernstein",
-            "width": 198,
-            "height": 254,
-            "size": 9413,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5f2c117e3a71e7fc6c59",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01BA0FBC_0901_01BA0FBC-1-01BA1034_723-01BA0FBC-0-0",
-      "dtstamp": 1733952011621,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "724",
-        "seq": 0,
-        "tid": 1738342800000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1738342800000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1738350000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert vocal-simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>ALEXANDRE BLOCH</strong></p><p>Solist <br /><strong>VALENTIN R\u0102DU\u021aIU</strong></p><p>Program</p><p><strong>Anatol Vieru</strong><br />Psalm</p><p><strong>Ernest Bloch</strong><br />Schelomo</p><p><strong>Leonard Bernstein</strong><br />Simfonia nr. 3, &bdquo; Kaddish&rdquo;</p><p>Solist\u0103 <br /><strong>ANA MARIA LABIN</strong></p><p>Naratoare <br /><strong>ANA ULARU</strong></p><p>Dirijorul corului<br /><strong>IOSIF ION PRUNNER</strong></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5f46117e3a71e7fc6c6a",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/concert-vocalsimfonic-5zJXqRnQ?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5f46117e3a71e7fc6c6a",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5f46117e3a71e7fc6c6a",
-            "name": "bernstein",
-            "altText": "bernstein",
-            "width": 198,
-            "height": 254,
-            "size": 9413,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5f46117e3a71e7fc6c6a",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01BA155C_0901_01BA155C-1-01BA15D4_724-01BA155C-0-0",
-      "dtstamp": 1733952019036,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "834",
         "seq": 0,
         "tid": 1738602000000,
@@ -941,6 +673,73 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
+        "uid": "861",
+        "seq": 0,
+        "tid": 1739610000000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1739610000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1739615400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Clasic e fantastic. Cum s\u0103 \u00een\u021belegem muzica"
+        },
+        "description": {
+          "text": "<h2><strong>Musorgski - </strong><strong>Tablouri dintr-o expozi\u021bie</strong></h2><div></div><div><strong>Bucharest Wind Ensemble</strong></div><div></div><div><strong>Ioana Bala\u0219a</strong> - flaut</div><div><strong>Valentin Ghita </strong>- oboi</div><div><strong>Flaviu Ludu\u0219an</strong> - clarinet</div><div><strong>\u0218tefan Danifeld</strong> - corn</div><div><strong>Ionu\u021b Mardare</strong> - fagot</div><div></div><div>Prezint\u0103 <strong>Irina S&acirc;rbu</strong></div>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66ffb52d205890162e616f36",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/clasic-e-fantastic-cum-sa-intelegem-muzica-j3YVEDnv?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66ffb52d205890162e616f36",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66ffb52d205890162e616f36",
+            "name": "IMAG4119",
+            "altText": "IMAG4119",
+            "width": 4000,
+            "height": 3000,
+            "size": 1064818,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66ffb52d205890162e616f36",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BA67DC_0901_01BA67DC-1-01BA6836_861-01BA67DC-0-0",
+      "dtstamp": 1738250302554,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
         "uid": "857",
         "seq": 0,
         "tid": 1739638800000,
@@ -1301,7 +1100,7 @@
           "text": "Concert simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>ROBERTO FOR&Eacute;S-VESES</strong></p><p>Solist <br /><strong>ALEXANDRE THARAUD </strong></p><div>Program</div><div></div><div><strong>Joseph Haydn</strong><br />Simfonia nr. 85, &icirc;n si bemol major, &ldquo;Regina&rdquo;</div><div></div><div><span><strong>Ludwig van Beethoven<br /></strong>Concertul nr. 3, &icirc;n do minor, pentru pian \u0219i orchestr\u0103, op. 37 </span></div><div><span></span></div><div><span><strong>Alin Chel\u0103rescu<br /></strong>Oblatio lucis - p.a.a.</span></div><div><span><strong></strong></span></div><div><span><strong>Robert Schumann<br /></strong>Simfonia nr. 4, &icirc;n re minor, op. 120 </span></div>"
+          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>ROBERTO FOR&Eacute;S-VESES</strong></p><p>Solist <br /><strong>ALEXANDRE THARAUD </strong></p><div>Program</div><div></div><div><strong>Alin Chel\u0103rescu<br /></strong>Oblatio lucis - p.a.a.</div><div><span><strong></strong></span></div><div><span><strong>Ludwig van Beethoven<br /></strong>Concertul nr. 3, &icirc;n do minor, pentru pian \u0219i orchestr\u0103, op. 37 </span></div><div><span></span></div><div><span><strong>Robert Schumann<br /></strong>Simfonia nr. 4, &icirc;n re minor, op. 120 </span></div>"
         },
         "tagset": {
           "tags": {
@@ -1333,7 +1132,7 @@
         ]
       },
       "sorter": "999_01BA85DC_0901_01BA85DC-1-01BA8654_729-01BA85DC-0-0",
-      "dtstamp": 1734181609862,
+      "dtstamp": 1738057252580,
       "status": {
         "name": "scheduled"
       },
@@ -1368,7 +1167,7 @@
           "text": "Concert simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>ROBERTO FOR&Eacute;S-VESES</strong></p><p>Solist <br /><strong>ALEXANDRE THARAUD </strong></p><div>Program</div><div></div><div><strong>Joseph Haydn</strong><br />Simfonia nr. 85, &icirc;n si bemol major, &ldquo;Regina&rdquo;</div><div></div><div><span><strong>Ludwig van Beethoven<br /></strong>Concertul nr. 3, &icirc;n do minor, pentru pian \u0219i orchestr\u0103, op. 37 </span></div><div><span></span></div><div><span><strong>Alin Chel\u0103rescu<br /></strong>Oblatio lucis - p.a.a.</span></div><div><span><strong></strong></span></div><div><span><strong>Robert Schumann<br /></strong>Simfonia nr. 4, &icirc;n re minor, op. 120 </span></div>"
+          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>ROBERTO FOR&Eacute;S-VESES</strong></p><p>Solist <br /><strong>ALEXANDRE THARAUD </strong></p><div>Program</div><div></div><div><strong>Alin Chel\u0103rescu<br /></strong>Oblatio lucis - p.a.a.</div><div><span><strong></strong></span></div><div><span><strong>Ludwig van Beethoven<br /></strong>Concertul nr. 3, &icirc;n do minor, pentru pian \u0219i orchestr\u0103, op. 37 </span></div><div><span></span></div><div><span><strong>Robert Schumann<br /></strong>Simfonia nr. 4, &icirc;n re minor, op. 120</span></div>"
         },
         "tagset": {
           "tags": {
@@ -1400,7 +1199,74 @@
         ]
       },
       "sorter": "999_01BA8B7C_0901_01BA8B7C-1-01BA8BF4_730-01BA8B7C-0-0",
-      "dtstamp": 1734182313901,
+      "dtstamp": 1738057269169,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "860",
+        "seq": 0,
+        "tid": 1740299400000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1740299400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1740303000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Muzica pe \u00cen\u021belesul Tuturor - S\u0103 fie ritm!"
+        },
+        "description": {
+          "text": "<p><strong>Bucharest Percussion Ensemble</strong></p><p><strong>Iulia Bitta, Ioana Ailenei<br />Alina Trifu, Vlad Polgar<br />\u0218tefan Ailenei, Vlad Macsimov<br />Mihai M&icirc;nzar, Alexandru Stroe</strong></p><p>Comentariu<strong><br />MIHAI COJOCARU</strong></p><p>Program</p><p><strong>Steve Reich</strong><br />Music for pieces of wood</p><p><strong>Gene Koshinski</strong><br />Dance of the drums</p><p><strong>Nebojsa Jovan Zivkovic</strong><br />Trio per Uno<br /><strong></strong></p><p><strong>Third Coast Percussion</strong><br />Niagara<br /><strong></strong></p><p><strong>Ivan Trevino</strong><br />Catching shadows<br /><strong></strong></p><p><strong>Emmanuel S&eacute;journ&eacute;</strong><br />Calienta</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66ec08c06e1e462de2dae16b",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/muzica-pe-ntelesul-tuturor-sa-fie-ritm-W3AWRk7L?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66ec08c06e1e462de2dae16b",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66ec08c06e1e462de2dae16b",
+            "name": "IMAG4110",
+            "altText": "IMAG4110",
+            "width": 4000,
+            "height": 3000,
+            "size": 1275034,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66ec08c06e1e462de2dae16b",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BA94BE_0901_01BA94BE-1-01BA94FA_860-01BA94BE-0-0",
+      "dtstamp": 1738238256535,
       "status": {
         "name": "scheduled"
       },

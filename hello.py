@@ -146,6 +146,7 @@ def standardize(details: str) -> str:
         .replace("<p><strong> </strong></p>", "")
         .replace("<div></div>", "")
         .replace("<p></p>", "")
+        .replace("op. 120 </span></div>", "op. 120</span></div>")
     )
 
 
