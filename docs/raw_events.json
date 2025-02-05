@@ -3,140 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "834",
-        "seq": 0,
-        "tid": 1738602000000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1738602000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1738607400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "LEONTINA V\u0102DUVA, C\u0102T\u0102LIN R\u0102DUCANU"
-        },
-        "description": {
-          "text": "<p><b>Bella Voce, Bella Musica</b></p><p>Program</p><p><strong>Gioachino Rossini<br /></strong>La danza</p><p><strong>Fernando Obradors</strong><br />El vito</p><p><strong>Giuseppe Verdi<br /></strong>Stornello</p><p><strong>Kurt Weill</strong><br />Speak low<br />Stay Well</p><p><strong>Joseph Kosma<br /></strong>Et puis apr&egrave;s&hellip;</p><p><strong>Edith Piaf<br /></strong>Padam, Padam<br />Mon Dieu<br />Non, je ne regrette rien<br />Milord<br />La foule<br />Hymne &agrave; l&rsquo;amour</p><p><strong>Henry M\u0103lineanu<br /></strong>Nu se poate</p><p><strong>Maria T\u0103nase<br /></strong>C&acirc;ntec de leag\u0103n<br />Cine iube\u0219te \u015fi las\u0103<br />Tulnicu<br />Butelcu\u0163a mea<br />Sanie cu zurg\u0103l\u0103i</p><p></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_677e4f5bc1c9522556cc7800",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/leontina-vaduva-catalin-raducanu-03DkmQzg?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "677e4f5bc1c9522556cc7800",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "677e4f5bc1c9522556cc7800",
-            "name": "Bella-voce,-bella-musica_Ateneu_web",
-            "altText": "Bella-voce,-bella-musica_Ateneu_web",
-            "width": 1200,
-            "height": 1699,
-            "size": 219221,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_677e4f5bc1c9522556cc7800",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01BA263C_0901_01BA263C-1-01BA2696_834-01BA263C-0-0",
-      "dtstamp": 1737545980765,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "851",
-        "seq": 0,
-        "tid": 1738688400000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1738688400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1738695600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Stagiunea de mar\u0163i seara (Sala mic\u0103)"
-        },
-        "description": {
-          "text": "<p><strong>Lovin' the Wind</strong><br /><strong>IOANA BALA\u0218A</strong> - flaut<br /><strong>DANIEL DASC\u0102LU</strong> - pian</p><p>Program</p><p><strong>Lili Boulanger </strong><br />D&rsquo;un matin de printemps</p><p><strong>Carmen Petra-Basacopol </strong><br />Suita pentru flaut \u0219i pian</p><p><strong>Germaine Tailleferre </strong><br />Pastorale</p><p><strong>Johann Sebastian Bach </strong><br />Sonata &icirc;n mi bemol major pentru flaut \u0219i pian, BWV 1031</p><p><strong>George Enescu </strong><br />Cantabile \u0219i Presto</p><p><strong>Mieczys\u0142aw Weinberg </strong><br />Cinci piese pentru flaut \u0219i pian</p><p><strong>B&eacute;la Bart&oacute;k </strong><br />\u015ease dansuri rom&acirc;ne\u0219ti</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_67880bb117f2920873d2dd47",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/stagiunea-de-marti-seara-sala-mica-5zJXN5nQ?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "67880bb117f2920873d2dd47",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "67880bb117f2920873d2dd47",
-            "name": "Ioana Bala\u0219a",
-            "altText": "Ioana Bala\u0219a",
-            "width": 977,
-            "height": 841,
-            "size": 64209,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_67880bb117f2920873d2dd47",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01BA2BDC_0901_01BA2BDC-1-01BA2C54_851-01BA2BDC-0-0",
-      "dtstamp": 1736973563450,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "842",
         "seq": 0,
         "tid": 1738774800000,
@@ -1343,6 +1209,73 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
+        "uid": "862",
+        "seq": 0,
+        "tid": 1740416400000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1740416400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1740421800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Stagiunea de jazz (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<h3 style=\"font-weight: 400;\"><em><strong>Love&rsquo;s strings</strong></em></h3><p style=\"font-weight: 400;\"><strong>Luiza Zan &amp; Muse Quartet</strong></p><p style=\"font-weight: 400;\"><span>Luiza Zan \u0219i Muse Quartet v\u0103 invit\u0103 s\u0103 fi\u021bi martorii iubirii c&acirc;ntate de corzi vocale acompaniate de cvartet de coarde, un concert alc\u0103tuit dintr-o culegere de piese originale \u0219i piese din vastul repertoriu pe tema iubirii, trec&acirc;nd prin folk britanic, jazz american \u0219i compozi\u021bii semnate \u0219i aranjate pentru Muse Quartet de Luiza.</span></p><p style=\"font-weight: 400;\">Concert organizat &icirc;n colaborare cu UCIMR</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66ffbba7205890162e6171c3",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/stagiunea-de-jazz-sala-mica-03Dko0zg?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66ffbba7205890162e6171c3",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66ffbba7205890162e6171c3",
+            "name": "IMAG4116",
+            "altText": "IMAG4116",
+            "width": 4000,
+            "height": 3000,
+            "size": 1462384,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66ffbba7205890162e6171c3",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BA9C5C_0901_01BA9C5C-1-01BA9CB6_862-01BA9C5C-0-0",
+      "dtstamp": 1738589543592,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
         "uid": "858",
         "seq": 0,
         "tid": 1740502800000,
@@ -1741,6 +1674,73 @@
       },
       "sorter": "999_01BAC95C_0901_01BAC95C-1-01BAC9B6_854-01BAC95C-0-0",
       "dtstamp": 1737479792328,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "863",
+        "seq": 0,
+        "tid": 1741107600000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1741107600000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1741114800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Stagiunea de mar\u0163i seara (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<p><strong>SOFIA BUTARU</strong> - vioar\u0103<br /><strong>DANIELA COLCERIU</strong> - pian</p><p>Program<br /><strong>B&eacute;la Bart&oacute;k</strong><br />Dansuri rom&acirc;ne\u0219ti</p><p><strong>Fritz Kreisler</strong><br />La Gitana<br />Sch&ouml;n Rosmarin<br />Liebesleid<br />Liebesfreud<br />Preludiu \u015fi allegro</p><p><strong>Carlos Gardel</strong><br />Por una cabeza</p><p><strong>George Enescu</strong><br />Impromptu concertant<br />Balada</p><p><strong>Manuel de Falla</strong><br />Dans spaniol</p><p><strong>Pablo de Sarasate</strong><br />Romanza Andaluza<br />Introducere \u0219i Tarantela</p><p><strong>Jules Massenet</strong> <br />Medita\u021bia</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_67a0c3a14b43332f7ccbe73c",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/stagiunea-de-marti-seara-sala-mica-4392e2nv?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "67a0c3a14b43332f7ccbe73c",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "67a0c3a14b43332f7ccbe73c",
+            "name": "Sofia Butaru-1_page-0001",
+            "altText": "Sofia Butaru-1_page-0001",
+            "width": 1241,
+            "height": 2054,
+            "size": 213803,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_67a0c3a14b43332f7ccbe73c",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BAC95C_0901_01BAC95C-1-01BAC9D4_863-01BAC95C-0-0",
+      "dtstamp": 1738596285862,
       "status": {
         "name": "scheduled"
       },
@@ -2277,6 +2277,73 @@
       },
       "sorter": "999_01BB019C_0901_01BB019C-1-01BB0214_736-01BB019C-0-0",
       "dtstamp": 1734192432625,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "864",
+        "seq": 0,
+        "tid": 1742317200000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1742317200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1742324400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Stagiunea de mar\u0163i seara (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<p><strong>Recital instrumental</strong></p><p><strong>Hanna Adriana Poptean</strong> &ndash; vioar\u0103</p><p><strong>Antonio-Alexandru T\u0103r\u0103u</strong> &ndash; clarinet</p><p><strong>Vlad Ober\u0219terescu-H\u0103r\u0219ian</strong> &ndash; clarinet</p><p><strong>Emilia Popovici</strong> &ndash; pian</p><p><strong> Melita Neag</strong> &ndash; pian</p><p></p><p>Program</p><p><strong>Giuseppe Tartini</strong> <br />Sonata &icirc;n sol minor Didona Abbandonata (Affettuoso -Presto)</p><p><strong>Gioachino Rossini</strong> <br />Introducere, Tem\u0103 cu Varia\u021biuni pentru clarinet \u0219i pian</p><p><strong>Francis Poulenc</strong> <br />Sonata pentru clarinet \u0219i pian (Romanza &ndash; Allegro con fuoco)</p><p><strong>Jean Fran&ccedil;aix</strong> <br />Tem\u0103 cu Varia\u021biuni pentru clarinet \u0219i pian</p><p><strong>Luigi Bassi</strong> <br />Fantasia di concerto sopra motivi del Rigoletto</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_662a3c7c64089252d9f395f8",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/stagiunea-de-marti-seara-sala-mica-bn1lae3B?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "662a3c7c64089252d9f395f8",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "662a3c7c64089252d9f395f8",
+            "name": "IMAG4134 (1)",
+            "altText": "IMAG4134 (1)",
+            "width": 4000,
+            "height": 3000,
+            "size": 1768514,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_662a3c7c64089252d9f395f8",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BB181C_0901_01BB181C-1-01BB1894_864-01BB181C-0-0",
+      "dtstamp": 1738596469831,
       "status": {
         "name": "scheduled"
       },
