@@ -22,14 +22,11 @@ def generate_calendar_data(events: List["Event"], year: int, month: int) -> Dict
         for scheduling in event.schedulings:
             date = scheduling.date
             if date.year == year and date.month == month:
-                # Add composers to the title if they exist
-                display_title = event.title
-                if event.composers:
-                    display_title = f"{display_title} ({', '.join(event.composers)})"
                 events_by_date[date.day].append({
                     'id': f"event-{event.id}",
                     'time': date.strftime('%H:%M'),
-                    'title': display_title
+                    'title': event.title,
+                    'composers': event.composers
                 })
 
     # Generate calendar weeks
