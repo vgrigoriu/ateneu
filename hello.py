@@ -1,13 +1,52 @@
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import datetime, timedelta
 import json
 import locale
 import sys
-from typing import Optional
+from typing import Optional, List, Dict
+import calendar
+from collections import defaultdict
 
 from bs4 import BeautifulSoup, Tag
 import chevron
 import requests
+
+
+def generate_calendar_data(events: List["Event"], year: int, month: int) -> Dict:
+    """Generate calendar data for a specific month."""
+    cal = calendar.Calendar(firstweekday=calendar.MONDAY)
+    
+    # Create a mapping of dates to events
+    events_by_date = defaultdict(list)
+    for event in events:
+        for scheduling in event.schedulings:
+            date = scheduling.date
+            if date.year == year and date.month == month:
+                events_by_date[date.day].append({
+                    'id': f"event-{event.id}",
+                    'time': date.strftime('%H:%M'),
+                    'title': event.title
+                })
+
+    # Generate calendar weeks
+    weeks = []
+    for week in cal.monthdays2calendar(year, month):
+        days = []
+        for day_num, _ in week:
+            if day_num == 0:
+                days.append({'day': None, 'events': []})
+            else:
+                days.append({
+                    'day': day_num,
+                    'events': events_by_date[day_num]
+                })
+        weeks.append({'days': days})
+
+    return {
+        'month_name': calendar.month_name[month],
+        'year': year,
+        'weeks': weeks
+    }
 
 
 def main():
@@ -40,11 +79,37 @@ def main():
                 event.schedulings.append(next_event.schedulings[0])
                 parsed_events.pop(i + 1)
 
+    # Generate main index page
     with open("index.mustache", "r") as f:
         result = chevron.render(f, {"events": parsed_events})
 
     with open("docs/index.html", "w") as f:
         f.write(result)
+
+    # Generate calendar pages
+    # Get unique months from events
+    months = set()
+    for event in parsed_events:
+        for scheduling in event.schedulings:
+            months.add((scheduling.date.year, scheduling.date.month))
+
+    # Generate a calendar page for each month
+    first_month = True
+    for year, month in sorted(months):
+        calendar_data = generate_calendar_data(parsed_events, year, month)
+        
+        with open("calendar.mustache", "r") as f:
+            calendar_html = chevron.render(f, calendar_data)
+        
+        output_file = f"docs/calendar_{year}_{month:02d}.html"
+        with open(output_file, "w") as f:
+            f.write(calendar_html)
+
+        # Make the first month the default calendar page
+        if first_month:
+            with open("docs/calendar.html", "w") as f:
+                f.write(calendar_html)
+            first_month = False
 
 
 def download_events_data():
@@ -87,9 +152,10 @@ def parse_event(event_data):
     title = standardize_title(content["summary"]["text"])
     description = standardize(content["description"]["text"])
     tickets_url = content["customButtonLink"] if "customButtonLink" in content else None
-    print(f"{title} {event_start} {tickets_url}", file=sys.stderr)
+    eid = event_data["eid"]
+    event_id = f"{eid['uid']}-{eid['seq']}-{eid['tid']}-{eid['rid']}"
 
-    return Event([Scheduling(tickets_url, event_start)], title, description, img)
+    return Event(event_id, [Scheduling(tickets_url, event_start)], title, description, img)
 
 
 @dataclass(frozen=True)
@@ -162,6 +228,7 @@ class Scheduling:
 
 @dataclass(frozen=True)
 class Event:
+    id: str
     schedulings: list[Scheduling]
     title: str
     details: str

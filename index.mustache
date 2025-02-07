@@ -4,17 +4,20 @@
 <head>
     <meta charset='utf-8'>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Stagiunea Filarmonicii „George Enescu”</title>
+    <title>Stagiunea Filarmonicii „George Enescu"</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
     <header>
-        <h1>Stagiunea Filarmonicii <em>„George&nbsp;Enescu”</em></h1>
+        <h1>Stagiunea Filarmonicii <em>„George&nbsp;Enescu"</em></h1>
+        <nav style="text-align: center; margin: 20px;">
+            <a href="calendar.html">View Calendar</a>
+        </nav>
     </header>
     <main>
         {{#events}}
-        <section>
+        <section id="event-{{id}}">
             <h2>{{{title}}}</h2>
             <img src='{{image.src}}' alt='{{image.alt}}' />
             <p>

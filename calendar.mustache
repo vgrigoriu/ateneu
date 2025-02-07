@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Calendar - Stagiunea Filarmonicii „George Enescu"</title>
+    <style>
+        .calendar {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            gap: 5px;
+            margin: 20px;
+        }
+        .calendar-header {
+            font-weight: bold;
+            text-align: center;
+            padding: 10px;
+            background-color: #f0f0f0;
+        }
+        .calendar-day {
+            border: 1px solid #ddd;
+            min-height: 100px;
+            padding: 5px;
+        }
+        .calendar-day.empty {
+            background-color: #f9f9f9;
+        }
+        .event {
+            margin: 5px 0;
+            font-size: 0.9em;
+        }
+        .event a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        .event a:hover {
+            text-decoration: underline;
+        }
+        .month-nav {
+            text-align: center;
+            margin: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Stagiunea Filarmonicii „George Enescu"</h1>
+    <div class="month-nav">
+        <h2>{{month_name}} {{year}}</h2>
+    </div>
+    <div class="calendar">
+        <div class="calendar-header">Luni</div>
+        <div class="calendar-header">Marți</div>
+        <div class="calendar-header">Miercuri</div>
+        <div class="calendar-header">Joi</div>
+        <div class="calendar-header">Vineri</div>
+        <div class="calendar-header">Sâmbătă</div>
+        <div class="calendar-header">Duminică</div>
+        
+        {{#weeks}}
+            {{#days}}
+                <div class="calendar-day {{^day}}empty{{/day}}">
+                    {{#day}}
+                        <div class="day-number">{{day}}</div>
+                        {{#events}}
+                            <div class="event">
+                                <a href="index.html#{{id}}">{{time}} {{title}}</a>
+                            </div>
+                        {{/events}}
+                    {{/day}}
+                </div>
+            {{/days}}
+        {{/weeks}}
+    </div>
+    <footer>
+        <p style="text-align: center;">
+            <a href="index.html">View all events</a> | 
+            <a href="raw_events.json">Raw data</a>
+        </p>
+    </footer>
+</body>
+</html> 
