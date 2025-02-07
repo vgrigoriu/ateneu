@@ -93,23 +93,18 @@ def main():
         for scheduling in event.schedulings:
             months.add((scheduling.date.year, scheduling.date.month))
 
-    # Generate a calendar page for each month
-    first_month = True
+    # Generate calendar data for all months
+    all_months_data = []
     for year, month in sorted(months):
         calendar_data = generate_calendar_data(parsed_events, year, month)
-        
-        with open("calendar.mustache", "r") as f:
-            calendar_html = chevron.render(f, calendar_data)
-        
-        output_file = f"docs/calendar_{year}_{month:02d}.html"
-        with open(output_file, "w") as f:
-            f.write(calendar_html)
+        all_months_data.append(calendar_data)
 
-        # Make the first month the default calendar page
-        if first_month:
-            with open("docs/calendar.html", "w") as f:
-                f.write(calendar_html)
-            first_month = False
+    # Generate a single calendar page with all months
+    with open("calendar.mustache", "r") as f:
+        calendar_html = chevron.render(f, {"months": all_months_data})
+    
+    with open("docs/calendar.html", "w") as f:
+        f.write(calendar_html)
 
 
 def download_events_data():

@@ -43,37 +43,46 @@
         h1 {
             text-align: center;
         }
+        .month-container {
+            margin-bottom: 40px;
+        }
     </style>
 </head>
 <body>
     <h1>Stagiunea Filarmonicii „George Enescu"</h1>
-    <div class="month-nav">
-        <h2>{{month_name}} {{year}}</h2>
+    
+    {{#months}}
+    <div class="month-container">
+        <div class="month-nav">
+            <h2>{{month_name}} {{year}}</h2>
+        </div>
+        <div class="calendar">
+            <div class="calendar-header">Luni</div>
+            <div class="calendar-header">Marți</div>
+            <div class="calendar-header">Miercuri</div>
+            <div class="calendar-header">Joi</div>
+            <div class="calendar-header">Vineri</div>
+            <div class="calendar-header">Sâmbătă</div>
+            <div class="calendar-header">Duminică</div>
+            
+            {{#weeks}}
+                {{#days}}
+                    <div class="calendar-day {{^day}}empty{{/day}}">
+                        {{#day}}
+                            <div class="day-number">{{day}}</div>
+                            {{#events}}
+                                <div class="event">
+                                    <a href="index.html#{{id}}">{{time}} {{title}}</a>
+                                </div>
+                            {{/events}}
+                        {{/day}}
+                    </div>
+                {{/days}}
+            {{/weeks}}
+        </div>
     </div>
-    <div class="calendar">
-        <div class="calendar-header">Luni</div>
-        <div class="calendar-header">Marți</div>
-        <div class="calendar-header">Miercuri</div>
-        <div class="calendar-header">Joi</div>
-        <div class="calendar-header">Vineri</div>
-        <div class="calendar-header">Sâmbătă</div>
-        <div class="calendar-header">Duminică</div>
-        
-        {{#weeks}}
-            {{#days}}
-                <div class="calendar-day {{^day}}empty{{/day}}">
-                    {{#day}}
-                        <div class="day-number">{{day}}</div>
-                        {{#events}}
-                            <div class="event">
-                                <a href="index.html#{{id}}">{{time}} {{title}}</a>
-                            </div>
-                        {{/events}}
-                    {{/day}}
-                </div>
-            {{/days}}
-        {{/weeks}}
-    </div>
+    {{/months}}
+
     <footer>
         <p style="text-align: center;">
             <a href="index.html">View all events</a> | 
