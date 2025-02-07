@@ -169,9 +169,15 @@ def parse_event(event_data):
             if isinstance(current_tag, Tag):
                 strong = current_tag.find('strong')
                 if strong:
-                    composer = strong.get_text().strip()
-                    if composer and not any(word in composer.lower() for word in ["orchestra", "dirijor", "solist", "program"]):
-                        composers_set.add(composer)  # Add to set instead of list
+                    composer_text = strong.get_text().strip()
+                    if composer_text and not any(word in composer_text.lower() for word in ["orchestra", "dirijor", "solist", "program"]):
+                        # Split by slash and add each composer separately
+                        for composer in composer_text.split('/'):
+                            composer = composer.strip()
+                            if composer:  # Only add non-empty composers
+                                # Get the last name (last word in the name)
+                                last_name = composer.split()[-1]
+                                composers_set.add(last_name)
             current_tag = current_tag.next_sibling
 
     return Event(event_id, [Scheduling(tickets_url, event_start)], title, description, img, list(composers_set))  # Convert set back to list
