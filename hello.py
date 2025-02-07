@@ -169,15 +169,22 @@ def parse_event(event_data):
             if isinstance(current_tag, Tag):
                 strong = current_tag.find('strong')
                 if strong:
-                    composer_text = strong.get_text().strip()
-                    if composer_text and not any(word in composer_text.lower() for word in ["orchestra", "dirijor", "solist", "program"]):
-                        # Split by slash and add each composer separately
-                        for composer in composer_text.split('/'):
-                            composer = composer.strip()
-                            if composer:  # Only add non-empty composers
-                                # Get the last name (last word in the name)
-                                last_name = composer.split()[-1]
-                                composers_set.add(last_name)
+                    # Check if the strong tag comes after a br tag
+                    prev_element = strong.previous_sibling
+                    is_after_br = (prev_element and 
+                                 isinstance(prev_element, Tag) and 
+                                 prev_element.name == 'br')
+                    
+                    if not is_after_br:  # Only process if not after br
+                        composer_text = strong.get_text().strip()
+                        if composer_text and not any(word in composer_text.lower() for word in ["orchestra", "dirijor", "solist", "program"]):
+                            # Split by slash and add each composer separately
+                            for composer in composer_text.split('/'):
+                                composer = composer.strip()
+                                if composer:  # Only add non-empty composers
+                                    # Get the last name (last word in the name)
+                                    last_name = composer.split()[-1]
+                                    composers_set.add(last_name)
             current_tag = current_tag.next_sibling
 
     return Event(event_id, [Scheduling(tickets_url, event_start)], title, description, img, list(composers_set))  # Convert set back to list
