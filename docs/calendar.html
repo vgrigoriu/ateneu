@@ -8,19 +8,32 @@
         .calendar {
             display: grid;
             grid-template-columns: repeat(7, 1fr);
-            gap: 5px;
+            gap: 0;
             margin: 20px;
+            border: 1px solid #ddd;
         }
         .calendar-header {
             font-weight: bold;
             text-align: center;
             padding: 10px;
             background-color: #f0f0f0;
+            border-right: 1px solid #ddd;
+            border-bottom: 1px solid #ddd;
+        }
+        .calendar-header:last-child {
+            border-right: none;
         }
         .calendar-day {
-            border: 1px solid #ddd;
+            border-right: 1px solid #ddd;
+            border-bottom: 1px solid #ddd;
             min-height: 100px;
             padding: 5px;
+        }
+        .calendar-day:nth-child(7n) {
+            border-right: none;
+        }
+        .calendar-day:nth-last-child(-n+7) {
+            border-bottom: none;
         }
         .calendar-day.empty {
             background-color: #f9f9f9;
