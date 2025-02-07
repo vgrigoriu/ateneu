@@ -1,4 +1,4 @@
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import datetime, timedelta
 import json
 import locale
@@ -22,10 +22,14 @@ def generate_calendar_data(events: List["Event"], year: int, month: int) -> Dict
         for scheduling in event.schedulings:
             date = scheduling.date
             if date.year == year and date.month == month:
+                # Add composers to the title if they exist
+                display_title = event.title
+                if event.composers:
+                    display_title = f"{display_title} ({', '.join(event.composers)})"
                 events_by_date[date.day].append({
                     'id': f"event-{event.id}",
                     'time': date.strftime('%H:%M'),
-                    'title': event.title
+                    'title': display_title
                 })
 
     # Generate calendar weeks
@@ -150,7 +154,27 @@ def parse_event(event_data):
     eid = event_data["eid"]
     event_id = f"{eid['uid']}-{eid['seq']}-{eid['tid']}-{eid['rid']}"
 
-    return Event(event_id, [Scheduling(tickets_url, event_start)], title, description, img)
+    # Extract composers from description
+    composers_set = set()  # Use a set for unique composers
+    soup = BeautifulSoup(description, "html.parser")
+    program_tag = None
+    for tag in soup.find_all(['p', 'div']):
+        if tag.get_text().strip() == "Program":
+            program_tag = tag
+            break
+    
+    if program_tag:
+        current_tag = program_tag.next_sibling
+        while current_tag:
+            if isinstance(current_tag, Tag):
+                strong = current_tag.find('strong')
+                if strong:
+                    composer = strong.get_text().strip()
+                    if composer and not any(word in composer.lower() for word in ["orchestra", "dirijor", "solist", "program"]):
+                        composers_set.add(composer)  # Add to set instead of list
+            current_tag = current_tag.next_sibling
+
+    return Event(event_id, [Scheduling(tickets_url, event_start)], title, description, img, list(composers_set))  # Convert set back to list
 
 
 @dataclass(frozen=True)
@@ -228,6 +252,7 @@ class Event:
     title: str
     details: str
     image: Optional[Img] = None
+    composers: list[str] = field(default_factory=list)
 
 
 # unused, kept for historical interest
