@@ -26,7 +26,7 @@ def generate_calendar_data(events: List["Event"], year: int, month: int) -> Dict
                     'id': f"event-{event.id}",
                     'time': date.strftime('%H:%M'),
                     'title': event.title,
-                    'composers': event.composers
+                    'composers': sorted(event.composers)
                 })
 
     # Generate calendar weeks

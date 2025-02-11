@@ -3,207 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "726",
-        "seq": 0,
-        "tid": 1738947600000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1738947600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1738954800000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>ALEXANDER LIEBREICH</strong></p><p>Soli\u015fti <br /><strong>LIZA FERSCHTMAN </strong><br /><strong>IVAN KARIZNA </strong></p><p>Program</p><p><strong>Wolfgang Amadeus Mozart<br /></strong>Uvertura Nunta lui Figaro</p><p><strong>Johannes Brahms</strong><br />Concertul &icirc;n la minor pentru vioar\u0103, violoncel \u015fi orchestr\u0103, op. 102</p><p><strong>Johannes Brahms<br /></strong>Simfonia nr. 3, &icirc;n fa major, op. 90</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5fa6117e3a71e7fc6ce2",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/concert-simfonic-d3MbOZnK?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5fa6117e3a71e7fc6ce2",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5fa6117e3a71e7fc6ce2",
-            "name": "brahms 3",
-            "altText": "brahms 3",
-            "width": 224,
-            "height": 224,
-            "size": 6683,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5fa6117e3a71e7fc6ce2",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01BA3CBC_0901_01BA3CBC-1-01BA3D34_726-01BA3CBC-0-0",
-      "dtstamp": 1733954885161,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "846",
-        "seq": 0,
-        "tid": 1739034000000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1739034000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1739039400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert aniversar"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra Na\u021bional\u0103 &ldquo;Contrabassissimo&rdquo; </strong></p><p>- concert dedicat profesorului \u0218tefan Thomasz, cu ocazia implinirii v&acirc;rstei de 80 de ani -</p><p>Dirijor <br /><strong>Daisuke Soga</strong></p><p>Solisti<br /><strong>Botond Kostyak, Octavian Maxim, Vlad Ra\u021biu, El\u0151d Mok&aacute;n-Noe</strong></p><p>La pian <br /><strong>C\u0103t\u0103lina Bordeanu </strong></p><p>Prezentarea <br /><strong>Anca Andriescu</strong></p><p>Program</p><p><strong>Joseph Haydn<br /></strong>Divertisment &icirc;n re major (aranjament: Gregor Piatigorsky) </p><p><strong>Giovanni Bottesini<br /></strong>Passione amorosa pentru cvartet de contraba\u0219i \u0219i pian </p><p><strong>Victor Savca<br /></strong>Hommage a Stefan Thomasz pentru cvartet de contraba\u0219i </p><p><strong>Marc-Antoine Charpentier<br /></strong>Pr&eacute;lude 1, Pr&eacute;lude 2. Gigue Englez, Gigue Francez din  &quot;Concert pour quatre parties de violes&quot;, H 545 (aranjament: Stefan Thomasz)</p><p><strong>Johann Sebastian Bach</strong> <br />Aria din Suita nr. 3, &icirc;n re major, BWV 1068 (aranjament: Stefan Thomasz)</p><p><strong>Antonio Vivaldi<br /></strong>Concert pentru 2 contraba\u0219i dup\u0103 Concert RV 522, op. 8, nr. 3 <br />&quot;L'estro Armonico&quot; (aranjament: Daisuke Soga)</p><p><strong>Felix Mendelssohn<br /></strong>Andante din Simfonia nr. 5 (aranjament: Stefan Thomasz)<br />C&acirc;ntec f\u0103r\u0103 cuvinte, caietul nr. 4, nr. 20 (aranjament: Daisuke Soga) </p><p><strong>Astor Piazzolla<br /></strong>Oblivion (aranjament: Daisuke Soga)<br />Libertango (aranjament: Daisuke Soga)</p><p><strong>Daisuke Soga </strong><br />C&acirc;ntece populare rom&acirc;ne\u015fti dup\u0103 culegerea lui Bela Bart&ograve;k</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66f54a606e1e462de2e04a91",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/inapoi-concert-aniversar-r3OakJ7w?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66f54a606e1e462de2e04a91",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66f54a606e1e462de2e04a91",
-            "name": "IMAG4104",
-            "altText": "IMAG4104",
-            "width": 4000,
-            "height": 3000,
-            "size": 1392269,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66f54a606e1e462de2e04a91",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01BA425C_0901_01BA425C-1-01BA42B6_846-01BA425C-0-0",
-      "dtstamp": 1736623447321,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "848",
-        "seq": 0,
-        "tid": 1739034000000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1739034000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1739041200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Recital cameral (Sala mic\u0103)"
-        },
-        "description": {
-          "text": "<p><strong>Recital cameral</strong></p><p><strong>RODICA DUN\u0102</strong> - vioar\u0103<br /><strong>MIRCEA MARIAN</strong> - violoncel<br /><strong>AMALIA MARIA POP</strong> - pian</p><p>Program</p><p><strong>Franz Schubert<br /></strong>Trio cu pian nr. 1, &icirc;n si bemol major, op. 99, D 898</p><p><strong>Felix Mendelssohn<br /></strong>Trio cu pian nr. 1, &icirc;n re minor, op. 49</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66473feb94b4ab480d3fdfda",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/recital-cameral-sala-mica-W3AWJX7L?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66473feb94b4ab480d3fdfda",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66473feb94b4ab480d3fdfda",
-            "name": "IMAG4128 (1)",
-            "altText": "IMAG4128 (1)",
-            "width": 4000,
-            "height": 3000,
-            "size": 1373928,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66473feb94b4ab480d3fdfda",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01BA425C_0901_01BA425C-1-01BA42D4_848-01BA425C-0-0",
-      "dtstamp": 1736889713315,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "852",
         "seq": 0,
         "tid": 1739293200000,
@@ -1741,6 +1540,73 @@
       },
       "sorter": "999_01BADA3C_0901_01BADA3C-1-01BADAB4_734-01BADA3C-0-0",
       "dtstamp": 1734191392227,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "869",
+        "seq": 0,
+        "tid": 1741539600000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1741539600000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1741545000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Recital cameral (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<p><strong>Doris Iorga</strong> - oboi</p><p><span><strong>Madoka Ito</strong> - pian</span></p><p><span>Invitat <br /><strong>Cosmin Cobasa</strong> - corn </span></p><p>Program</p><p><span><strong>Georg Philipp Telemann<br /></strong>Fantezia nr. 9, &icirc;n mi major </span></p><p><span><strong>Robert Schumann<br /></strong>Adagio \u0219i Allegro, op. 70 </span></p><p><span><strong>Klement Slavick&yacute;<br /></strong>Suit\u0103 pentru oboi \u015fi pian </span></p><p><span><strong>Carl Reinecke<br /></strong>Trio pentru oboi, corn \u015fi pian, op. 188 </span></p><p><span></span></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66ec0ea16e1e462de2dae55f",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/recital-cameral-sala-mica-d3MbB9nK?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66ec0ea16e1e462de2dae55f",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66ec0ea16e1e462de2dae55f",
+            "name": "IMAG4119",
+            "altText": "IMAG4119",
+            "width": 4000,
+            "height": 3000,
+            "size": 1064818,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66ec0ea16e1e462de2dae55f",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BAE57C_0901_01BAE57C-1-01BAE5D6_869-01BAE57C-0-0",
+      "dtstamp": 1739182869994,
       "status": {
         "name": "scheduled"
       },
