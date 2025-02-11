@@ -139,19 +139,12 @@ def get_event_details(event_id):
     return event_response["events"][0]
 
 
-def parse_event(event_data):
-    when = event_data["when"]
-    event_start_millis = when["start"]["millis"]
-    event_start = datetime.fromtimestamp(event_start_millis / 1000)
-    content = event_data["content"]
-    img = get_image(content)
-    title = standardize_title(content["summary"]["text"])
-    description = standardize(content["description"]["text"])
-    tickets_url = content["customButtonLink"] if "customButtonLink" in content else None
-    eid = event_data["eid"]
-    event_id = f"{eid['uid']}-{eid['seq']}-{eid['tid']}-{eid['rid']}"
-
-    # Extract composers from description
+def parse_composers(description: str) -> list[str]:
+    """Extract composer names from the event description.
+    
+    Looks for a 'Program' section and extracts composer names that appear in <strong> tags.
+    Returns a list of unique composer last names.
+    """
     composers_set = set()  # Use a set for unique composers
     soup = BeautifulSoup(description, "html.parser")
     program_tag = None
@@ -184,7 +177,24 @@ def parse_event(event_data):
                                     composers_set.add(last_name)
             current_tag = current_tag.next_sibling
 
-    return Event(event_id, [Scheduling(tickets_url, event_start)], title, description, img, list(composers_set))  # Convert set back to list
+    return list(composers_set)  # Convert set back to list
+
+
+def parse_event(event_data):
+    when = event_data["when"]
+    event_start_millis = when["start"]["millis"]
+    event_start = datetime.fromtimestamp(event_start_millis / 1000)
+    content = event_data["content"]
+    img = get_image(content)
+    title = standardize_title(content["summary"]["text"])
+    description = standardize(content["description"]["text"])
+    tickets_url = content["customButtonLink"] if "customButtonLink" in content else None
+    eid = event_data["eid"]
+    event_id = f"{eid['uid']}-{eid['seq']}-{eid['tid']}-{eid['rid']}"
+
+    composers = parse_composers(description)
+
+    return Event(event_id, [Scheduling(tickets_url, event_start)], title, description, img, composers)
 
 
 @dataclass(frozen=True)
