@@ -145,39 +145,68 @@ def parse_composers(description: str) -> list[str]:
     Looks for a 'Program' section and extracts composer names that appear in <strong> tags.
     Returns a list of unique composer last names.
     """
-    composers_set = set()  # Use a set for unique composers
+    composers_set = set()
     soup = BeautifulSoup(description, "html.parser")
-    program_tag = None
+    
+    program_tag = find_program_tag(soup)
+    if not program_tag:
+        return []
+
+    current_tag = program_tag.next_sibling
+    while current_tag:
+        if not isinstance(current_tag, Tag):
+            current_tag = current_tag.next_sibling
+            continue
+
+        strong = current_tag.find('strong')
+        if not strong:
+            current_tag = current_tag.next_sibling
+            continue
+
+        if is_after_br_tag(strong):
+            current_tag = current_tag.next_sibling
+            continue
+
+        composer_text = strong.get_text().strip()
+        if not is_valid_composer_text(composer_text):
+            current_tag = current_tag.next_sibling
+            continue
+
+        # Add each composer's last name to the set
+        for composer in composer_text.split('/'):
+            composer = composer.strip()
+            if composer:
+                last_name = composer.split()[-1]
+                composers_set.add(last_name)
+
+        current_tag = current_tag.next_sibling
+
+    return list(composers_set)
+
+
+def find_program_tag(soup: BeautifulSoup) -> Optional[Tag]:
+    """Find the 'Program' tag in the HTML soup."""
     for tag in soup.find_all(['p', 'div']):
         if tag.get_text().strip() == "Program":
-            program_tag = tag
-            break
-    
-    if program_tag:
-        current_tag = program_tag.next_sibling
-        while current_tag:
-            if isinstance(current_tag, Tag):
-                strong = current_tag.find('strong')
-                if strong:
-                    # Check if the strong tag comes after a br tag
-                    prev_element = strong.previous_sibling
-                    is_after_br = (prev_element and 
-                                 isinstance(prev_element, Tag) and 
-                                 prev_element.name == 'br')
-                    
-                    if not is_after_br:  # Only process if not after br
-                        composer_text = strong.get_text().strip()
-                        if composer_text and not any(word in composer_text.lower() for word in ["orchestra", "dirijor", "solist", "program"]):
-                            # Split by slash and add each composer separately
-                            for composer in composer_text.split('/'):
-                                composer = composer.strip()
-                                if composer:  # Only add non-empty composers
-                                    # Get the last name (last word in the name)
-                                    last_name = composer.split()[-1]
-                                    composers_set.add(last_name)
-            current_tag = current_tag.next_sibling
+            return tag
+    return None
 
-    return list(composers_set)  # Convert set back to list
+
+def is_after_br_tag(tag: Tag) -> bool:
+    """Check if the tag comes after a br tag."""
+    prev_element = tag.previous_sibling
+    return (prev_element and 
+            isinstance(prev_element, Tag) and 
+            prev_element.name == 'br')
+
+
+def is_valid_composer_text(text: str) -> bool:
+    """Check if the text likely represents a composer name."""
+    if not text:
+        return False
+    
+    excluded_words = ["orchestra", "dirijor", "solist", "program"]
+    return not any(word in text.lower() for word in excluded_words)
 
 
 def parse_event(event_data):
