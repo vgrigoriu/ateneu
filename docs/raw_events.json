@@ -3,408 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "852",
-        "seq": 0,
-        "tid": 1739293200000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1739293200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1739300400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Stagiunea de mar\u0163i seara (Sala mic\u0103)"
-        },
-        "description": {
-          "text": "<p><strong>Recital de pian</strong><br /><strong>DOMINIK ILISZ</strong></p><p>Program</p><p><strong>George Enescu<br /></strong>Toccata s\u0326i Pavana din Suita nr. 2, op. 10</p><p><strong>Serghei Rahmaninov<br /></strong>Studiu \u0131\u0302n mi bemol minor, op. 39 nr. 5</p><p><strong>Fre\u0301de\u0301ric Chopin<br /></strong>Fantezia-impromptu \u0131\u0302n do diez minor, op. 66</p><p><strong>Fre\u0301de\u0301ric Chopin<br /></strong>Balada nr. 1 \u0131\u0302n sol minor, op. 23</p><p><strong>Arvo Pa\u0308rt<br /></strong>Fu\u0308r Alina</p><p><strong>Claude Debussy<br /></strong>Estampes</p><p><strong>Franz Liszt<br /></strong>Rapsodia spaniola\u0306, S. 254</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_67890aac17f2920873d38153",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/stagiunea-de-marti-seara-sala-mica-X7a8G5nN?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "67890aac17f2920873d38153",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "67890aac17f2920873d38153",
-            "name": "Foto",
-            "altText": "Foto",
-            "width": 1386,
-            "height": 1142,
-            "size": 78153,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_67890aac17f2920873d38153",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01BA533C_0901_01BA533C-1-01BA53B4_852-01BA533C-0-0",
-      "dtstamp": 1737065018221,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "727",
-        "seq": 0,
-        "tid": 1739466000000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1739466000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1739473200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert vocal-simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor<br /><strong>YAN PASCAL TORTELIER</strong></p><p>Soli\u015fti<br /><strong>HYE-YOUN LEE</strong> - sopran\u0103</p><p><strong>JUDIT KUTASI</strong> &ndash; mezzosopran\u0103</p><p><strong>IOAN HOTEA</strong> &ndash; tenor</p><p><strong>NICOLAS TEST&Eacute;</strong> - bas</p><p>Program</p><p><strong>Giuseppe Verdi</strong><br />Recviem</p><p>Dirijorul corului<br /><strong>IOSIF ION PRUNNER</strong></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5ffe117e3a71e7fc6d5f",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/concert-vocalsimfonic-X3ZvVb3x?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5ffe117e3a71e7fc6d5f",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5ffe117e3a71e7fc6d5f",
-            "name": "verdi",
-            "altText": "verdi",
-            "width": 259,
-            "height": 194,
-            "size": 6957,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5ffe117e3a71e7fc6d5f",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01BA5E7C_0901_01BA5E7C-1-01BA5EF4_727-01BA5E7C-0-0",
-      "dtstamp": 1737531037538,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "728",
-        "seq": 0,
-        "tid": 1739552400000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1739552400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1739559600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Concert vocal-simfonic"
-        },
-        "description": {
-          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor<br /><strong>YAN PASCAL TORTELIER</strong></p><p>Soli\u015fti<br /><strong>HYE-YOUN LEE</strong> - sopran\u0103</p><p><strong>JUDIT KUTASI</strong> &ndash; mezzosopran\u0103</p><p><strong>IOAN HOTEA</strong> &ndash; tenor</p><p><strong>NICOLAS TEST&Eacute;</strong> - bas</p><p>Program</p><p><strong>Giuseppe Verdi</strong><br />Recviem</p><p>Dirijorul corului<br /><strong>IOSIF ION PRUNNER</strong></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5ffe117e3a71e7fc6d5f",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/concert-vocalsimfonic-x3G2mWz0?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5ffe117e3a71e7fc6d5f",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5ffe117e3a71e7fc6d5f",
-            "name": "verdi",
-            "altText": "verdi",
-            "width": 259,
-            "height": 194,
-            "size": 6957,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5ffe117e3a71e7fc6d5f",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01BA641C_0901_01BA641C-1-01BA6494_728-01BA641C-0-0",
-      "dtstamp": 1737531069765,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "861",
-        "seq": 0,
-        "tid": 1739610000000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1739610000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1739615400000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Clasic e fantastic. Cum s\u0103 \u00een\u021belegem muzica"
-        },
-        "description": {
-          "text": "<h2><strong>Musorgski - </strong><strong>Tablouri dintr-o expozi\u021bie</strong></h2><div></div><div><strong>Bucharest Wind Ensemble</strong></div><div></div><div><strong>Ioana Bala\u0219a</strong> - flaut</div><div><strong>Valentin Ghita </strong>- oboi</div><div><strong>Flaviu Ludu\u0219an</strong> - clarinet</div><div><strong>\u0218tefan Danifeld</strong> - corn</div><div><strong>Ionu\u021b Mardare</strong> - fagot</div><div></div><div>Prezint\u0103 <strong>Irina S&acirc;rbu</strong></div>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66ffb52d205890162e616f36",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/clasic-e-fantastic-cum-sa-intelegem-muzica-j3YVEDnv?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66ffb52d205890162e616f36",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66ffb52d205890162e616f36",
-            "name": "IMAG4119",
-            "altText": "IMAG4119",
-            "width": 4000,
-            "height": 3000,
-            "size": 1064818,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66ffb52d205890162e616f36",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01BA67DC_0901_01BA67DC-1-01BA6836_861-01BA67DC-0-0",
-      "dtstamp": 1738250302554,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "857",
-        "seq": 0,
-        "tid": 1739638800000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1739638800000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1739644200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Recital cameral (Sala mic\u0103)"
-        },
-        "description": {
-          "text": "<div><strong>Carina Boldea </strong> - flaut</div><div></div><div><strong>Marius Boldea </strong>- pian</div><div></div><div>Program</div><div></div><div><div><strong>Francis Poulenc<br /></strong>Sonata pentru flaut \u0219i pian</div><div></div><div><div><strong>Claude Debussy<br /></strong>Syrinx</div><div><span> </span></div></div><div><strong>Carl Reinecke<br /></strong>Sonata pentru flaut \u0219i pian (Undine)</div><div></div><div><strong>Katherine Hoover<br /></strong>Kokopeli</div><div></div><div><strong>Sigismund Todu\u021b\u0103<br /></strong>Sonata pentru flaut \u0219i pian</div></div>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66fd1544205890162e5fa1db",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/recital-cameral-sala-mica-G38bKB7j?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66fd1544205890162e5fa1db",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66fd1544205890162e5fa1db",
-            "name": "IMAG4122 (1)",
-            "altText": "IMAG4122 (1)",
-            "width": 3000,
-            "height": 4000,
-            "size": 1135341,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66fd1544205890162e5fa1db",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01BA69BC_0901_01BA69BC-1-01BA6A16_857-01BA69BC-0-0",
-      "dtstamp": 1737480857527,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "843",
-        "seq": 0,
-        "tid": 1739725200000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1739725200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1739730600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Recital cameral"
-        },
-        "description": {
-          "text": "<p><strong>Johannes Brahms - Integrala muzicii de camer\u0103 cu pian III</strong></p><p><strong>EMIL VI\u0218ENESCU</strong> - clarinet<br /><strong>GABRIEL R\u0102ILEANU</strong> - corn<br /><strong>MIRCEA LAZ\u0102R - </strong>vioar\u0103<br /><strong>ANDREI LICARE\u021a</strong> - pian</p><p>Program</p><p>Sonata nr. 2, &icirc;n mi bemol major, pentru pian \u0219i clarinet, op. 120, nr. 2<br />Sonata nr. 2, &icirc;n la major, pentru pian \u0219i vioar\u0103, op. 100 <br />Trio &icirc;n mi bemol major pentru vioar\u0103, corn \u0219i pian, op. 40</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_66aa5fa6117e3a71e7fc6ce2",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/recital-cameral-X3ZvkZ3x?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "66aa5fa6117e3a71e7fc6ce2",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "66aa5fa6117e3a71e7fc6ce2",
-            "name": "brahms 3",
-            "altText": "brahms 3",
-            "width": 224,
-            "height": 224,
-            "size": 6683,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_66aa5fa6117e3a71e7fc6ce2",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01BA6F5C_0901_01BA6F5C-1-01BA6FB6_843-01BA6F5C-0-0",
-      "dtstamp": 1736579558834,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "835",
         "seq": 0,
         "tid": 1739811600000,
@@ -1750,6 +1348,73 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
+        "uid": "873",
+        "seq": 0,
+        "tid": 1741712400000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1741712400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1741719600000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Stagiunea de mar\u0163i seara (Sala mic\u0103)"
+        },
+        "description": {
+          "text": "<p><strong>LUCA AMARANDEI</strong> - vioar\u0103<br /><strong>C\u0102T\u0102LIN R\u0102DUCANU </strong>- pian</p><p>Program</p><p><strong>Wolfgang Amadeus Mozart</strong> <br />Sonata &icirc;n mi minor, KV 304</p><p><strong>Tomaso Vitali<br /></strong>Ciacona &icirc;n sol minor</p><p><strong>Francesco Geminiani / Mario Corti<br /></strong>Sonata &icirc;n si bemol major</p><p><strong>Giuseppe Tartini<br /></strong>Sonata &icirc;n sol minor, <em>Didone Abbandonata</em></p><p><strong>\u2060Max Reger<br /></strong>Preludiu \u0219i Fuga &icirc;n si minor</p><p><strong>\u2060Piotr Ilici Ceaikovski<br /></strong>Dans rusesc</p><p><strong>Pancio Vladigherov<br /></strong>Rapsodia Vardar</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_67ab3eddd7866e52b3d007e5",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/stagiunea-de-marti-seara-sala-mica-W3AWXV7L?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "67ab3eddd7866e52b3d007e5",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "67ab3eddd7866e52b3d007e5",
+            "name": "image0(1)",
+            "altText": "image0(1)",
+            "width": 233,
+            "height": 209,
+            "size": 11017,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_67ab3eddd7866e52b3d007e5",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BAF0BC_0901_01BAF0BC-1-01BAF134_873-01BAF0BC-0-0",
+      "dtstamp": 1739453412053,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
         "uid": "853",
         "seq": 0,
         "tid": 1741798800000,
@@ -1942,6 +1607,73 @@
       },
       "sorter": "999_01BB019C_0901_01BB019C-1-01BB0214_736-01BB019C-0-0",
       "dtstamp": 1734192432625,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "874",
+        "seq": 0,
+        "tid": 1742029200000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1742029200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1742034600000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Clasic e fantastic - Ora\u0219ele muzicii"
+        },
+        "description": {
+          "text": "<p><strong><em>Clasic e fantastic. Cum s\u0103 &icirc;n\u021belegem muzica</em></strong><br /><strong><em>Ora\u0219ele muzicii</em></strong></p><p><strong>Orchestra Colegiului Na\u021bional de Muzic\u0103 George Enescu</strong><br />Dirijor <strong>GHEORGHE ILIU\u021a\u0102<br /></strong>Prezint\u0103 <strong>IRINA S&Acirc;RBU</strong></p><p>Program<br /><strong>Johann Strauss fiul</strong> &ndash; Valsul Fr&uuml;hlingstimmen, op. 410 <br /><strong></strong></p><p><strong>Josef Strauss</strong> &ndash; Polka Ohne Sorgen op. 271<br /><strong></strong></p><p><strong>Antonio Vivaldi</strong> &ndash; Concertul pentru 4 viori \u0219i orchestr\u0103 &icirc;n si minor<br />Soli\u0219ti: <strong>SIMONA P\u0102DURARU, ANA MARIA COBZARU, M\u0102D\u0102LIN B&Icirc;RL\u0102, MARIO ROBERTO STAN</strong><br /><strong></strong></p><p><strong>Grigora\u015f Dinicu / Jascha Heifetz</strong> - Hora staccato pentru vioar\u0103 \u0219i orchestr\u0103<br />Solist: <strong>PAUL R\u0102DUCANU</strong></p><p><strong>Constantin Dimitrescu</strong> &ndash; Dans \u021b\u0103r\u0103nesc, aranjament pentru viol\u0103 \u0219i orchestr\u0103<br />Solist: <strong>CONSTANTIN SIMA</strong></p><p><strong>Ciprian Porumbescu</strong> &ndash; Dorul, aranjament pentru violoncel \u0219i orchestr\u0103<br />Solist\u0103: <strong>RUXANDRA \u021aO\u021aA</strong></p><p><strong>Antonin Dvorak</strong> &ndash; Dans slav &icirc;n sol minor, op. 46, nr. 8</p><p><strong>Serghei Rahmaninov</strong> &ndash; Vocaliz\u0103, aranjament pentru trompet\u0103 \u0219i orchestr\u0103<br />Solist\u0103: <strong>MAYA BURNECI</strong></p><p><strong>Ennio Morricone</strong> &ndash; Oboiul lui Gabriel din filmul The Mission<br />Solist\u0103: <strong>ALEXANDRA DR\u0102GHICI</strong></p><p><strong>Leonard Bernstein</strong> &ndash; Mambo din suita simfonic\u0103 West Side Story</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66a744174da645429191872b",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/clasic-e-fantastic-orasele-muzicii-r3Oaxy7w?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66a744174da645429191872b",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66a744174da645429191872b",
+            "name": "IMAG4096 (1)",
+            "altText": "IMAG4096 (1)",
+            "width": 4000,
+            "height": 3000,
+            "size": 1470175,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66a744174da645429191872b",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BB055C_0901_01BB055C-1-01BB05B6_874-01BB055C-0-0",
+      "dtstamp": 1739800502545,
       "status": {
         "name": "scheduled"
       },
@@ -2914,7 +2646,7 @@
           "text": "Concert vocal-simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>GABRIEL BEBE\u0218ELEA</strong></p><p>Soli\u015fti <br /><strong>REN&Aacute;TA GEBE-F&Uuml;GI</strong> &ndash; sopran\u0103<br /><strong>VALER SABADUS</strong> &ndash; contratenor<br /><strong>MARTIN MITTERRUNTZER</strong> - tenor<br /><b>BOGDAN MIHAI </b>&ndash; tenor<br /><strong>CRISTIAN HODREA</strong> - bas<br /><strong>BENIAMIN POP</strong> &ndash; bas</p><p>Program</p><p><strong>Johann Sebastian Bach<br /></strong>Matth&auml;us-Passion</p><p>Cu participarea Corului de Copii al Operei Na\u0163ionale Bucure\u015fti, <br />dirijor <strong>Smaranda Morgovan</strong></p><p>Dirijorul corului FGE<br /><strong>IOSIF ION PRUNNER</strong></p>"
+          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>GABRIEL BEBE\u0218ELEA</strong></p><p>Soli\u015fti <br /><strong>REN&Aacute;TA GEBE-F&Uuml;GI</strong> &ndash; sopran\u0103<br /><strong>VALER SABADUS</strong> &ndash; contratenor<br /><strong>MARTIN MITTERRUNTZER</strong> - tenor<br /><b>BOGDAN MIHAI </b>&ndash; tenor<br /><strong>CRISTIAN HODREA</strong> - bas<br /><strong>BENIAMIN POP</strong> &ndash; bas</p><p>Program</p><p><strong>Johann Sebastian Bach<br /></strong>Matth&auml;us-Passion</p><p>Cu participarea Corului Symbol, <br />dirijor <strong>Lumini\u021ba Gu\u021banu-Stoian</strong></p><p>Dirijorul corului FGE<br /><strong>IOSIF ION PRUNNER</strong></p>"
         },
         "tagset": {
           "tags": {
@@ -2946,7 +2678,7 @@
         ]
       },
       "sorter": "999_01BB9940_0901_01BB9940-1-01BB99B8_743-01BB9940-0-0",
-      "dtstamp": 1734196668985,
+      "dtstamp": 1739792589573,
       "status": {
         "name": "scheduled"
       },
@@ -2981,7 +2713,7 @@
           "text": "Concert vocal-simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>GABRIEL BEBE\u0218ELEA</strong></p><p>Soli\u015fti <br /><strong>REN&Aacute;TA GEBE-F&Uuml;GI</strong> &ndash; sopran\u0103<br /><strong>VALER SABADUS</strong> &ndash; contratenor<br /><strong>MARTIN MITTERRUNTZER</strong> - tenor<br /><b>BOGDAN MIHAI </b>&ndash; tenor<br /><strong>CRISTIAN HODREA</strong> - bas<br /><strong>BENIAMIN POP</strong> &ndash; bas</p><p>Program</p><p><strong>Johann Sebastian Bach<br /></strong>Matth&auml;us-Passion</p><p>Cu participarea Corului de Copii al Operei Na\u0163ionale Bucure\u015fti, <br />dirijor <strong>Smaranda Morgovan</strong></p><p>Dirijorul corului FGE<br /><strong>IOSIF ION PRUNNER</strong></p>"
+          "text": "<p><strong>Orchestra \u015fi Corul Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>GABRIEL BEBE\u0218ELEA</strong></p><p>Soli\u015fti <br /><strong>REN&Aacute;TA GEBE-F&Uuml;GI</strong> &ndash; sopran\u0103<br /><strong>VALER SABADUS</strong> &ndash; contratenor<br /><strong>MARTIN MITTERRUNTZER</strong> - tenor<br /><b>BOGDAN MIHAI </b>&ndash; tenor<br /><strong>CRISTIAN HODREA</strong> - bas<br /><strong>BENIAMIN POP</strong> &ndash; bas</p><p>Program</p><p><strong>Johann Sebastian Bach<br /></strong>Matth&auml;us-Passion</p><p>Cu participarea Corului Symbol, <br />dirijor <strong>Lumini\u021ba Gu\u021banu-Stoian</strong></p><p>Dirijorul corului FGE<br /><strong>IOSIF ION PRUNNER</strong></p>"
         },
         "tagset": {
           "tags": {
@@ -3013,7 +2745,88 @@
         ]
       },
       "sorter": "999_01BB9EE0_0901_01BB9EE0-1-01BB9F58_744-01BB9EE0-0-0",
-      "dtstamp": 1734196865758,
+      "dtstamp": 1739792608124,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "870",
+        "seq": 0,
+        "tid": 1744466400000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1744466400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EEST",
+          "offset": 10800000
+        },
+        "end": {
+          "millis": 1744473600000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EEST",
+          "offset": 10800000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Salonul Baroc - \u201e\u00cengerul \u0219i demonul\u201d\u00a0(Salonul Oficial)"
+        },
+        "description": {
+          "text": "<p></p><p><strong></strong><tkfmedia data-tkf-mediatype=\"image\" data-tkf-id=\"67ab350cd7866e52b3d003ad\" data-tkf-style=\"align:left;width:339px;height:114px\"></tkfmedia></p><p><strong></strong></p><p><strong></strong></p><p><strong></strong></p><p><strong>&bdquo;&Icirc;ngerul \u0219i demonul&rdquo; </strong></p><p><strong>MIRCEA LAZ\u0102R</strong> - vioar\u0103 <br /><strong>ISTV&Aacute;N CSATA</strong> - viola da gamba <br /><strong>RALUCA ENEA</strong> - clavecin</p><p>Program</p><p><strong>Marin Marais</strong> (1656 &ndash; 1728)<br />Din colec\u021bia Pi&egrave;ces de Viole &ndash; Quatri&egrave;me Livre - Suite d'un Go&ucirc;t Etranger: L'Arabesque &ndash; Allemande La Superbe &ndash; La Reveuse - pentru viola da gamba, continuo</p><p><strong>Jean-Baptiste-Antoine Forqueray le Fils</strong> (1699 &ndash; 1782) <br />Din colec\u021bia Pi&egrave;ces de viole compos&eacute;es par Mr. Forqueray le P&egrave;re. <br />Mises en Pi&egrave;ces de Clavecin, IIe Suite: La Bouron - La Mandoline &ndash; La du Brei&uuml;il &ndash; La Leclair - pentru clavecin solo <br />La Buisson. Chaconne - pentru viola da gamba, continuo</p><p><strong>Jean Philippe Rameau</strong> (1683 &ndash; 1764) <br />Din colec\u021bia Pi&egrave;ces de Clavecin en Concerts / Cinq Pi&egrave;ces 1741: 5e Concert: <br />La Forqueray - La Cupis - La Marais - pentru vioar\u0103, viola da gamba, clavecin</p><p><strong>Marin Marais</strong> (1656 &ndash; 1728)<br />Sonnerie de Sainte - Genevi&egrave;ve du Mont de Paris - pentru vioar\u0103, viola da gamba, continuo</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_67ab3411d7866e52b3d00316",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/salonul-baroc-ngerul-si-demonul-salonul-oficial-9zo9ymny?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "67ab3411d7866e52b3d00316",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "67ab3411d7866e52b3d00316",
+            "name": "Untitled-1",
+            "altText": "Untitled-1",
+            "width": 1110,
+            "height": 909,
+            "size": 98651,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_67ab3411d7866e52b3d00316",
+            "tags": []
+          },
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "67ab350cd7866e52b3d003ad",
+            "name": "Logo Salon Baroc 6",
+            "altText": "Logo Salon Baroc 6",
+            "width": 1181,
+            "height": 394,
+            "size": 31833,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_67ab350cd7866e52b3d003ad",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BBA408_0901_01BBA408-1-01BBA480_870-01BBA408-0-0",
+      "dtstamp": 1739301800680,
       "status": {
         "name": "scheduled"
       },
@@ -3182,7 +2995,7 @@
           "text": "Concert simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>CARLOS MIGUEL PRIETO</strong></p><p>Solist <br /><strong>VINICIU MOROIANU</strong></p><p>Program</p><p><strong>Carmen Petra-Basacopol<br /></strong>Concertul pentru pian \u0219i orchestr\u0103</p><p><strong>C&eacute;sar Franck<br /></strong>Varia\u021biuni simfonice pentru pian \u0219i orchestr\u0103, M. 46</p><p><strong>Jos&eacute; Pablo Moncayo<br /></strong>Huapango</p><p><strong>Manuel de Falla<br /></strong>Tricornul</p><p></p>"
+          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>CARLOS MIGUEL PRIETO</strong></p><p>Solist <br /><strong>VINICIU MOROIANU</strong></p><p>Program</p><p><strong>Carmen Petra-Basacopol<br /></strong>Concertul pentru pian \u0219i orchestr\u0103</p><p><strong>C&eacute;sar Franck<br /></strong>Varia\u021biuni simfonice pentru pian \u0219i orchestr\u0103, M. 46</p><p><strong>Manuel de Falla<br /></strong>Tricornul</p><p><strong>Jos&eacute; Pablo Moncayo<br /></strong>Huapango</p>"
         },
         "tagset": {
           "tags": {
@@ -3214,7 +3027,7 @@
         ]
       },
       "sorter": "999_01BBE800_0901_01BBE800-1-01BBE878_747-01BBE800-0-0",
-      "dtstamp": 1734198695641,
+      "dtstamp": 1739799688501,
       "status": {
         "name": "scheduled"
       },
@@ -3249,7 +3062,7 @@
           "text": "Concert simfonic"
         },
         "description": {
-          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>CARLOS MIGUEL PRIETO</strong></p><p>Solist <br /><strong>VINICIU MOROIANU</strong></p><p>Program</p><p><strong>Carmen Petra-Basacopol<br /></strong>Concertul pentru pian \u0219i orchestr\u0103</p><p><strong>C&eacute;sar Franck<br /></strong>Varia\u021biuni simfonice pentru pian \u0219i orchestr\u0103, M. 46</p><p><strong>Jos&eacute; Pablo Moncayo<br /></strong>Huapango</p><p><strong>Manuel de Falla<br /></strong>Tricornul</p>"
+          "text": "<p><strong>Orchestra Filarmonicii George Enescu</strong></p><p>Dirijor <br /><strong>CARLOS MIGUEL PRIETO</strong></p><p>Solist <br /><strong>VINICIU MOROIANU</strong></p><p>Program</p><p><strong>Carmen Petra-Basacopol<br /></strong>Concertul pentru pian \u0219i orchestr\u0103</p><p><strong>C&eacute;sar Franck<br /></strong>Varia\u021biuni simfonice pentru pian \u0219i orchestr\u0103, M. 46</p><p><strong>Manuel de Falla<br /></strong>Tricornul</p><p><strong>Jos&eacute; Pablo Moncayo<br /></strong>Huapango</p>"
         },
         "tagset": {
           "tags": {
@@ -3281,7 +3094,7 @@
         ]
       },
       "sorter": "999_01BBEDA0_0901_01BBEDA0-1-01BBEE18_748-01BBEDA0-0-0",
-      "dtstamp": 1734198898845,
+      "dtstamp": 1739799722781,
       "status": {
         "name": "scheduled"
       },
@@ -3894,6 +3707,87 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
+        "uid": "871",
+        "seq": 0,
+        "tid": 1747490400000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1747490400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EEST",
+          "offset": 10800000
+        },
+        "end": {
+          "millis": 1747497600000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EEST",
+          "offset": 10800000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Salonul Baroc - Povestea Indiilor Galante (Salonul oficial)"
+        },
+        "description": {
+          "text": "<p></p><p><strong></strong><tkfmedia data-tkf-mediatype=\"image\" data-tkf-id=\"67ab350cd7866e52b3d003ad\" data-tkf-style=\"align:left;width:333px;height:112px\"></tkfmedia></p><p><strong></strong></p><p><strong></strong></p><p><strong></strong></p><p><strong>Povestea Indiilor Galante</strong></p><p><strong>CRISTINA VASILACHE</strong> - sopran\u0103 <br /><strong>RALUCA ENEA</strong> - clavecin</p><p>Program</p><p><strong>Jean Philippe Rameau</strong> (1683-1764)</p><p>Din colec\u0163ia Pi&egrave;ces de Clavecin &ndash; Edition int&eacute;grale &ndash; Les Indes Galantes &ndash; Balet, reduit a quatre grands concerts (1735/36): Premier Concert: <br />Ouverture &ndash; Entr&eacute;e (des quatre Nations dans la Cour d&rsquo;H&eacute;b&eacute;) &ndash; Vous qui d&rsquo;H&eacute;b&eacute; suivez les lois &ndash; Air vif &ndash; Air Polonois &ndash; Musette en Rondeau &ndash; Musettes, r&eacute;sonnez &ndash; Musette en Rondeau &ndash; 1er Menuet &ndash; 2e Menuet &ndash; 1er Menuet &ndash; Air Gratieux pour les Amours &ndash; Air vif</p><p>Din colec\u0163ia Pi&egrave;ces de Clavecin &ndash; Edition int&eacute;grale &ndash; Les Indes Galantes &ndash; Balet, reduit a quatre grands concerts (1735/36): 2e Concert: <br />1er Air des Fleurs - Air tendre pour la Rose - Gavotte vive pour les Fleurs -L&rsquo;aimable aurore - Gavotte pour les Fleurs - Air Italien</p><p>Din &rdquo;Les Indes Galantes &ndash; Ballet reduit &agrave; quatre grands concerts&rdquo; (1736): 3e Concert: Air pour les esclaves africains</p><p>Din Nouvelles Suites de Pi&egrave;ces de clavecin (1728): Les Sauvages</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_67ab3711d7866e52b3d0050c",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/salonul-baroc-povestea-indiilor-galante-salonul-oficial-x3G2eEz0?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "67ab3711d7866e52b3d0050c",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "67ab3711d7866e52b3d0050c",
+            "name": "Untitled-2",
+            "altText": "Untitled-2",
+            "width": 906,
+            "height": 909,
+            "size": 75291,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_67ab3711d7866e52b3d0050c",
+            "tags": []
+          },
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "67ab350cd7866e52b3d003ad",
+            "name": "Logo Salon Baroc 6",
+            "altText": "Logo Salon Baroc 6",
+            "width": 1181,
+            "height": 394,
+            "size": 31833,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_67ab350cd7866e52b3d003ad",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BC68E8_0901_01BC68E8-1-01BC6960_871-01BC68E8-0-0",
+      "dtstamp": 1739302124280,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
         "uid": "755",
         "seq": 0,
         "tid": 1747929600000,
@@ -4354,6 +4248,87 @@
       },
       "sorter": "999_01BCD9E0_0901_01BCD9E0-1-01BCDA58_760-01BCD9E0-0-0",
       "dtstamp": 1737548346206,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "872",
+        "seq": 0,
+        "tid": 1749304800000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1749304800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EEST",
+          "offset": 10800000
+        },
+        "end": {
+          "millis": 1749312000000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EEST",
+          "offset": 10800000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Salonul Baroc - 1685: Bach vs. \u00a0H\u00e4ndel (Salonul Oficial)"
+        },
+        "description": {
+          "text": "<p></p><p><tkfmedia data-tkf-mediatype=\"image\" data-tkf-id=\"67ab350cd7866e52b3d003ad\" data-tkf-style=\"align:left;width:327px;height:110px\"></tkfmedia></p><p></p><p></p><p><strong></strong></p><p><strong>1685: Bach vs. H&auml;ndel </strong></p><p><strong>RAFAEL BUTARU</strong> - vioar\u0103 <br /><strong>RALUCA ENEA</strong> - clavecin</p><p>Program:</p><p><strong>Johann Sebastian Bach</strong> (1685 &ndash; 1750) <br />Sonata &icirc;n do minor, BWV 1017, pentru vioar\u0103 \u0219i clavecin obligat:<br />Largo &ndash; Allegro &ndash; Adagio &ndash; Allegro</p><p><strong>Georg Friedrich H&auml;ndel</strong> (1685 - 1759) <br />Din Suita nr. 7 &icirc;n sol minor, HWV 432: Sarabande &ndash; Gigue &ndash; Passacaille</p><p><strong>Johann Sebastian Bach</strong> (1685 - 1750): <br />Chaconne din Partita BWV 1004, &icirc;n re minor pentru vioar\u0103 solo</p><p><strong>Georg Friedrich H&auml;ndel</strong> (1685 - 1759) <br />Sonata &icirc;n fa major &ndash; vioar\u0103 \u0219i basso continuo - HWV 370: <br />Adagio &ndash; Allegro &ndash; Largo &ndash; Allegro</p><p><strong>Johann Sebastian Bach</strong> (1685 &ndash; 1750) <br />Sonata &icirc;n sol major, BWV 1019, pentru vioar\u0103 \u0219i clavecin obligat: <br />Allegro &ndash; Largo &ndash; Allegro (Cembalo solo) &ndash; Adagio &ndash; Allegro</p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_67ab39c0d7866e52b3d005c1",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/salonul-baroc-1685-bach-vs-handel-salonul-oficial-YnWm59zp?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "67ab39c0d7866e52b3d005c1",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "67ab39c0d7866e52b3d005c1",
+            "name": "Untitled-3",
+            "altText": "Untitled-3",
+            "width": 906,
+            "height": 909,
+            "size": 83474,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_67ab39c0d7866e52b3d005c1",
+            "tags": []
+          },
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "67ab350cd7866e52b3d003ad",
+            "name": "Logo Salon Baroc 6",
+            "altText": "Logo Salon Baroc 6",
+            "width": 1181,
+            "height": 394,
+            "size": 31833,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_67ab350cd7866e52b3d003ad",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BCDF08_0901_01BCDF08-1-01BCDF80_872-01BCDF08-0-0",
+      "dtstamp": 1739302353233,
       "status": {
         "name": "scheduled"
       },
