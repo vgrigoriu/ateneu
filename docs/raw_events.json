@@ -3,207 +3,6 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
-        "uid": "835",
-        "seq": 0,
-        "tid": 1739811600000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1739811600000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1739817000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "RUXANDRA DONOSE, SERGIU TUHU\u021aIU"
-        },
-        "description": {
-          "text": "<p><strong>Melodie, Dor, Magie</strong></p><p>Program</p><p><strong>Georg Friedrich H&auml;ndel<br /></strong>Lascia ch'io pianga</p><p><strong>Franz Schubert<br /></strong>St&auml;ndchen</p><p><strong>Tiberiu Brediceanu<br /></strong>Bade, pentru ochii t\u0103i</p><p><strong>Gabriel Faur&eacute;<br /></strong>Les Berceaux</p><p><strong>Gioachino Rossini<br /></strong>Canzonetta spagnuola</p><p><strong>Vincenzo Bellini<br /></strong>Vaga Luna</p><p><strong>Doina Badea<br /></strong>C&acirc;nd eram copii odat\u0103</p><p><strong>Victor Herbert<br /></strong>Art Is Calling for Me</p><p><strong>Jean-Jacques Goldman/ C&eacute;line Dion<br /></strong>S'il suffisait d'aimer</p><p><strong>Serge Lama/ Alice Dona<br /></strong>Je suis malade</p><p><strong>Andrew Lloyd Webber<br /></strong>Memory</p><p><strong>Georges Bizet<br /></strong>Habanera</p><p><strong>Florin Bogardo<br /></strong>Tu e\u0219ti prim\u0103vara mea</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_677e5141c1c9522556cc78c9",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/ruxandra-donose-si-sergiu-tuhutiu-m7eDO8nx?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "677e5141c1c9522556cc78c9",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "677e5141c1c9522556cc78c9",
-            "name": "Turneu-Ruxandra-Donose_Ateneu_A1",
-            "altText": "Turneu-Ruxandra-Donose_Ateneu_A1",
-            "width": 1200,
-            "height": 1699,
-            "size": 361598,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_677e5141c1c9522556cc78c9",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01BA74FC_0901_01BA74FC-1-01BA7556_835-01BA74FC-0-0",
-      "dtstamp": 1737976065623,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "825",
-        "seq": 0,
-        "tid": 1739898000000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1739898000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1739905200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Recital de pian"
-        },
-        "description": {
-          "text": "<p><strong>ANDREI VIERU</strong></p><p>Program</p><p><strong>Wolfgang Amadeus Mozart</strong> <br />Adagio &icirc;n si minor, KV 540</p><p><strong>Ludwig van Beethoven</strong><br />Varia\u021biuni pe o tem\u0103 de Diabelli, op. 120</p><p><em>&Icirc;n colaborare cu UCIMR</em></p><p><em>Dup\u0103 recital, pianistul va acorda o sesiune de autografe.</em></p><p></p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_6788e09617f2920873d36655",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/recital-de-pian-YnWmbqzp?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "6788e09617f2920873d36655",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "6788e09617f2920873d36655",
-            "name": "Andrei Vieru_Tudor Jebeleanu",
-            "altText": "Andrei Vieru_Tudor Jebeleanu",
-            "width": 1444,
-            "height": 2048,
-            "size": 315613,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_6788e09617f2920873d36655",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01BA7A9C_0901_01BA7A9C-1-01BA7B14_825-01BA7A9C-0-0",
-      "dtstamp": 1737627938451,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
-        "uid": "859",
-        "seq": 0,
-        "tid": 1739898000000,
-        "rid": 0
-      },
-      "when": {
-        "start": {
-          "millis": 1739898000000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "end": {
-          "millis": 1739905200000,
-          "tzid": "Europe/Bucharest",
-          "ltz": "EET",
-          "offset": 7200000
-        },
-        "allDay": false
-      },
-      "content": {
-        "summary": {
-          "text": "Stagiunea de mar\u0163i seara (Sala mic\u0103)"
-        },
-        "description": {
-          "text": "<p><strong>Recital de pian </strong></p><p><strong>XIAOWEN SHANG </strong></p><p>Program</p><p><strong>Fran&ccedil;ois Couperin<br /></strong>Suita Quartorzi&egrave;me Ordre, &icirc;n re major, din Troisi&egrave;me Livre de Pi&egrave;ces de Clavecin</p><p><strong>Oliver Messiaen / Peter Hill</strong> <br />La Fauvette Passerinette</p><p><strong>Maurice Ravel</strong> <br />Le Tombeau de Couperin</p>"
-        },
-        "tagset": {
-          "tags": {
-            "default": []
-          }
-        },
-        "imageId": "BWC_678f9fcc17f2920873d6ef9b",
-        "attachments": [],
-        "customButtonText": "Cumpara bilet",
-        "customButtonLink": "https://oveit.com/hub/event/stagiunea-de-marti-seara-sala-mica-G7dLbQ7E?language=ro",
-        "noDetail": false,
-        "version": 1,
-        "imageIdNg": "678f9fcc17f2920873d6ef9b",
-        "imageSets": [
-          {
-            "ownerId": "5ddd0580df82fe18b2f6af6e",
-            "ownerType": "user",
-            "id": "678f9fcc17f2920873d6ef9b",
-            "name": "IMGL6019 2",
-            "altText": "IMGL6019 2",
-            "width": 1764,
-            "height": 2048,
-            "size": 198499,
-            "masterFormat": "jpg",
-            "variantFormat": "jpg",
-            "oldId": "BWC_678f9fcc17f2920873d6ef9b",
-            "tags": []
-          }
-        ]
-      },
-      "sorter": "999_01BA7A9C_0901_01BA7A9C-1-01BA7B14_859-01BA7A9C-0-0",
-      "dtstamp": 1737480365168,
-      "status": {
-        "name": "scheduled"
-      },
-      "kind": "singleton",
-      "isExternal": false
-    },
-    {
-      "calid": "5ddd069edf82fe18b2f6b564",
-      "eid": {
         "uid": "729",
         "seq": 0,
         "tid": 1740070800000,
@@ -1147,6 +946,73 @@
     {
       "calid": "5ddd069edf82fe18b2f6b564",
       "eid": {
+        "uid": "875",
+        "seq": 0,
+        "tid": 1741453200000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1741453200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "end": {
+          "millis": 1741453200000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EET",
+          "offset": 7200000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Concert aniversar - Corul Symbol-Jean Lupu"
+        },
+        "description": {
+          "text": "<p><tkfmedia data-tkf-mediatype=\"image\" data-tkf-id=\"66fd1b7d205890162e5fa2cf\" data-tkf-style=\"align:left;width:256px\" data-tkf-featured=\"true\"></tkfmedia></p><p><strong>Concert aniversar</strong></p><p><strong>Corul de Copii \u015fi Tineret &quot;Symbol - Jean Lupu&quot; - 35 de ani</strong></p><p><strong>Prof. Jean Lupu, fondator - 85 de ani</strong></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66fd1b7d205890162e5fa2cf",
+        "attachments": [],
+        "customButtonText": "Cumpara bilet",
+        "customButtonLink": "https://oveit.com/hub/event/concert-aniversar-corul-symboljean-lupu-jz6VqLzw?language=ro",
+        "noDetail": false,
+        "version": 1,
+        "imageIdNg": "66fd1b7d205890162e5fa2cf",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66fd1b7d205890162e5fa2cf",
+            "name": "IMAG4127",
+            "altText": "IMAG4127",
+            "width": 4000,
+            "height": 3000,
+            "size": 1199005,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66fd1b7d205890162e5fa2cf",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BADFDC_0901_01BADFDC-1-01BADFDC_875-01BADFDC-0-0",
+      "dtstamp": 1739878587343,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
         "uid": "869",
         "seq": 0,
         "tid": 1741539600000,
@@ -2043,7 +1909,7 @@
           "text": "Muzica pe \u00cen\u021belesul Tuturor - Secretele cvartetului de coarde I. Clasicismul"
         },
         "description": {
-          "text": "<p><strong>RAFAEL BUTARU </strong>- vioara I</p><p><strong>MIRCEA LAZ\u0102R - </strong>vioara a II-a</p><p><strong>IULIA GOIAN\u0102 </strong>- viol\u0103</p><p><strong>CONSTANTIN BORODIN </strong>- violoncel</p><p>Comentariu<strong><br />MIHAI COJOCARU</strong></p><p>Program</p><p><strong>Joseph Haydn</strong><br />Cvartetul &rdquo;Pas\u0103rea&rdquo;, &icirc;n do major, op. 33, nr. 3, , partea I</p><p><strong>Wolfgang Amadeus Mozart<br /></strong>Cvartetul &rdquo;disonan\u021belor&rdquo;, &icirc;n do major, KV 465, partea I \u0219i III</p><p><strong>Joseph Haydn</strong><br />Cvartetul &rdquo;cvintelor&rdquo;, &icirc;n re minor, op. 76, nr. 2, partea III \u0219i IV</p><p><strong>Ludwig van Beethoven</strong><br />Cvartetul &rdquo;Razumovski&rdquo;, &icirc;n fa major, op. 59, nr. 1, partea III \u0219i IV</p>"
+          "text": "<p><strong>RAFAEL BUTARU </strong>- vioara I</p><p><strong>TIBERIU BRANGA - </strong>vioara a II-a</p><p><strong>IULIA GOIAN\u0102 </strong>- viol\u0103</p><p><strong>CONSTANTIN BORODIN </strong>- violoncel</p><p>Comentariu<strong><br />MIHAI COJOCARU</strong></p><p>Program</p><p><strong>Joseph Haydn</strong><br />Cvartetul &rdquo;Pas\u0103rea&rdquo;, &icirc;n do major, op. 33, nr. 3, , partea I</p><p><strong>Wolfgang Amadeus Mozart<br /></strong>Cvartetul &rdquo;disonan\u021belor&rdquo;, &icirc;n do major, KV 465, partea I \u0219i III</p><p><strong>Joseph Haydn</strong><br />Cvartetul &rdquo;cvintelor&rdquo;, &icirc;n re minor, op. 76, nr. 2, partea III \u0219i IV</p><p><strong>Ludwig van Beethoven</strong><br />Cvartetul &rdquo;Razumovski&rdquo;, &icirc;n fa major, op. 59, nr. 1, partea III \u0219i IV</p>"
         },
         "tagset": {
           "tags": {
@@ -2075,7 +1941,7 @@
         ]
       },
       "sorter": "999_01BB325C_0901_01BB325C-1-01BB32D4_867-01BB325C-0-0",
-      "dtstamp": 1738939170593,
+      "dtstamp": 1739877363098,
       "status": {
         "name": "scheduled"
       },
@@ -2827,6 +2693,71 @@
       },
       "sorter": "999_01BBA408_0901_01BBA408-1-01BBA480_870-01BBA408-0-0",
       "dtstamp": 1739301800680,
+      "status": {
+        "name": "scheduled"
+      },
+      "kind": "singleton",
+      "isExternal": false
+    },
+    {
+      "calid": "5ddd069edf82fe18b2f6b564",
+      "eid": {
+        "uid": "876",
+        "seq": 0,
+        "tid": 1744732800000,
+        "rid": 0
+      },
+      "when": {
+        "start": {
+          "millis": 1744732800000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EEST",
+          "offset": 10800000
+        },
+        "end": {
+          "millis": 1744736400000,
+          "tzid": "Europe/Bucharest",
+          "ltz": "EEST",
+          "offset": 10800000
+        },
+        "allDay": false
+      },
+      "content": {
+        "summary": {
+          "text": "Stagiunea de mar\u021bi seara"
+        },
+        "description": {
+          "text": "<p><strong>Recital de pian</strong></p><p><strong>KEVIN TAN</strong></p><p>Program</p><p style=\"font-weight: 400;\"><strong><span>Ludwig van Beethoven<br /></span></strong><span>Sonata nr. 21, &icirc;n do major, &bdquo;Waldstein&rdquo;, op. 53</span></p><p style=\"font-weight: 400;\"><strong><span>Robert Schumann<br /></span></strong><span>Varia\u021biunile Abegg, op. 1 </span></p><p style=\"font-weight: 400;\"><strong><span>Fr&eacute;d&eacute;ric Chopin</span></strong><span> <br /></span><span>Poloneza &icirc;n do-diez minor, op. 26, nr. 1 <br /></span><span>Balada nr. 3, &icirc;n la bemol major, op. 47 <br /></span><span>Scherzo nr. 2, &icirc;n si bemol minor, op. 31 </span></p><p style=\"font-weight: 400;\"><span>Coproduc\u0103tor: Radio Rom&acirc;nia Muzical</span></p>"
+        },
+        "tagset": {
+          "tags": {
+            "default": []
+          }
+        },
+        "imageId": "BWC_66fd1544205890162e5fa1db",
+        "attachments": [],
+        "noDetail": false,
+        "version": 2,
+        "imageIdNg": "66fd1544205890162e5fa1db",
+        "imageSets": [
+          {
+            "ownerId": "5ddd0580df82fe18b2f6af6e",
+            "ownerType": "user",
+            "id": "66fd1544205890162e5fa1db",
+            "name": "IMAG4122 (1)",
+            "altText": "IMAG4122 (1)",
+            "width": 3000,
+            "height": 4000,
+            "size": 1135341,
+            "masterFormat": "jpg",
+            "variantFormat": "jpg",
+            "oldId": "BWC_66fd1544205890162e5fa1db",
+            "tags": []
+          }
+        ]
+      },
+      "sorter": "999_01BBB560_0901_01BBB560-1-01BBB59C_876-01BBB560-0-0",
+      "dtstamp": 1739883399286,
       "status": {
         "name": "scheduled"
       },
